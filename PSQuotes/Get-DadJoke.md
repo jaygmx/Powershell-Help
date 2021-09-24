@@ -1,0 +1,59 @@
+---
+external help file: PSQuotes-help.xml
+Module Name: PSQuotes
+online version:
+schema: 2.0.0
+---
+
+# Get-DadJoke
+
+## SYNOPSIS
+Random Dad joke
+
+## SYNTAX
+
+```
+Get-DadJoke
+```
+
+## DESCRIPTION
+{{ Fill in the Description }}
+
+## EXAMPLES
+
+### Example 1
+```powershell
+PS C:\> {{ Add example code here }}
+```
+
+{{ Add example description here }}
+
+## PARAMETERS
+
+## INPUTS
+
+## OUTPUTS
+
+## NOTES
+??? 
+Author:????????????
+Martin Pugh
+??? 
+Twitter:???????????
+@thesurlyadm1n
+??? 
+Spiceworks:????????
+Martin9700
+??? 
+Blog:??????????????
+www.thesurlyadmin.com
+
+??? 
+Changelog:
+?
+? ?
+?     2/11/21  ?
+? ??
+Initial Release to PowerShellGallery
+
+## RELATED LINKS
