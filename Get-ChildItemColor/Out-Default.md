@@ -8,7 +8,7 @@ schema: 2.0.0
 # Out-Default
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -17,21 +17,21 @@ Out-Default [-Transcript] [-InputObject <PSObject>] [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -InputObject
-{{ Fill InputObject Description }}
+
 
 ```yaml
 Type: System.Management.Automation.PSObject
@@ -46,7 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -Transcript
-{{ Fill Transcript Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter

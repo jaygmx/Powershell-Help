@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-HTMLNav
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -21,21 +21,21 @@ New-HTMLNav [[-NavigationLinks] <ScriptBlock>] [[-Logo] <String>] [[-LogoLink] <
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -DisableBackgroundFading
-{{ Fill DisableBackgroundFading Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -50,7 +50,7 @@ Accept wildcard characters: False
 ```
 
 ### -DisableClickToClose
-{{ Fill DisableClickToClose Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -65,7 +65,7 @@ Accept wildcard characters: False
 ```
 
 ### -DisableHamburger
-{{ Fill DisableHamburger Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -80,7 +80,7 @@ Accept wildcard characters: False
 ```
 
 ### -DisableNavControls
-{{ Fill DisableNavControls Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -95,7 +95,7 @@ Accept wildcard characters: False
 ```
 
 ### -DisableStickyMenubar
-{{ Fill DisableStickyMenubar Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -110,7 +110,7 @@ Accept wildcard characters: False
 ```
 
 ### -FixedMenu
-{{ Fill FixedMenu Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -125,7 +125,7 @@ Accept wildcard characters: False
 ```
 
 ### -LeftMenuBackgroundColor
-{{ Fill LeftMenuBackgroundColor Description }}
+
 
 ```yaml
 Type: System.String
@@ -140,7 +140,7 @@ Accept wildcard characters: False
 ```
 
 ### -LeftMenuColor
-{{ Fill LeftMenuColor Description }}
+
 
 ```yaml
 Type: System.String
@@ -155,7 +155,7 @@ Accept wildcard characters: False
 ```
 
 ### -Logo
-{{ Fill Logo Description }}
+
 
 ```yaml
 Type: System.String
@@ -170,7 +170,7 @@ Accept wildcard characters: False
 ```
 
 ### -LogoLink
-{{ Fill LogoLink Description }}
+
 
 ```yaml
 Type: System.String
@@ -185,7 +185,7 @@ Accept wildcard characters: False
 ```
 
 ### -LogoLinkHome
-{{ Fill LogoLinkHome Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -200,7 +200,7 @@ Accept wildcard characters: False
 ```
 
 ### -MenuWidth
-{{ Fill MenuWidth Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -215,7 +215,7 @@ Accept wildcard characters: False
 ```
 
 ### -MenuWidthExtended
-{{ Fill MenuWidthExtended Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -230,7 +230,7 @@ Accept wildcard characters: False
 ```
 
 ### -NavigationLinks
-{{ Fill NavigationLinks Description }}
+
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock
@@ -245,7 +245,7 @@ Accept wildcard characters: False
 ```
 
 ### -ResizeContent
-{{ Fill ResizeContent Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -260,7 +260,7 @@ Accept wildcard characters: False
 ```
 
 ### -StartMenuOpen
-{{ Fill StartMenuOpen Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -275,7 +275,7 @@ Accept wildcard characters: False
 ```
 
 ### -TopBarBackGroundColor
-{{ Fill TopBarBackGroundColor Description }}
+
 
 ```yaml
 Type: System.String
@@ -290,7 +290,7 @@ Accept wildcard characters: False
 ```
 
 ### -TopBarColor
-{{ Fill TopBarColor Description }}
+
 
 ```yaml
 Type: System.String

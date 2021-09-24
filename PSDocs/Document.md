@@ -8,7 +8,7 @@ schema: 2.0.0
 # Document
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -18,21 +18,21 @@ Document [-Name] <String> [-Tag <String[]>] [-Body] <ScriptBlock> [-If <ScriptBl
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Body
-{{ Fill Body Description }}
+
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock
@@ -47,7 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -If
-{{ Fill If Description }}
+
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock
@@ -62,7 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
-{{ Fill Name Description }}
+
 
 ```yaml
 Type: System.String
@@ -77,7 +77,7 @@ Accept wildcard characters: False
 ```
 
 ### -Tag
-{{ Fill Tag Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -92,7 +92,7 @@ Accept wildcard characters: False
 ```
 
 ### -With
-{{ Fill With Description }}
+
 
 ```yaml
 Type: System.String[]

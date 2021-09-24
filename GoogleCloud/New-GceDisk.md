@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-GceDisk
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -31,21 +31,21 @@ New-GceDisk [-Project <String>] [-Zone <String>] [-DiskName] <String> [-Descript
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Description
-{{ Fill Description Description }}
+
 
 ```yaml
 Type: System.String
@@ -60,7 +60,7 @@ Accept wildcard characters: False
 ```
 
 ### -DiskName
-{{ Fill DiskName Description }}
+
 
 ```yaml
 Type: System.String
@@ -75,7 +75,7 @@ Accept wildcard characters: False
 ```
 
 ### -DiskType
-{{ Fill DiskType Description }}
+
 
 ```yaml
 Type: System.String
@@ -91,7 +91,7 @@ Accept wildcard characters: False
 ```
 
 ### -Image
-{{ Fill Image Description }}
+
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.Image
@@ -106,7 +106,7 @@ Accept wildcard characters: False
 ```
 
 ### -Label
-{{ Fill Label Description }}
+
 
 ```yaml
 Type: System.Collections.Hashtable
@@ -121,7 +121,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String
@@ -136,7 +136,7 @@ Accept wildcard characters: False
 ```
 
 ### -SizeGb
-{{ Fill SizeGb Description }}
+
 
 ```yaml
 Type: System.Nullable`1[System.Int64]
@@ -151,7 +151,7 @@ Accept wildcard characters: False
 ```
 
 ### -Snapshot
-{{ Fill Snapshot Description }}
+
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.Snapshot
@@ -166,7 +166,7 @@ Accept wildcard characters: False
 ```
 
 ### -Zone
-{{ Fill Zone Description }}
+
 
 ```yaml
 Type: System.String

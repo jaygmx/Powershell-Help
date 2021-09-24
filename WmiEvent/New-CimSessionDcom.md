@@ -21,15 +21,15 @@ New-CimSessionDcom [-ComputerName <String[]>] [-Credential <PSCredential>] [<Com
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -ComputerName
-{{ Fill ComputerName Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -44,7 +44,7 @@ Accept wildcard characters: False
 ```
 
 ### -Credential
-{{ Fill Credential Description }}
+
 
 ```yaml
 Type: System.Management.Automation.PSCredential

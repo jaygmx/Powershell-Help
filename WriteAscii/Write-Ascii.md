@@ -50,15 +50,15 @@ PS C:\\\>
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -InputObject
-{{ Fill InputObject Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -89,7 +89,7 @@ Accept wildcard characters: False
 ```
 
 ### -Compress
-{{ Fill Compress Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter

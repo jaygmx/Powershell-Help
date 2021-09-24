@@ -183,7 +183,7 @@ Accept wildcard characters: False
 ```
 
 ### -ChartTrendLine
-{{ Fill ChartTrendLine Description }}
+
 
 ```yaml
 Type: OfficeOpenXml.Drawing.Chart.eTrendLine[]

@@ -8,7 +8,7 @@ schema: 2.0.0
 # Get-GcdChange
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -17,21 +17,21 @@ Get-GcdChange [-Project <String>] [-Zone] <String> [[-ChangeId] <String>] [<Comm
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -ChangeId
-{{ Fill ChangeId Description }}
+
 
 ```yaml
 Type: System.String
@@ -46,7 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String
@@ -61,7 +61,7 @@ Accept wildcard characters: False
 ```
 
 ### -Zone
-{{ Fill Zone Description }}
+
 
 ```yaml
 Type: System.String

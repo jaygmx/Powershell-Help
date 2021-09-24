@@ -8,7 +8,7 @@ schema: 2.0.0
 # Set-BqSchema
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -17,21 +17,21 @@ Set-BqSchema -InputObject <TableFieldSchema> [[-Table] <Table>] [<CommonParamete
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -InputObject
-{{ Fill InputObject Description }}
+
 
 ```yaml
 Type: Google.Apis.Bigquery.v2.Data.TableFieldSchema
@@ -46,7 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -Table
-{{ Fill Table Description }}
+
 
 ```yaml
 Type: Google.Apis.Bigquery.v2.Data.Table

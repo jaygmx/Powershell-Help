@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-GceAttachedDiskConfig
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -25,21 +25,21 @@ New-GceAttachedDiskConfig [[-SourceImage] <Image>] [-Name <String>] [-DiskType <
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -AutoDelete
-{{ Fill AutoDelete Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -54,7 +54,7 @@ Accept wildcard characters: False
 ```
 
 ### -Boot
-{{ Fill Boot Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -69,7 +69,7 @@ Accept wildcard characters: False
 ```
 
 ### -DeviceName
-{{ Fill DeviceName Description }}
+
 
 ```yaml
 Type: System.String
@@ -84,7 +84,7 @@ Accept wildcard characters: False
 ```
 
 ### -DiskType
-{{ Fill DiskType Description }}
+
 
 ```yaml
 Type: System.String
@@ -99,7 +99,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
-{{ Fill Name Description }}
+
 
 ```yaml
 Type: System.String
@@ -114,7 +114,7 @@ Accept wildcard characters: False
 ```
 
 ### -Nvme
-{{ Fill Nvme Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -129,7 +129,7 @@ Accept wildcard characters: False
 ```
 
 ### -ReadOnly
-{{ Fill ReadOnly Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -144,7 +144,7 @@ Accept wildcard characters: False
 ```
 
 ### -Size
-{{ Fill Size Description }}
+
 
 ```yaml
 Type: System.Nullable`1[System.Int64]
@@ -159,7 +159,7 @@ Accept wildcard characters: False
 ```
 
 ### -Source
-{{ Fill Source Description }}
+
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.Disk
@@ -174,7 +174,7 @@ Accept wildcard characters: False
 ```
 
 ### -SourceImage
-{{ Fill SourceImage Description }}
+
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.Image

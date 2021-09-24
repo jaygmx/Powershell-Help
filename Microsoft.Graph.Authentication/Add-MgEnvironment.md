@@ -8,7 +8,7 @@ schema: 2.0.0
 # Add-MgEnvironment
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -18,16 +18,16 @@ Add-MgEnvironment [-Name] <String> [-AzureADEndpoint] <String> [-GraphEndpoint] 
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

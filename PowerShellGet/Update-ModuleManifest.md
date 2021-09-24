@@ -8,7 +8,7 @@ schema: 2.0.0
 # Update-ModuleManifest
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -28,21 +28,21 @@ Update-ModuleManifest [-Path] <String> [-NestedModules <Object[]>] [-Guid <Guid>
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -AliasesToExport
-{{ Fill AliasesToExport Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -57,7 +57,7 @@ Accept wildcard characters: False
 ```
 
 ### -Author
-{{ Fill Author Description }}
+
 
 ```yaml
 Type: System.String
@@ -72,7 +72,7 @@ Accept wildcard characters: False
 ```
 
 ### -ClrVersion
-{{ Fill ClrVersion Description }}
+
 
 ```yaml
 Type: System.Version
@@ -87,7 +87,7 @@ Accept wildcard characters: False
 ```
 
 ### -CmdletsToExport
-{{ Fill CmdletsToExport Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -102,7 +102,7 @@ Accept wildcard characters: False
 ```
 
 ### -CompanyName
-{{ Fill CompanyName Description }}
+
 
 ```yaml
 Type: System.String
@@ -117,7 +117,7 @@ Accept wildcard characters: False
 ```
 
 ### -CompatiblePSEditions
-{{ Fill CompatiblePSEditions Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -148,7 +148,7 @@ Accept wildcard characters: False
 ```
 
 ### -Copyright
-{{ Fill Copyright Description }}
+
 
 ```yaml
 Type: System.String
@@ -163,7 +163,7 @@ Accept wildcard characters: False
 ```
 
 ### -DefaultCommandPrefix
-{{ Fill DefaultCommandPrefix Description }}
+
 
 ```yaml
 Type: System.String
@@ -178,7 +178,7 @@ Accept wildcard characters: False
 ```
 
 ### -Description
-{{ Fill Description Description }}
+
 
 ```yaml
 Type: System.String
@@ -193,7 +193,7 @@ Accept wildcard characters: False
 ```
 
 ### -DotNetFrameworkVersion
-{{ Fill DotNetFrameworkVersion Description }}
+
 
 ```yaml
 Type: System.Version
@@ -208,7 +208,7 @@ Accept wildcard characters: False
 ```
 
 ### -DscResourcesToExport
-{{ Fill DscResourcesToExport Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -223,7 +223,7 @@ Accept wildcard characters: False
 ```
 
 ### -ExternalModuleDependencies
-{{ Fill ExternalModuleDependencies Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -238,7 +238,7 @@ Accept wildcard characters: False
 ```
 
 ### -FileList
-{{ Fill FileList Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -253,7 +253,7 @@ Accept wildcard characters: False
 ```
 
 ### -FormatsToProcess
-{{ Fill FormatsToProcess Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -268,7 +268,7 @@ Accept wildcard characters: False
 ```
 
 ### -FunctionsToExport
-{{ Fill FunctionsToExport Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -283,7 +283,7 @@ Accept wildcard characters: False
 ```
 
 ### -Guid
-{{ Fill Guid Description }}
+
 
 ```yaml
 Type: System.Guid
@@ -298,7 +298,7 @@ Accept wildcard characters: False
 ```
 
 ### -HelpInfoUri
-{{ Fill HelpInfoUri Description }}
+
 
 ```yaml
 Type: System.Uri
@@ -313,7 +313,7 @@ Accept wildcard characters: False
 ```
 
 ### -IconUri
-{{ Fill IconUri Description }}
+
 
 ```yaml
 Type: System.Uri
@@ -328,7 +328,7 @@ Accept wildcard characters: False
 ```
 
 ### -LicenseUri
-{{ Fill LicenseUri Description }}
+
 
 ```yaml
 Type: System.Uri
@@ -343,7 +343,7 @@ Accept wildcard characters: False
 ```
 
 ### -ModuleList
-{{ Fill ModuleList Description }}
+
 
 ```yaml
 Type: System.Object[]
@@ -358,7 +358,7 @@ Accept wildcard characters: False
 ```
 
 ### -ModuleVersion
-{{ Fill ModuleVersion Description }}
+
 
 ```yaml
 Type: System.Version
@@ -373,7 +373,7 @@ Accept wildcard characters: False
 ```
 
 ### -NestedModules
-{{ Fill NestedModules Description }}
+
 
 ```yaml
 Type: System.Object[]
@@ -388,7 +388,7 @@ Accept wildcard characters: False
 ```
 
 ### -PackageManagementProviders
-{{ Fill PackageManagementProviders Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -403,7 +403,7 @@ Accept wildcard characters: False
 ```
 
 ### -PassThru
-{{ Fill PassThru Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -418,7 +418,7 @@ Accept wildcard characters: False
 ```
 
 ### -Path
-{{ Fill Path Description }}
+
 
 ```yaml
 Type: System.String
@@ -433,7 +433,7 @@ Accept wildcard characters: False
 ```
 
 ### -PowerShellHostName
-{{ Fill PowerShellHostName Description }}
+
 
 ```yaml
 Type: System.String
@@ -448,7 +448,7 @@ Accept wildcard characters: False
 ```
 
 ### -PowerShellHostVersion
-{{ Fill PowerShellHostVersion Description }}
+
 
 ```yaml
 Type: System.Version
@@ -463,7 +463,7 @@ Accept wildcard characters: False
 ```
 
 ### -PowerShellVersion
-{{ Fill PowerShellVersion Description }}
+
 
 ```yaml
 Type: System.Version
@@ -478,7 +478,7 @@ Accept wildcard characters: False
 ```
 
 ### -Prerelease
-{{ Fill Prerelease Description }}
+
 
 ```yaml
 Type: System.String
@@ -493,7 +493,7 @@ Accept wildcard characters: False
 ```
 
 ### -PrivateData
-{{ Fill PrivateData Description }}
+
 
 ```yaml
 Type: System.Collections.Hashtable
@@ -508,7 +508,7 @@ Accept wildcard characters: False
 ```
 
 ### -ProcessorArchitecture
-{{ Fill ProcessorArchitecture Description }}
+
 
 ```yaml
 Type: System.Reflection.ProcessorArchitecture
@@ -524,7 +524,7 @@ Accept wildcard characters: False
 ```
 
 ### -ProjectUri
-{{ Fill ProjectUri Description }}
+
 
 ```yaml
 Type: System.Uri
@@ -539,7 +539,7 @@ Accept wildcard characters: False
 ```
 
 ### -ReleaseNotes
-{{ Fill ReleaseNotes Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -554,7 +554,7 @@ Accept wildcard characters: False
 ```
 
 ### -RequireLicenseAcceptance
-{{ Fill RequireLicenseAcceptance Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -569,7 +569,7 @@ Accept wildcard characters: False
 ```
 
 ### -RequiredAssemblies
-{{ Fill RequiredAssemblies Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -584,7 +584,7 @@ Accept wildcard characters: False
 ```
 
 ### -RequiredModules
-{{ Fill RequiredModules Description }}
+
 
 ```yaml
 Type: System.Object[]
@@ -599,7 +599,7 @@ Accept wildcard characters: False
 ```
 
 ### -RootModule
-{{ Fill RootModule Description }}
+
 
 ```yaml
 Type: System.String
@@ -614,7 +614,7 @@ Accept wildcard characters: False
 ```
 
 ### -ScriptsToProcess
-{{ Fill ScriptsToProcess Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -629,7 +629,7 @@ Accept wildcard characters: False
 ```
 
 ### -Tags
-{{ Fill Tags Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -644,7 +644,7 @@ Accept wildcard characters: False
 ```
 
 ### -TypesToProcess
-{{ Fill TypesToProcess Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -659,7 +659,7 @@ Accept wildcard characters: False
 ```
 
 ### -VariablesToExport
-{{ Fill VariablesToExport Description }}
+
 
 ```yaml
 Type: System.String[]

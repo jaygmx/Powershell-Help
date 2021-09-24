@@ -8,7 +8,7 @@ schema: 2.0.0
 # Out-ConsoleGridView
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -18,21 +18,21 @@ Out-ConsoleGridView [-InputObject <PSObject>] [-Title <String>] [-OutputMode <Ou
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Filter
-{{ Fill Filter Description }}
+
 
 ```yaml
 Type: System.String
@@ -47,7 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -InputObject
-{{ Fill InputObject Description }}
+
 
 ```yaml
 Type: System.Management.Automation.PSObject
@@ -62,7 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -OutputMode
-{{ Fill OutputMode Description }}
+
 
 ```yaml
 Type: OutGridView.Models.OutputModeOption
@@ -78,7 +78,7 @@ Accept wildcard characters: False
 ```
 
 ### -Title
-{{ Fill Title Description }}
+
 
 ```yaml
 Type: System.String

@@ -8,7 +8,7 @@ schema: 2.0.0
 # Set-TerminalIconsTheme
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -18,21 +18,21 @@ Set-TerminalIconsTheme [[-IconTheme] <String>] [[-ColorTheme] <String>] [-Force]
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -IconTheme
-{{ Fill IconTheme Description }}
+
 
 ```yaml
 Type: String
@@ -47,7 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -ColorTheme
-{{ Fill ColorTheme Description }}
+
 
 ```yaml
 Type: String

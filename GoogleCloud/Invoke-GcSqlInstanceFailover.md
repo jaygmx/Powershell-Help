@@ -8,7 +8,7 @@ schema: 2.0.0
 # Invoke-GcSqlInstanceFailover
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -24,21 +24,21 @@ Invoke-GcSqlInstanceFailover [-InstanceObject] <DatabaseInstance> [<CommonParame
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Instance
-{{ Fill Instance Description }}
+
 
 ```yaml
 Type: System.String
@@ -53,7 +53,7 @@ Accept wildcard characters: False
 ```
 
 ### -InstanceObject
-{{ Fill InstanceObject Description }}
+
 
 ```yaml
 Type: Google.Apis.SQLAdmin.v1beta4.Data.DatabaseInstance
@@ -68,7 +68,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String
@@ -83,7 +83,7 @@ Accept wildcard characters: False
 ```
 
 ### -SettingsVersion
-{{ Fill SettingsVersion Description }}
+
 
 ```yaml
 Type: System.Nullable`1[System.Int64]

@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-TableEvent
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -18,21 +18,21 @@ New-TableEvent [[-TableID] <String>] [[-SourceColumnName] <String>] [[-TargetCol
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -SourceColumnID
-{{ Fill SourceColumnID Description }}
+
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -47,7 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -SourceColumnName
-{{ Fill SourceColumnName Description }}
+
 
 ```yaml
 Type: System.String
@@ -62,7 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -TableID
-{{ Fill TableID Description }}
+
 
 ```yaml
 Type: System.String
@@ -77,7 +77,7 @@ Accept wildcard characters: False
 ```
 
 ### -TargetColumnID
-{{ Fill TargetColumnID Description }}
+
 
 ```yaml
 Type: System.Nullable`1[System.Int32]

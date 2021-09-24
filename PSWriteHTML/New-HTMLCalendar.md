@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-HTMLCalendar
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -20,21 +20,21 @@ New-HTMLCalendar [[-CalendarSettings] <ScriptBlock>] [[-HeaderLeft] <String[]>] 
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -BusinessHours
-{{ Fill BusinessHours Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -49,7 +49,7 @@ Accept wildcard characters: False
 ```
 
 ### -CalendarSettings
-{{ Fill CalendarSettings Description }}
+
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock
@@ -64,7 +64,7 @@ Accept wildcard characters: False
 ```
 
 ### -DefaultDate
-{{ Fill DefaultDate Description }}
+
 
 ```yaml
 Type: System.DateTime
@@ -79,7 +79,7 @@ Accept wildcard characters: False
 ```
 
 ### -Editable
-{{ Fill Editable Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -94,7 +94,7 @@ Accept wildcard characters: False
 ```
 
 ### -EventLimit
-{{ Fill EventLimit Description }}
+
 
 ```yaml
 Type: System.Boolean
@@ -109,7 +109,7 @@ Accept wildcard characters: False
 ```
 
 ### -HeaderCenter
-{{ Fill HeaderCenter Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -125,7 +125,7 @@ Accept wildcard characters: False
 ```
 
 ### -HeaderLeft
-{{ Fill HeaderLeft Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -141,7 +141,7 @@ Accept wildcard characters: False
 ```
 
 ### -HeaderRight
-{{ Fill HeaderRight Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -157,7 +157,7 @@ Accept wildcard characters: False
 ```
 
 ### -InitialView
-{{ Fill InitialView Description }}
+
 
 ```yaml
 Type: System.String
@@ -173,7 +173,7 @@ Accept wildcard characters: False
 ```
 
 ### -NavigationLinks
-{{ Fill NavigationLinks Description }}
+
 
 ```yaml
 Type: System.Boolean
@@ -188,7 +188,7 @@ Accept wildcard characters: False
 ```
 
 ### -NowIndicator
-{{ Fill NowIndicator Description }}
+
 
 ```yaml
 Type: System.Boolean
@@ -203,7 +203,7 @@ Accept wildcard characters: False
 ```
 
 ### -SelectMirror
-{{ Fill SelectMirror Description }}
+
 
 ```yaml
 Type: System.Boolean
@@ -218,7 +218,7 @@ Accept wildcard characters: False
 ```
 
 ### -Selectable
-{{ Fill Selectable Description }}
+
 
 ```yaml
 Type: System.Boolean
@@ -233,7 +233,7 @@ Accept wildcard characters: False
 ```
 
 ### -WeekNumbers
-{{ Fill WeekNumbers Description }}
+
 
 ```yaml
 Type: System.Boolean

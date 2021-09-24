@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-ChartBarOptions
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -19,21 +19,21 @@ New-ChartBarOptions [[-Type] <Object>] [[-DataLabelsEnabled] <Boolean>] [[-DataL
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -DataLabelsColor
-{{ Fill DataLabelsColor Description }}
+
 
 ```yaml
 Type: System.String
@@ -48,7 +48,7 @@ Accept wildcard characters: False
 ```
 
 ### -DataLabelsEnabled
-{{ Fill DataLabelsEnabled Description }}
+
 
 ```yaml
 Type: System.Boolean
@@ -63,7 +63,7 @@ Accept wildcard characters: False
 ```
 
 ### -DataLabelsFontSize
-{{ Fill DataLabelsFontSize Description }}
+
 
 ```yaml
 Type: System.String
@@ -78,7 +78,7 @@ Accept wildcard characters: False
 ```
 
 ### -DataLabelsOffsetX
-{{ Fill DataLabelsOffsetX Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -93,7 +93,7 @@ Accept wildcard characters: False
 ```
 
 ### -Distributed
-{{ Fill Distributed Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -108,7 +108,7 @@ Accept wildcard characters: False
 ```
 
 ### -Gradient
-{{ Fill Gradient Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -123,7 +123,7 @@ Accept wildcard characters: False
 ```
 
 ### -Patterned
-{{ Fill Patterned Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -138,7 +138,7 @@ Accept wildcard characters: False
 ```
 
 ### -Type
-{{ Fill Type Description }}
+
 
 ```yaml
 Type: System.Object
@@ -154,7 +154,7 @@ Accept wildcard characters: False
 ```
 
 ### -Vertical
-{{ Fill Vertical Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter

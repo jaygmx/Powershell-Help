@@ -8,7 +8,7 @@ schema: 2.0.0
 # Set-WorksheetProtection
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -21,21 +21,21 @@ Set-WorksheetProtection [-Worksheet] <ExcelWorksheet> [-IsProtected] [-AllowAll]
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -AllowAll
-{{ Fill AllowAll Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -50,7 +50,7 @@ Accept wildcard characters: False
 ```
 
 ### -AllowAutoFilter
-{{ Fill AllowAutoFilter Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -65,7 +65,7 @@ Accept wildcard characters: False
 ```
 
 ### -AllowDeleteColumns
-{{ Fill AllowDeleteColumns Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -80,7 +80,7 @@ Accept wildcard characters: False
 ```
 
 ### -AllowDeleteRows
-{{ Fill AllowDeleteRows Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -95,7 +95,7 @@ Accept wildcard characters: False
 ```
 
 ### -AllowFormatCells
-{{ Fill AllowFormatCells Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -110,7 +110,7 @@ Accept wildcard characters: False
 ```
 
 ### -AllowFormatColumns
-{{ Fill AllowFormatColumns Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -125,7 +125,7 @@ Accept wildcard characters: False
 ```
 
 ### -AllowFormatRows
-{{ Fill AllowFormatRows Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -140,7 +140,7 @@ Accept wildcard characters: False
 ```
 
 ### -AllowInsertColumns
-{{ Fill AllowInsertColumns Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -155,7 +155,7 @@ Accept wildcard characters: False
 ```
 
 ### -AllowInsertHyperlinks
-{{ Fill AllowInsertHyperlinks Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -170,7 +170,7 @@ Accept wildcard characters: False
 ```
 
 ### -AllowInsertRows
-{{ Fill AllowInsertRows Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -185,7 +185,7 @@ Accept wildcard characters: False
 ```
 
 ### -AllowPivotTables
-{{ Fill AllowPivotTables Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -200,7 +200,7 @@ Accept wildcard characters: False
 ```
 
 ### -AllowSort
-{{ Fill AllowSort Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -215,7 +215,7 @@ Accept wildcard characters: False
 ```
 
 ### -BlockEditObject
-{{ Fill BlockEditObject Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -230,7 +230,7 @@ Accept wildcard characters: False
 ```
 
 ### -BlockEditScenarios
-{{ Fill BlockEditScenarios Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -245,7 +245,7 @@ Accept wildcard characters: False
 ```
 
 ### -BlockSelectLockedCells
-{{ Fill BlockSelectLockedCells Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -260,7 +260,7 @@ Accept wildcard characters: False
 ```
 
 ### -BlockSelectUnlockedCells
-{{ Fill BlockSelectUnlockedCells Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -275,7 +275,7 @@ Accept wildcard characters: False
 ```
 
 ### -IsProtected
-{{ Fill IsProtected Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -290,7 +290,7 @@ Accept wildcard characters: False
 ```
 
 ### -LockAddress
-{{ Fill LockAddress Description }}
+
 
 ```yaml
 Type: System.String
@@ -305,7 +305,7 @@ Accept wildcard characters: False
 ```
 
 ### -UnLockAddress
-{{ Fill UnLockAddress Description }}
+
 
 ```yaml
 Type: System.String
@@ -320,7 +320,7 @@ Accept wildcard characters: False
 ```
 
 ### -Worksheet
-{{ Fill Worksheet Description }}
+
 
 ```yaml
 Type: OfficeOpenXml.ExcelWorksheet

@@ -8,7 +8,7 @@ schema: 2.0.0
 # Get-GkeNodePool
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -24,21 +24,21 @@ Get-GkeNodePool [[-NodePoolName] <String[]>] [-ClusterObject] <Cluster> [<Common
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -ClusterName
-{{ Fill ClusterName Description }}
+
 
 ```yaml
 Type: System.String
@@ -53,7 +53,7 @@ Accept wildcard characters: False
 ```
 
 ### -ClusterObject
-{{ Fill ClusterObject Description }}
+
 
 ```yaml
 Type: Google.Apis.Container.v1.Data.Cluster
@@ -68,7 +68,7 @@ Accept wildcard characters: False
 ```
 
 ### -NodePoolName
-{{ Fill NodePoolName Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -83,7 +83,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String
@@ -98,7 +98,7 @@ Accept wildcard characters: False
 ```
 
 ### -Zone
-{{ Fill Zone Description }}
+
 
 ```yaml
 Type: System.String

@@ -8,7 +8,7 @@ schema: 2.0.0
 # Write-TSWarning
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -17,21 +17,21 @@ Write-TSWarning [-Exception] <Object> [[-Warning] <String>] [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Exception
-{{ Fill Exception Description }}
+
 
 ```yaml
 Type: System.Object
@@ -46,7 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -Warning
-{{ Fill Warning Description }}
+
 
 ```yaml
 Type: System.String

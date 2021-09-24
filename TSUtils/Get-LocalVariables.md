@@ -8,7 +8,7 @@ schema: 2.0.0
 # Get-LocalVariables
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -17,21 +17,21 @@ Get-LocalVariables [[-Foo] <String>] [[-Bar] <String>] [[-Baz] <String>]
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Bar
-{{ Fill Bar Description }}
+
 
 ```yaml
 Type: System.String
@@ -46,7 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -Baz
-{{ Fill Baz Description }}
+
 
 ```yaml
 Type: System.String
@@ -61,7 +61,7 @@ Accept wildcard characters: False
 ```
 
 ### -Foo
-{{ Fill Foo Description }}
+
 
 ```yaml
 Type: System.String

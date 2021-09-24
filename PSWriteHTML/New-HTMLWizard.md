@@ -33,7 +33,7 @@ An example
 ## PARAMETERS
 
 ### -WizardSteps
-{{ Fill WizardSteps Description }}
+
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock

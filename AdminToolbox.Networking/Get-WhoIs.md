@@ -17,7 +17,7 @@ Get-WhoIs [[-query] <String>] [-server <String>] [-NoForward] [<CommonParameters
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 

@@ -222,7 +222,7 @@ Accept wildcard characters: False
 ```
 
 ### -OnClick
-{{Fill OnClick Description}}
+
 
 ```yaml
 Type: Object

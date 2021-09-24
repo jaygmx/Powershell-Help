@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-GceFirewallProtocol
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -25,21 +25,21 @@ New-GceFirewallProtocol [-IPProtocol] <String> [-Port <System.Collections.Generi
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -IPProtocol
-{{ Fill IPProtocol Description }}
+
 
 ```yaml
 Type: System.String
@@ -54,7 +54,7 @@ Accept wildcard characters: False
 ```
 
 ### -Pipeline
-{{ Fill Pipeline Description }}
+
 
 ```yaml
 Type: System.Object
@@ -69,7 +69,7 @@ Accept wildcard characters: False
 ```
 
 ### -Port
-{{ Fill Port Description }}
+
 
 ```yaml
 Type: System.Collections.Generic.List`1[System.String]

@@ -81,7 +81,7 @@ Accept wildcard characters: False
 ```
 
 ### -Duration
-{{ Fill Duration Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -96,7 +96,7 @@ Accept wildcard characters: False
 ```
 
 ### -FullScreen
-{{ Fill FullScreen Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -111,7 +111,7 @@ Accept wildcard characters: False
 ```
 
 ### -Indicators
-{{ Fill Indicators Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -126,7 +126,7 @@ Accept wildcard characters: False
 ```
 
 ### -Interval
-{{ Fill Interval Description }}
+
 
 ```yaml
 Type: System.Int32

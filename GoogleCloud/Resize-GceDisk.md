@@ -8,7 +8,7 @@ schema: 2.0.0
 # Resize-GceDisk
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -24,21 +24,21 @@ Resize-GceDisk [-Project <String>] [-Zone <String>] [-DiskName] <String> [-NewSi
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -DiskName
-{{ Fill DiskName Description }}
+
 
 ```yaml
 Type: System.String
@@ -53,7 +53,7 @@ Accept wildcard characters: False
 ```
 
 ### -InputObject
-{{ Fill InputObject Description }}
+
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.Disk
@@ -68,7 +68,7 @@ Accept wildcard characters: False
 ```
 
 ### -NewSizeGb
-{{ Fill NewSizeGb Description }}
+
 
 ```yaml
 Type: System.Int64
@@ -83,7 +83,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String
@@ -98,7 +98,7 @@ Accept wildcard characters: False
 ```
 
 ### -Zone
-{{ Fill Zone Description }}
+
 
 ```yaml
 Type: System.String

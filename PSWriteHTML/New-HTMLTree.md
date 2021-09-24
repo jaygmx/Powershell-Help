@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-HTMLTree
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -17,21 +17,21 @@ New-HTMLTree [[-Nodes] <ScriptBlock>] [[-Checkbox] <String>] [[-SelectMode] <Obj
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Checkbox
-{{ Fill Checkbox Description }}
+
 
 ```yaml
 Type: System.String
@@ -47,7 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -Nodes
-{{ Fill Nodes Description }}
+
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock
@@ -62,7 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -SelectMode
-{{ Fill SelectMode Description }}
+
 
 ```yaml
 Type: System.Object

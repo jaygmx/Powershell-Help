@@ -8,7 +8,7 @@ schema: 2.0.0
 # EmailBody
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -20,21 +20,21 @@ EmailBody [[-EmailBody] <ScriptBlock>] [-Color <String>] [-BackGroundColor <Stri
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Alignment
-{{ Fill Alignment Description }}
+
 
 ```yaml
 Type: System.String
@@ -50,7 +50,7 @@ Accept wildcard characters: False
 ```
 
 ### -BackGroundColor
-{{ Fill BackGroundColor Description }}
+
 
 ```yaml
 Type: System.String
@@ -65,7 +65,7 @@ Accept wildcard characters: False
 ```
 
 ### -Color
-{{ Fill Color Description }}
+
 
 ```yaml
 Type: System.String
@@ -80,7 +80,7 @@ Accept wildcard characters: False
 ```
 
 ### -Direction
-{{ Fill Direction Description }}
+
 
 ```yaml
 Type: System.String
@@ -96,7 +96,7 @@ Accept wildcard characters: False
 ```
 
 ### -EmailBody
-{{ Fill EmailBody Description }}
+
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock
@@ -111,7 +111,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontFamily
-{{ Fill FontFamily Description }}
+
 
 ```yaml
 Type: System.String
@@ -126,7 +126,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontSize
-{{ Fill FontSize Description }}
+
 
 ```yaml
 Type: System.Object
@@ -141,7 +141,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontStyle
-{{ Fill FontStyle Description }}
+
 
 ```yaml
 Type: System.String
@@ -157,7 +157,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontVariant
-{{ Fill FontVariant Description }}
+
 
 ```yaml
 Type: System.String
@@ -173,7 +173,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontWeight
-{{ Fill FontWeight Description }}
+
 
 ```yaml
 Type: System.String
@@ -189,7 +189,7 @@ Accept wildcard characters: False
 ```
 
 ### -Format
-{{ Fill Format Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -204,7 +204,7 @@ Accept wildcard characters: False
 ```
 
 ### -LineHeight
-{{ Fill LineHeight Description }}
+
 
 ```yaml
 Type: System.String
@@ -219,7 +219,7 @@ Accept wildcard characters: False
 ```
 
 ### -Minify
-{{ Fill Minify Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -234,7 +234,7 @@ Accept wildcard characters: False
 ```
 
 ### -Online
-{{ Fill Online Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -249,7 +249,7 @@ Accept wildcard characters: False
 ```
 
 ### -Parameter
-{{ Fill Parameter Description }}
+
 
 ```yaml
 Type: System.Collections.IDictionary
@@ -264,7 +264,7 @@ Accept wildcard characters: False
 ```
 
 ### -TextDecoration
-{{ Fill TextDecoration Description }}
+
 
 ```yaml
 Type: System.String
@@ -280,7 +280,7 @@ Accept wildcard characters: False
 ```
 
 ### -TextTransform
-{{ Fill TextTransform Description }}
+
 
 ```yaml
 Type: System.String

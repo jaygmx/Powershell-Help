@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-UDMuTypography
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -27,21 +27,21 @@ New-UDMuTypography [-Id <String>] [-Variant <String>] [-Content <ScriptBlock>] [
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Align
-{{ Fill Align Description }}
+
 
 ```yaml
 Type: System.String
@@ -57,7 +57,7 @@ Accept wildcard characters: False
 ```
 
 ### -AutoRefresh
-{{ Fill AutoRefresh Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -72,7 +72,7 @@ Accept wildcard characters: False
 ```
 
 ### -ClassName
-{{ Fill ClassName Description }}
+
 
 ```yaml
 Type: System.String
@@ -87,7 +87,7 @@ Accept wildcard characters: False
 ```
 
 ### -Content
-{{ Fill Content Description }}
+
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock
@@ -102,7 +102,7 @@ Accept wildcard characters: False
 ```
 
 ### -GutterBottom
-{{ Fill GutterBottom Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -117,7 +117,7 @@ Accept wildcard characters: False
 ```
 
 ### -Id
-{{ Fill Id Description }}
+
 
 ```yaml
 Type: System.String
@@ -132,7 +132,7 @@ Accept wildcard characters: False
 ```
 
 ### -IsEndPoint
-{{ Fill IsEndPoint Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -147,7 +147,7 @@ Accept wildcard characters: False
 ```
 
 ### -IsParagraph
-{{ Fill IsParagraph Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -162,7 +162,7 @@ Accept wildcard characters: False
 ```
 
 ### -NoWrap
-{{ Fill NoWrap Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -177,7 +177,7 @@ Accept wildcard characters: False
 ```
 
 ### -RefreshInterval
-{{ Fill RefreshInterval Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -192,7 +192,7 @@ Accept wildcard characters: False
 ```
 
 ### -Style
-{{ Fill Style Description }}
+
 
 ```yaml
 Type: System.Collections.Hashtable
@@ -207,7 +207,7 @@ Accept wildcard characters: False
 ```
 
 ### -Text
-{{ Fill Text Description }}
+
 
 ```yaml
 Type: System.String
@@ -222,7 +222,7 @@ Accept wildcard characters: False
 ```
 
 ### -Variant
-{{ Fill Variant Description }}
+
 
 ```yaml
 Type: System.String

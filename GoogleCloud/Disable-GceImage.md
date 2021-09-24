@@ -8,7 +8,7 @@ schema: 2.0.0
 # Disable-GceImage
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -27,21 +27,21 @@ Disable-GceImage [-Object] <Image> [-Replacement <Image>] [-ReplacementUrl <Stri
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -DeleteOn
-{{ Fill DeleteOn Description }}
+
 
 ```yaml
 Type: System.Nullable`1[System.DateTimeOffset]
@@ -56,7 +56,7 @@ Accept wildcard characters: False
 ```
 
 ### -DeprecateOn
-{{ Fill DeprecateOn Description }}
+
 
 ```yaml
 Type: System.Nullable`1[System.DateTimeOffset]
@@ -71,7 +71,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
-{{ Fill Name Description }}
+
 
 ```yaml
 Type: System.String
@@ -86,7 +86,7 @@ Accept wildcard characters: False
 ```
 
 ### -Object
-{{ Fill Object Description }}
+
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.Image
@@ -101,7 +101,7 @@ Accept wildcard characters: False
 ```
 
 ### -ObsoleteOn
-{{ Fill ObsoleteOn Description }}
+
 
 ```yaml
 Type: System.Nullable`1[System.DateTimeOffset]
@@ -116,7 +116,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String
@@ -131,7 +131,7 @@ Accept wildcard characters: False
 ```
 
 ### -Replacement
-{{ Fill Replacement Description }}
+
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.Image
@@ -146,7 +146,7 @@ Accept wildcard characters: False
 ```
 
 ### -ReplacementUrl
-{{ Fill ReplacementUrl Description }}
+
 
 ```yaml
 Type: System.String
@@ -161,7 +161,7 @@ Accept wildcard characters: False
 ```
 
 ### -State
-{{ Fill State Description }}
+
 
 ```yaml
 Type: Google.PowerShell.ComputeEngine.DisableGceImageCmdlet+ImageDisableState

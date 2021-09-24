@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-GceServiceAccountConfig
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -26,21 +26,21 @@ New-GceServiceAccountConfig [-Project <String>] [[-Email] <String>] -ScopeUri <S
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -BigQuery
-{{ Fill BigQuery Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -55,7 +55,7 @@ Accept wildcard characters: False
 ```
 
 ### -BigtableAdmin
-{{ Fill BigtableAdmin Description }}
+
 
 ```yaml
 Type: Google.PowerShell.ComputeEngine.NewGceServiceAccountConfigCmdlet+BigTableAdminEnum
@@ -71,7 +71,7 @@ Accept wildcard characters: False
 ```
 
 ### -BigtableData
-{{ Fill BigtableData Description }}
+
 
 ```yaml
 Type: Google.PowerShell.ComputeEngine.NewGceServiceAccountConfigCmdlet+ReadWrite
@@ -87,7 +87,7 @@ Accept wildcard characters: False
 ```
 
 ### -CloudDatastore
-{{ Fill CloudDatastore Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -102,7 +102,7 @@ Accept wildcard characters: False
 ```
 
 ### -CloudLogging
-{{ Fill CloudLogging Description }}
+
 
 ```yaml
 Type: Google.PowerShell.ComputeEngine.NewGceServiceAccountConfigCmdlet+ReadWrite
@@ -118,7 +118,7 @@ Accept wildcard characters: False
 ```
 
 ### -CloudMonitoring
-{{ Fill CloudMonitoring Description }}
+
 
 ```yaml
 Type: Google.PowerShell.ComputeEngine.NewGceServiceAccountConfigCmdlet+ReadWrite
@@ -134,7 +134,7 @@ Accept wildcard characters: False
 ```
 
 ### -CloudPubSub
-{{ Fill CloudPubSub Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -149,7 +149,7 @@ Accept wildcard characters: False
 ```
 
 ### -CloudSQL
-{{ Fill CloudSQL Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -164,7 +164,7 @@ Accept wildcard characters: False
 ```
 
 ### -Compute
-{{ Fill Compute Description }}
+
 
 ```yaml
 Type: Google.PowerShell.ComputeEngine.NewGceServiceAccountConfigCmdlet+ReadWrite
@@ -180,7 +180,7 @@ Accept wildcard characters: False
 ```
 
 ### -Email
-{{ Fill Email Description }}
+
 
 ```yaml
 Type: System.String
@@ -207,7 +207,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String
@@ -222,7 +222,7 @@ Accept wildcard characters: False
 ```
 
 ### -ScopeUri
-{{ Fill ScopeUri Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -249,7 +249,7 @@ Accept wildcard characters: False
 ```
 
 ### -ServiceControl
-{{ Fill ServiceControl Description }}
+
 
 ```yaml
 Type: System.Boolean
@@ -264,7 +264,7 @@ Accept wildcard characters: False
 ```
 
 ### -ServiceManagement
-{{ Fill ServiceManagement Description }}
+
 
 ```yaml
 Type: System.Boolean
@@ -279,7 +279,7 @@ Accept wildcard characters: False
 ```
 
 ### -Storage
-{{ Fill Storage Description }}
+
 
 ```yaml
 Type: Google.PowerShell.ComputeEngine.NewGceServiceAccountConfigCmdlet+ReadWrite
@@ -295,7 +295,7 @@ Accept wildcard characters: False
 ```
 
 ### -TaskQueue
-{{ Fill TaskQueue Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -310,7 +310,7 @@ Accept wildcard characters: False
 ```
 
 ### -UserInfo
-{{ Fill UserInfo Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter

@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-GcSqlInstanceConfig
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -19,21 +19,21 @@ New-GcSqlInstanceConfig [-Project <String>] [-Name] <String> -SettingConfig <Set
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -DatabaseVer
-{{ Fill DatabaseVer Description }}
+
 
 ```yaml
 Type: System.String
@@ -48,7 +48,7 @@ Accept wildcard characters: False
 ```
 
 ### -FailoverReplica
-{{ Fill FailoverReplica Description }}
+
 
 ```yaml
 Type: System.String
@@ -63,7 +63,7 @@ Accept wildcard characters: False
 ```
 
 ### -MasterInstanceName
-{{ Fill MasterInstanceName Description }}
+
 
 ```yaml
 Type: System.String
@@ -78,7 +78,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
-{{ Fill Name Description }}
+
 
 ```yaml
 Type: System.String
@@ -93,7 +93,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String
@@ -108,7 +108,7 @@ Accept wildcard characters: False
 ```
 
 ### -Region
-{{ Fill Region Description }}
+
 
 ```yaml
 Type: System.String
@@ -123,7 +123,7 @@ Accept wildcard characters: False
 ```
 
 ### -ReplicaConfig
-{{ Fill ReplicaConfig Description }}
+
 
 ```yaml
 Type: Google.Apis.SQLAdmin.v1beta4.Data.ReplicaConfiguration
@@ -138,7 +138,7 @@ Accept wildcard characters: False
 ```
 
 ### -SettingConfig
-{{ Fill SettingConfig Description }}
+
 
 ```yaml
 Type: Google.Apis.SQLAdmin.v1beta4.Data.Settings

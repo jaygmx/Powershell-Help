@@ -8,7 +8,7 @@ schema: 2.0.0
 # Set-GceTargetPool
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -35,21 +35,21 @@ Set-GceTargetPool -InputObject <TargetPool> -AddInstance <String[]> [<CommonPara
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -AddInstance
-{{ Fill AddInstance Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -64,7 +64,7 @@ Accept wildcard characters: False
 ```
 
 ### -InputObject
-{{ Fill InputObject Description }}
+
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.TargetPool
@@ -79,7 +79,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
-{{ Fill Name Description }}
+
 
 ```yaml
 Type: System.String
@@ -94,7 +94,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String
@@ -109,7 +109,7 @@ Accept wildcard characters: False
 ```
 
 ### -Region
-{{ Fill Region Description }}
+
 
 ```yaml
 Type: System.String
@@ -124,7 +124,7 @@ Accept wildcard characters: False
 ```
 
 ### -RemoveInstance
-{{ Fill RemoveInstance Description }}
+
 
 ```yaml
 Type: System.String[]

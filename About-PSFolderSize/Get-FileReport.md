@@ -8,7 +8,7 @@ schema: 2.0.0
 # Get-FileReport
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -19,21 +19,21 @@ Get-FileReport [[-BasePath] <String[]>] [-AddTotal] [-FindExtension <String[]>] 
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -AddTotal
-{{ Fill AddTotal Description }}
+
 
 ```yaml
 Type: SwitchParameter
@@ -48,7 +48,7 @@ Accept wildcard characters: False
 ```
 
 ### -BasePath
-{{ Fill BasePath Description }}
+
 
 ```yaml
 Type: String[]
@@ -63,7 +63,7 @@ Accept wildcard characters: False
 ```
 
 ### -FindExtension
-{{ Fill FindExtension Description }}
+
 
 ```yaml
 Type: String[]
@@ -78,7 +78,7 @@ Accept wildcard characters: False
 ```
 
 ### -FolderName
-{{ Fill FolderName Description }}
+
 
 ```yaml
 Type: String[]
@@ -93,7 +93,7 @@ Accept wildcard characters: False
 ```
 
 ### -OmitFolders
-{{ Fill OmitFolders Description }}
+
 
 ```yaml
 Type: String[]
@@ -108,7 +108,7 @@ Accept wildcard characters: False
 ```
 
 ### -Output
-{{ Fill Output Description }}
+
 
 ```yaml
 Type: String
@@ -124,7 +124,7 @@ Accept wildcard characters: False
 ```
 
 ### -OutputFile
-{{ Fill OutputFile Description }}
+
 
 ```yaml
 Type: String
@@ -139,7 +139,7 @@ Accept wildcard characters: False
 ```
 
 ### -OutputPath
-{{ Fill OutputPath Description }}
+
 
 ```yaml
 Type: String

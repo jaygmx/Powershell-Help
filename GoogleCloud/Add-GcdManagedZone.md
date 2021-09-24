@@ -8,7 +8,7 @@ schema: 2.0.0
 # Add-GcdManagedZone
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -18,21 +18,21 @@ Add-GcdManagedZone [-Project <String>] [-Name] <String> [-DnsName] <String> [[-D
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Description
-{{ Fill Description Description }}
+
 
 ```yaml
 Type: System.String
@@ -47,7 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -DnsName
-{{ Fill DnsName Description }}
+
 
 ```yaml
 Type: System.String
@@ -62,7 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
-{{ Fill Name Description }}
+
 
 ```yaml
 Type: System.String
@@ -77,7 +77,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String

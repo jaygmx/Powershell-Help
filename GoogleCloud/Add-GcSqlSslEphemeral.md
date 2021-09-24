@@ -8,7 +8,7 @@ schema: 2.0.0
 # Add-GcSqlSslEphemeral
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -17,21 +17,21 @@ Add-GcSqlSslEphemeral [-Project <String>] [-Instance] <String> [-PublicKey] <Str
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Instance
-{{ Fill Instance Description }}
+
 
 ```yaml
 Type: System.String
@@ -46,7 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String
@@ -61,7 +61,7 @@ Accept wildcard characters: False
 ```
 
 ### -PublicKey
-{{ Fill PublicKey Description }}
+
 
 ```yaml
 Type: System.String

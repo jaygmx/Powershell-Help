@@ -8,7 +8,7 @@ schema: 2.0.0
 # Add-GcdChange
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -24,21 +24,21 @@ Add-GcdChange [-Project <String>] [-Zone] <String> [-Add <ResourceRecordSet[]>] 
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Add
-{{ Fill Add Description }}
+
 
 ```yaml
 Type: Google.Apis.Dns.v1.Data.ResourceRecordSet[]
@@ -53,7 +53,7 @@ Accept wildcard characters: False
 ```
 
 ### -ChangeRequest
-{{ Fill ChangeRequest Description }}
+
 
 ```yaml
 Type: Google.Apis.Dns.v1.Data.Change
@@ -68,7 +68,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String
@@ -83,7 +83,7 @@ Accept wildcard characters: False
 ```
 
 ### -Remove
-{{ Fill Remove Description }}
+
 
 ```yaml
 Type: Google.Apis.Dns.v1.Data.ResourceRecordSet[]
@@ -98,7 +98,7 @@ Accept wildcard characters: False
 ```
 
 ### -Zone
-{{ Fill Zone Description }}
+
 
 ```yaml
 Type: System.String

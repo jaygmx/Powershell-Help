@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-HTMLPanelStyle
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -17,21 +17,21 @@ New-HTMLPanelStyle [-BorderRadius <String>] [-RemoveShadow] [-RequestConfigurati
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -BorderRadius
-{{ Fill BorderRadius Description }}
+
 
 ```yaml
 Type: System.String
@@ -47,7 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -RemoveShadow
-{{ Fill RemoveShadow Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -62,7 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -RequestConfiguration
-{{ Fill RequestConfiguration Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter

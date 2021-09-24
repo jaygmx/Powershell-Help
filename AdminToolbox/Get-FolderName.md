@@ -30,7 +30,7 @@ Creates a prompt to select a folder and then saves the path to a variable.
 ## PARAMETERS
 
 ### -Description
-{{ Fill Description Description }}
+
 
 ```yaml
 Type: System.String
@@ -45,7 +45,7 @@ Accept wildcard characters: False
 ```
 
 ### -RootFolder
-{{ Fill RootFolder Description }}
+
 
 ```yaml
 Type: System.String

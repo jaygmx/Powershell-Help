@@ -8,7 +8,7 @@ schema: 2.0.0
 # Update-GcSqlInstance
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -35,21 +35,21 @@ Update-GcSqlInstance [-SettingsVersion] <Int64> -InstanceObject <DatabaseInstanc
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -BackupBinaryLogEnabled
-{{ Fill BackupBinaryLogEnabled Description }}
+
 
 ```yaml
 Type: System.Boolean
@@ -64,7 +64,7 @@ Accept wildcard characters: False
 ```
 
 ### -BackupEnabled
-{{ Fill BackupEnabled Description }}
+
 
 ```yaml
 Type: System.Boolean
@@ -79,7 +79,7 @@ Accept wildcard characters: False
 ```
 
 ### -BackupStartTime
-{{ Fill BackupStartTime Description }}
+
 
 ```yaml
 Type: System.String
@@ -94,7 +94,7 @@ Accept wildcard characters: False
 ```
 
 ### -DataDiskSizeGb
-{{ Fill DataDiskSizeGb Description }}
+
 
 ```yaml
 Type: System.Int64
@@ -109,7 +109,7 @@ Accept wildcard characters: False
 ```
 
 ### -DatabaseFlag
-{{ Fill DatabaseFlag Description }}
+
 
 ```yaml
 Type: Google.Apis.SQLAdmin.v1beta4.Data.DatabaseFlags[]
@@ -124,7 +124,7 @@ Accept wildcard characters: False
 ```
 
 ### -DatabaseReplicationEnabled
-{{ Fill DatabaseReplicationEnabled Description }}
+
 
 ```yaml
 Type: System.Boolean
@@ -139,7 +139,7 @@ Accept wildcard characters: False
 ```
 
 ### -DiskType
-{{ Fill DiskType Description }}
+
 
 ```yaml
 Type: Google.PowerShell.Sql.UpdateGcSqlInstanceCmdlet+DataDiskType
@@ -155,7 +155,7 @@ Accept wildcard characters: False
 ```
 
 ### -Instance
-{{ Fill Instance Description }}
+
 
 ```yaml
 Type: System.String
@@ -170,7 +170,7 @@ Accept wildcard characters: False
 ```
 
 ### -InstanceObject
-{{ Fill InstanceObject Description }}
+
 
 ```yaml
 Type: Google.Apis.SQLAdmin.v1beta4.Data.DatabaseInstance
@@ -185,7 +185,7 @@ Accept wildcard characters: False
 ```
 
 ### -IpConfigAuthorizedNetwork
-{{ Fill IpConfigAuthorizedNetwork Description }}
+
 
 ```yaml
 Type: Google.Apis.SQLAdmin.v1beta4.Data.AclEntry[]
@@ -200,7 +200,7 @@ Accept wildcard characters: False
 ```
 
 ### -IpConfigIpv4Enabled
-{{ Fill IpConfigIpv4Enabled Description }}
+
 
 ```yaml
 Type: System.Boolean
@@ -215,7 +215,7 @@ Accept wildcard characters: False
 ```
 
 ### -IpConfigRequireSsl
-{{ Fill IpConfigRequireSsl Description }}
+
 
 ```yaml
 Type: System.Boolean
@@ -230,7 +230,7 @@ Accept wildcard characters: False
 ```
 
 ### -LocationPreferenceFollowGae
-{{ Fill LocationPreferenceFollowGae Description }}
+
 
 ```yaml
 Type: System.String
@@ -245,7 +245,7 @@ Accept wildcard characters: False
 ```
 
 ### -LocationPreferenceZone
-{{ Fill LocationPreferenceZone Description }}
+
 
 ```yaml
 Type: System.String
@@ -260,7 +260,7 @@ Accept wildcard characters: False
 ```
 
 ### -MaintenanceWindowDay
-{{ Fill MaintenanceWindowDay Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -275,7 +275,7 @@ Accept wildcard characters: False
 ```
 
 ### -MaintenanceWindowHour
-{{ Fill MaintenanceWindowHour Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -290,7 +290,7 @@ Accept wildcard characters: False
 ```
 
 ### -Policy
-{{ Fill Policy Description }}
+
 
 ```yaml
 Type: Google.PowerShell.Sql.UpdateGcSqlInstanceCmdlet+ActivationPolicy
@@ -306,7 +306,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String
@@ -321,7 +321,7 @@ Accept wildcard characters: False
 ```
 
 ### -SettingsVersion
-{{ Fill SettingsVersion Description }}
+
 
 ```yaml
 Type: System.Int64
@@ -336,7 +336,7 @@ Accept wildcard characters: False
 ```
 
 ### -StorageAutoResize
-{{ Fill StorageAutoResize Description }}
+
 
 ```yaml
 Type: System.Boolean
@@ -351,7 +351,7 @@ Accept wildcard characters: False
 ```
 
 ### -Tier
-{{ Fill Tier Description }}
+
 
 ```yaml
 Type: System.String
@@ -366,7 +366,7 @@ Accept wildcard characters: False
 ```
 
 ### -Update
-{{ Fill Update Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter

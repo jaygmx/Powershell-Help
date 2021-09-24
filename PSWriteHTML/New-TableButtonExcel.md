@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-TableButtonExcel
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -17,21 +17,21 @@ New-TableButtonExcel [[-Title] <String>] [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Title
-{{ Fill Title Description }}
+
 
 ```yaml
 Type: System.String

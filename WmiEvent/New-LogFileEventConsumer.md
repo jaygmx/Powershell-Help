@@ -30,15 +30,15 @@ New-LogFileEventConsumer -CimSession <CimSession[]> -Name <String> [-ThrottleLim
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -CimSession
-{{ Fill CimSession Description }}
+
 
 ```yaml
 Type: Microsoft.Management.Infrastructure.CimSession[]
@@ -53,7 +53,7 @@ Accept wildcard characters: False
 ```
 
 ### -ComputerName
-{{ Fill ComputerName Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -68,7 +68,7 @@ Accept wildcard characters: False
 ```
 
 ### -Credential
-{{ Fill Credential Description }}
+
 
 ```yaml
 Type: System.Management.Automation.PSCredential
@@ -83,7 +83,7 @@ Accept wildcard characters: False
 ```
 
 ### -Filename
-{{ Fill Filename Description }}
+
 
 ```yaml
 Type: System.String
@@ -98,7 +98,7 @@ Accept wildcard characters: False
 ```
 
 ### -IsUnicode
-{{ Fill IsUnicode Description }}
+
 
 ```yaml
 Type: System.Boolean
@@ -113,7 +113,7 @@ Accept wildcard characters: False
 ```
 
 ### -MaximumFileSize
-{{ Fill MaximumFileSize Description }}
+
 
 ```yaml
 Type: System.UInt64
@@ -128,7 +128,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
-{{ Fill Name Description }}
+
 
 ```yaml
 Type: System.String
@@ -143,7 +143,7 @@ Accept wildcard characters: False
 ```
 
 ### -Text
-{{ Fill Text Description }}
+
 
 ```yaml
 Type: System.String
@@ -158,7 +158,7 @@ Accept wildcard characters: False
 ```
 
 ### -ThrottleLimit
-{{ Fill ThrottleLimit Description }}
+
 
 ```yaml
 Type: System.Int32

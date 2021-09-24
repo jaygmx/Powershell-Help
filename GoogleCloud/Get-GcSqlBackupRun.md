@@ -8,7 +8,7 @@ schema: 2.0.0
 # Get-GcSqlBackupRun
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -23,21 +23,21 @@ Get-GcSqlBackupRun [-Project <String>] [-Instance] <String> [-Id] <Int64> [<Comm
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Id
-{{ Fill Id Description }}
+
 
 ```yaml
 Type: System.Int64
@@ -52,7 +52,7 @@ Accept wildcard characters: False
 ```
 
 ### -Instance
-{{ Fill Instance Description }}
+
 
 ```yaml
 Type: System.String
@@ -67,7 +67,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String

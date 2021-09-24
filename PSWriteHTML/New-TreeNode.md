@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-TreeNode
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -17,21 +17,21 @@ New-TreeNode [[-Children] <ScriptBlock>] [[-Title] <String>] [[-Id] <String>] [-
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Children
-{{ Fill Children Description }}
+
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock
@@ -46,7 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -Folder
-{{ Fill Folder Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -61,7 +61,7 @@ Accept wildcard characters: False
 ```
 
 ### -Id
-{{ Fill Id Description }}
+
 
 ```yaml
 Type: System.String
@@ -76,7 +76,7 @@ Accept wildcard characters: False
 ```
 
 ### -Title
-{{ Fill Title Description }}
+
 
 ```yaml
 Type: System.String

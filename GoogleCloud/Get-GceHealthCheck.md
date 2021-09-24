@@ -8,7 +8,7 @@ schema: 2.0.0
 # Get-GceHealthCheck
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -23,21 +23,21 @@ Get-GceHealthCheck [-Project <String>] [-Name] <String> [-Http] [-Https] [<Commo
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Http
-{{ Fill Http Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -52,7 +52,7 @@ Accept wildcard characters: False
 ```
 
 ### -Https
-{{ Fill Https Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -67,7 +67,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
-{{ Fill Name Description }}
+
 
 ```yaml
 Type: System.String
@@ -82,7 +82,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String

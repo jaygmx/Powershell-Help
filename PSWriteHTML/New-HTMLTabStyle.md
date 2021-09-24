@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-HTMLTabStyle
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -35,21 +35,21 @@ New-HTMLTabStyle [-Style <String>] [-Align <String>] [-Wrap <String>] [-Directio
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Align
-{{ Fill Align Description }}
+
 
 ```yaml
 Type: System.String
@@ -65,7 +65,7 @@ Accept wildcard characters: False
 ```
 
 ### -AlignContent
-{{ Fill AlignContent Description }}
+
 
 ```yaml
 Type: System.String
@@ -81,7 +81,7 @@ Accept wildcard characters: False
 ```
 
 ### -AlignItems
-{{ Fill AlignItems Description }}
+
 
 ```yaml
 Type: System.String
@@ -97,7 +97,7 @@ Accept wildcard characters: False
 ```
 
 ### -BackgroundColor
-{{ Fill BackgroundColor Description }}
+
 
 ```yaml
 Type: System.String
@@ -112,7 +112,7 @@ Accept wildcard characters: False
 ```
 
 ### -BackgroundColorActive
-{{ Fill BackgroundColorActive Description }}
+
 
 ```yaml
 Type: System.String
@@ -127,7 +127,7 @@ Accept wildcard characters: False
 ```
 
 ### -BackgroundColorActiveTarget
-{{ Fill BackgroundColorActiveTarget Description }}
+
 
 ```yaml
 Type: System.String
@@ -142,7 +142,7 @@ Accept wildcard characters: False
 ```
 
 ### -BorderBottomColor
-{{ Fill BorderBottomColor Description }}
+
 
 ```yaml
 Type: System.String
@@ -157,7 +157,7 @@ Accept wildcard characters: False
 ```
 
 ### -BorderBottomColorActive
-{{ Fill BorderBottomColorActive Description }}
+
 
 ```yaml
 Type: System.String
@@ -172,7 +172,7 @@ Accept wildcard characters: False
 ```
 
 ### -BorderBottomStyle
-{{ Fill BorderBottomStyle Description }}
+
 
 ```yaml
 Type: System.String
@@ -188,7 +188,7 @@ Accept wildcard characters: False
 ```
 
 ### -BorderBottomStyleActive
-{{ Fill BorderBottomStyleActive Description }}
+
 
 ```yaml
 Type: System.String
@@ -204,7 +204,7 @@ Accept wildcard characters: False
 ```
 
 ### -BorderBottomWidth
-{{ Fill BorderBottomWidth Description }}
+
 
 ```yaml
 Type: System.String
@@ -220,7 +220,7 @@ Accept wildcard characters: False
 ```
 
 ### -BorderBottomWidthActive
-{{ Fill BorderBottomWidthActive Description }}
+
 
 ```yaml
 Type: System.String
@@ -236,7 +236,7 @@ Accept wildcard characters: False
 ```
 
 ### -BorderColor
-{{ Fill BorderColor Description }}
+
 
 ```yaml
 Type: System.String
@@ -251,7 +251,7 @@ Accept wildcard characters: False
 ```
 
 ### -BorderRadius
-{{ Fill BorderRadius Description }}
+
 
 ```yaml
 Type: System.String
@@ -267,7 +267,7 @@ Accept wildcard characters: False
 ```
 
 ### -BorderStyle
-{{ Fill BorderStyle Description }}
+
 
 ```yaml
 Type: System.String
@@ -283,7 +283,7 @@ Accept wildcard characters: False
 ```
 
 ### -Direction
-{{ Fill Direction Description }}
+
 
 ```yaml
 Type: System.String
@@ -299,7 +299,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontFamily
-{{ Fill FontFamily Description }}
+
 
 ```yaml
 Type: System.String
@@ -314,7 +314,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontFamilyActive
-{{ Fill FontFamilyActive Description }}
+
 
 ```yaml
 Type: System.String
@@ -329,7 +329,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontSize
-{{ Fill FontSize Description }}
+
 
 ```yaml
 Type: System.String
@@ -344,7 +344,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontSizeActive
-{{ Fill FontSizeActive Description }}
+
 
 ```yaml
 Type: System.String
@@ -359,7 +359,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontStyle
-{{ Fill FontStyle Description }}
+
 
 ```yaml
 Type: System.String
@@ -375,7 +375,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontStyleActive
-{{ Fill FontStyleActive Description }}
+
 
 ```yaml
 Type: System.String
@@ -391,7 +391,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontVariant
-{{ Fill FontVariant Description }}
+
 
 ```yaml
 Type: System.String
@@ -407,7 +407,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontVariantActive
-{{ Fill FontVariantActive Description }}
+
 
 ```yaml
 Type: System.String
@@ -423,7 +423,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontWeight
-{{ Fill FontWeight Description }}
+
 
 ```yaml
 Type: System.String
@@ -439,7 +439,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontWeightActive
-{{ Fill FontWeightActive Description }}
+
 
 ```yaml
 Type: System.String
@@ -455,7 +455,7 @@ Accept wildcard characters: False
 ```
 
 ### -JustifyContent
-{{ Fill JustifyContent Description }}
+
 
 ```yaml
 Type: System.String
@@ -471,7 +471,7 @@ Accept wildcard characters: False
 ```
 
 ### -LinearGradient
-{{ Fill LinearGradient Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -486,7 +486,7 @@ Accept wildcard characters: False
 ```
 
 ### -RemoveShadow
-{{ Fill RemoveShadow Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -501,7 +501,7 @@ Accept wildcard characters: False
 ```
 
 ### -RowElements
-{{ Fill RowElements Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -516,7 +516,7 @@ Accept wildcard characters: False
 ```
 
 ### -SlimTabs
-{{ Fill SlimTabs Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -531,7 +531,7 @@ Accept wildcard characters: False
 ```
 
 ### -Style
-{{ Fill Style Description }}
+
 
 ```yaml
 Type: System.String
@@ -546,7 +546,7 @@ Accept wildcard characters: False
 ```
 
 ### -TextColor
-{{ Fill TextColor Description }}
+
 
 ```yaml
 Type: System.String
@@ -561,7 +561,7 @@ Accept wildcard characters: False
 ```
 
 ### -TextColorActive
-{{ Fill TextColorActive Description }}
+
 
 ```yaml
 Type: System.String
@@ -576,7 +576,7 @@ Accept wildcard characters: False
 ```
 
 ### -TextDecoration
-{{ Fill TextDecoration Description }}
+
 
 ```yaml
 Type: System.String
@@ -592,7 +592,7 @@ Accept wildcard characters: False
 ```
 
 ### -TextDecorationActive
-{{ Fill TextDecorationActive Description }}
+
 
 ```yaml
 Type: System.String
@@ -608,7 +608,7 @@ Accept wildcard characters: False
 ```
 
 ### -TextTransform
-{{ Fill TextTransform Description }}
+
 
 ```yaml
 Type: System.String
@@ -624,7 +624,7 @@ Accept wildcard characters: False
 ```
 
 ### -TextTransformActive
-{{ Fill TextTransformActive Description }}
+
 
 ```yaml
 Type: System.String
@@ -640,7 +640,7 @@ Accept wildcard characters: False
 ```
 
 ### -Transition
-{{ Fill Transition Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -655,7 +655,7 @@ Accept wildcard characters: False
 ```
 
 ### -Wrap
-{{ Fill Wrap Description }}
+
 
 ```yaml
 Type: System.String

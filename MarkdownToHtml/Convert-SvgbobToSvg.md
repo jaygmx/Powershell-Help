@@ -104,7 +104,7 @@ The svg image renders as:
 ## PARAMETERS
 
 ### -InputObject
-{{ Fill InputObject Description }}
+
 
 ```yaml
 Type: System.Collections.Hashtable

@@ -8,7 +8,7 @@ schema: 2.0.0
 # Import-UPS
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -17,21 +17,21 @@ Import-UPS [[-TrackingNumber] <Object>] [-UseDefaultCredentials] [<CommonParamet
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -TrackingNumber
-{{ Fill TrackingNumber Description }}
+
 
 ```yaml
 Type: System.Object
@@ -46,7 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -UseDefaultCredentials
-{{ Fill UseDefaultCredentials Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter

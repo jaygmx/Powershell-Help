@@ -8,7 +8,7 @@ schema: 2.0.0
 # Remove-GcSqlBackupRun
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -24,21 +24,21 @@ Remove-GcSqlBackupRun [-Backup] <BackupRun> [-WhatIf] [-Confirm] [<CommonParamet
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Backup
-{{ Fill Backup Description }}
+
 
 ```yaml
 Type: Google.Apis.SQLAdmin.v1beta4.Data.BackupRun
@@ -68,7 +68,7 @@ Accept wildcard characters: False
 ```
 
 ### -Id
-{{ Fill Id Description }}
+
 
 ```yaml
 Type: System.Int64
@@ -83,7 +83,7 @@ Accept wildcard characters: False
 ```
 
 ### -Instance
-{{ Fill Instance Description }}
+
 
 ```yaml
 Type: System.String
@@ -98,7 +98,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String

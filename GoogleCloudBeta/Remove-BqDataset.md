@@ -8,7 +8,7 @@ schema: 2.0.0
 # Remove-BqDataset
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -24,16 +24,16 @@ Remove-BqDataset [-Project <String>] [-Dataset] <DatasetReference> [-Force] [-Wh
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
@@ -53,7 +53,7 @@ Accept wildcard characters: False
 ```
 
 ### -Dataset
-{{ Fill Dataset Description }}
+
 
 ```yaml
 Type: Google.Apis.Bigquery.v2.Data.DatasetReference
@@ -68,7 +68,7 @@ Accept wildcard characters: False
 ```
 
 ### -DatasetId
-{{ Fill DatasetId Description }}
+
 
 ```yaml
 Type: System.String
@@ -83,7 +83,7 @@ Accept wildcard characters: False
 ```
 
 ### -Force
-{{ Fill Force Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -98,7 +98,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String

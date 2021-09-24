@@ -8,7 +8,7 @@ schema: 2.0.0
 # Get-GcpsSubscription
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -17,21 +17,21 @@ Get-GcpsSubscription [-Project <String>] [[-Subscription] <String[]>] [-Topic <S
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String
@@ -46,7 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -Subscription
-{{ Fill Subscription Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -61,7 +61,7 @@ Accept wildcard characters: False
 ```
 
 ### -Topic
-{{ Fill Topic Description }}
+
 
 ```yaml
 Type: System.String

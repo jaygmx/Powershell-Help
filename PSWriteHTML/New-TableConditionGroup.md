@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-TableConditionGroup
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -24,21 +24,21 @@ New-TableConditionGroup [[-Conditions] <ScriptBlock>] [[-Logic] <String>] [[-Hig
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Alignment
-{{ Fill Alignment Description }}
+
 
 ```yaml
 Type: System.String
@@ -54,7 +54,7 @@ Accept wildcard characters: False
 ```
 
 ### -BackgroundColor
-{{ Fill BackgroundColor Description }}
+
 
 ```yaml
 Type: System.String
@@ -69,7 +69,7 @@ Accept wildcard characters: False
 ```
 
 ### -Color
-{{ Fill Color Description }}
+
 
 ```yaml
 Type: System.String
@@ -84,7 +84,7 @@ Accept wildcard characters: False
 ```
 
 ### -Conditions
-{{ Fill Conditions Description }}
+
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock
@@ -99,7 +99,7 @@ Accept wildcard characters: False
 ```
 
 ### -Direction
-{{ Fill Direction Description }}
+
 
 ```yaml
 Type: System.String
@@ -115,7 +115,7 @@ Accept wildcard characters: False
 ```
 
 ### -FailAlignment
-{{ Fill FailAlignment Description }}
+
 
 ```yaml
 Type: System.String
@@ -131,7 +131,7 @@ Accept wildcard characters: False
 ```
 
 ### -FailBackgroundColor
-{{ Fill FailBackgroundColor Description }}
+
 
 ```yaml
 Type: System.String
@@ -146,7 +146,7 @@ Accept wildcard characters: False
 ```
 
 ### -FailColor
-{{ Fill FailColor Description }}
+
 
 ```yaml
 Type: System.String
@@ -161,7 +161,7 @@ Accept wildcard characters: False
 ```
 
 ### -FailDirection
-{{ Fill FailDirection Description }}
+
 
 ```yaml
 Type: System.String
@@ -177,7 +177,7 @@ Accept wildcard characters: False
 ```
 
 ### -FailFontFamily
-{{ Fill FailFontFamily Description }}
+
 
 ```yaml
 Type: System.String
@@ -192,7 +192,7 @@ Accept wildcard characters: False
 ```
 
 ### -FailFontSize
-{{ Fill FailFontSize Description }}
+
 
 ```yaml
 Type: System.Object
@@ -207,7 +207,7 @@ Accept wildcard characters: False
 ```
 
 ### -FailFontStyle
-{{ Fill FailFontStyle Description }}
+
 
 ```yaml
 Type: System.String
@@ -223,7 +223,7 @@ Accept wildcard characters: False
 ```
 
 ### -FailFontVariant
-{{ Fill FailFontVariant Description }}
+
 
 ```yaml
 Type: System.String
@@ -239,7 +239,7 @@ Accept wildcard characters: False
 ```
 
 ### -FailFontWeight
-{{ Fill FailFontWeight Description }}
+
 
 ```yaml
 Type: System.String
@@ -255,7 +255,7 @@ Accept wildcard characters: False
 ```
 
 ### -FailTextDecoration
-{{ Fill FailTextDecoration Description }}
+
 
 ```yaml
 Type: System.String
@@ -271,7 +271,7 @@ Accept wildcard characters: False
 ```
 
 ### -FailTextTransform
-{{ Fill FailTextTransform Description }}
+
 
 ```yaml
 Type: System.String
@@ -287,7 +287,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontFamily
-{{ Fill FontFamily Description }}
+
 
 ```yaml
 Type: System.String
@@ -302,7 +302,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontSize
-{{ Fill FontSize Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -317,7 +317,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontStyle
-{{ Fill FontStyle Description }}
+
 
 ```yaml
 Type: System.String
@@ -333,7 +333,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontVariant
-{{ Fill FontVariant Description }}
+
 
 ```yaml
 Type: System.String
@@ -349,7 +349,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontWeight
-{{ Fill FontWeight Description }}
+
 
 ```yaml
 Type: System.String
@@ -365,7 +365,7 @@ Accept wildcard characters: False
 ```
 
 ### -HighlightHeaders
-{{ Fill HighlightHeaders Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -380,7 +380,7 @@ Accept wildcard characters: False
 ```
 
 ### -Inline
-{{ Fill Inline Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -395,7 +395,7 @@ Accept wildcard characters: False
 ```
 
 ### -Logic
-{{ Fill Logic Description }}
+
 
 ```yaml
 Type: System.String
@@ -411,7 +411,7 @@ Accept wildcard characters: False
 ```
 
 ### -Row
-{{ Fill Row Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -426,7 +426,7 @@ Accept wildcard characters: False
 ```
 
 ### -TextDecoration
-{{ Fill TextDecoration Description }}
+
 
 ```yaml
 Type: System.String
@@ -442,7 +442,7 @@ Accept wildcard characters: False
 ```
 
 ### -TextTransform
-{{ Fill TextTransform Description }}
+
 
 ```yaml
 Type: System.String

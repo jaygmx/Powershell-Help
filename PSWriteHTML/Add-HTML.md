@@ -8,7 +8,7 @@ schema: 2.0.0
 # Add-HTML
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -17,21 +17,21 @@ Add-HTML [[-HTML] <ScriptBlock>] [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -HTML
-{{ Fill HTML Description }}
+
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock

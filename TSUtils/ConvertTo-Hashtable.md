@@ -8,7 +8,7 @@ schema: 2.0.0
 # ConvertTo-Hashtable
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -17,21 +17,21 @@ ConvertTo-Hashtable [-Object] <Object> [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Object
-{{ Fill Object Description }}
+
 
 ```yaml
 Type: System.Object

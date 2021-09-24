@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-HTMLLogo
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -18,21 +18,21 @@ New-HTMLLogo [[-LogoPath] <String>] [[-LeftLogoName] <String>] [[-RightLogoName]
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -HideLogos
-{{ Fill HideLogos Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -47,7 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -LeftLogoName
-{{ Fill LeftLogoName Description }}
+
 
 ```yaml
 Type: System.String
@@ -62,7 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -LeftLogoString
-{{ Fill LeftLogoString Description }}
+
 
 ```yaml
 Type: System.String
@@ -77,7 +77,7 @@ Accept wildcard characters: False
 ```
 
 ### -LogoPath
-{{ Fill LogoPath Description }}
+
 
 ```yaml
 Type: System.String
@@ -92,7 +92,7 @@ Accept wildcard characters: False
 ```
 
 ### -RightLogoName
-{{ Fill RightLogoName Description }}
+
 
 ```yaml
 Type: System.String
@@ -107,7 +107,7 @@ Accept wildcard characters: False
 ```
 
 ### -RightLogoString
-{{ Fill RightLogoString Description }}
+
 
 ```yaml
 Type: System.String

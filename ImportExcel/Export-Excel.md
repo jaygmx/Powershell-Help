@@ -1423,7 +1423,7 @@ Accept wildcard characters: False
 ```
 
 ### -PivotChartType
-{{ Fill PivotChartType Description }}
+
 
 ```yaml
 Type: OfficeOpenXml.Drawing.Chart.eChartType

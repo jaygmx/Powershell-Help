@@ -8,7 +8,7 @@ schema: 2.0.0
 # Get-ModuleVersion
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -17,21 +17,21 @@ Get-ModuleVersion [-ManifestPath] <String> [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -ManifestPath
-{{ Fill ManifestPath Description }}
+
 
 ```yaml
 Type: System.String

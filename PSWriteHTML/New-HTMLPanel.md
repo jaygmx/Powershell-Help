@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-HTMLPanel
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -19,21 +19,21 @@ New-HTMLPanel [[-Content] <ScriptBlock>] [-BackgroundColor <String>] [-Invisible
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -AlignContentText
-{{ Fill AlignContentText Description }}
+
 
 ```yaml
 Type: System.String
@@ -49,7 +49,7 @@ Accept wildcard characters: False
 ```
 
 ### -AnchorName
-{{ Fill AnchorName Description }}
+
 
 ```yaml
 Type: System.String
@@ -64,7 +64,7 @@ Accept wildcard characters: False
 ```
 
 ### -BackgroundColor
-{{ Fill BackgroundColor Description }}
+
 
 ```yaml
 Type: System.String
@@ -79,7 +79,7 @@ Accept wildcard characters: False
 ```
 
 ### -BorderRadius
-{{ Fill BorderRadius Description }}
+
 
 ```yaml
 Type: System.String
@@ -95,7 +95,7 @@ Accept wildcard characters: False
 ```
 
 ### -Content
-{{ Fill Content Description }}
+
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock
@@ -110,7 +110,7 @@ Accept wildcard characters: False
 ```
 
 ### -Invisible
-{{ Fill Invisible Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -125,7 +125,7 @@ Accept wildcard characters: False
 ```
 
 ### -Margin
-{{ Fill Margin Description }}
+
 
 ```yaml
 Type: System.String
@@ -140,7 +140,7 @@ Accept wildcard characters: False
 ```
 
 ### -StyleSheetsConfiguration
-{{ Fill StyleSheetsConfiguration Description }}
+
 
 ```yaml
 Type: System.Collections.IDictionary
@@ -155,7 +155,7 @@ Accept wildcard characters: False
 ```
 
 ### -Width
-{{ Fill Width Description }}
+
 
 ```yaml
 Type: System.String

@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-HTML
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -19,21 +19,21 @@ New-HTML [[-HtmlData] <ScriptBlock>] [-Online] [-TitleText <String>] [-Author <S
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -AddComment
-{{ Fill AddComment Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -48,7 +48,7 @@ Accept wildcard characters: False
 ```
 
 ### -Author
-{{ Fill Author Description }}
+
 
 ```yaml
 Type: System.String
@@ -63,7 +63,7 @@ Accept wildcard characters: False
 ```
 
 ### -AutoRefresh
-{{ Fill AutoRefresh Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -78,7 +78,7 @@ Accept wildcard characters: False
 ```
 
 ### -DateFormat
-{{ Fill DateFormat Description }}
+
 
 ```yaml
 Type: System.String
@@ -93,7 +93,7 @@ Accept wildcard characters: False
 ```
 
 ### -Encoding
-{{ Fill Encoding Description }}
+
 
 ```yaml
 Type: System.Object
@@ -109,7 +109,7 @@ Accept wildcard characters: False
 ```
 
 ### -FavIcon
-{{ Fill FavIcon Description }}
+
 
 ```yaml
 Type: System.Uri
@@ -124,7 +124,7 @@ Accept wildcard characters: False
 ```
 
 ### -FilePath
-{{ Fill FilePath Description }}
+
 
 ```yaml
 Type: System.String
@@ -139,7 +139,7 @@ Accept wildcard characters: False
 ```
 
 ### -Format
-{{ Fill Format Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -154,7 +154,7 @@ Accept wildcard characters: False
 ```
 
 ### -HtmlData
-{{ Fill HtmlData Description }}
+
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock
@@ -169,7 +169,7 @@ Accept wildcard characters: False
 ```
 
 ### -Minify
-{{ Fill Minify Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -184,7 +184,7 @@ Accept wildcard characters: False
 ```
 
 ### -Online
-{{ Fill Online Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -199,7 +199,7 @@ Accept wildcard characters: False
 ```
 
 ### -ShowHTML
-{{ Fill ShowHTML Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -214,7 +214,7 @@ Accept wildcard characters: False
 ```
 
 ### -Temporary
-{{ Fill Temporary Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -229,7 +229,7 @@ Accept wildcard characters: False
 ```
 
 ### -TitleText
-{{ Fill TitleText Description }}
+
 
 ```yaml
 Type: System.String
@@ -244,7 +244,7 @@ Accept wildcard characters: False
 ```
 
 ### -UseCssLinks
-{{ Fill UseCssLinks Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -259,7 +259,7 @@ Accept wildcard characters: False
 ```
 
 ### -UseJavaScriptLinks
-{{ Fill UseJavaScriptLinks Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter

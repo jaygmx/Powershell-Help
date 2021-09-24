@@ -8,7 +8,7 @@ schema: 2.0.0
 # Set-GcpsAckDeadline
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -25,21 +25,21 @@ Set-GcpsAckDeadline -AckDeadline <Int32> -InputObject <PubSubMessageWithAckIdAnd
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -AckDeadline
-{{ Fill AckDeadline Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -54,7 +54,7 @@ Accept wildcard characters: False
 ```
 
 ### -AckId
-{{ Fill AckId Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -69,7 +69,7 @@ Accept wildcard characters: False
 ```
 
 ### -InputObject
-{{ Fill InputObject Description }}
+
 
 ```yaml
 Type: Google.PowerShell.PubSub.PubSubMessageWithAckIdAndSubscription[]
@@ -84,7 +84,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String
@@ -99,7 +99,7 @@ Accept wildcard characters: False
 ```
 
 ### -Subscription
-{{ Fill Subscription Description }}
+
 
 ```yaml
 Type: System.String

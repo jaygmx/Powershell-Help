@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-HTMLCodeBlock
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -19,21 +19,21 @@ New-HTMLCodeBlock [-Code] <String> [[-Style] <String>] [[-Theme] <String>] [[-Gr
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Code
-{{ Fill Code Description }}
+
 
 ```yaml
 Type: System.String
@@ -48,7 +48,7 @@ Accept wildcard characters: False
 ```
 
 ### -Group
-{{ Fill Group Description }}
+
 
 ```yaml
 Type: System.String
@@ -63,7 +63,7 @@ Accept wildcard characters: False
 ```
 
 ### -Highlight
-{{ Fill Highlight Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -78,7 +78,7 @@ Accept wildcard characters: False
 ```
 
 ### -LineOffset
-{{ Fill LineOffset Description }}
+
 
 ```yaml
 Type: System.String
@@ -93,7 +93,7 @@ Accept wildcard characters: False
 ```
 
 ### -ShowLineNumbers
-{{ Fill ShowLineNumbers Description }}
+
 
 ```yaml
 Type: System.Nullable`1[System.Boolean]
@@ -108,7 +108,7 @@ Accept wildcard characters: False
 ```
 
 ### -Style
-{{ Fill Style Description }}
+
 
 ```yaml
 Type: System.String
@@ -124,7 +124,7 @@ Accept wildcard characters: False
 ```
 
 ### -Theme
-{{ Fill Theme Description }}
+
 
 ```yaml
 Type: System.String
@@ -140,7 +140,7 @@ Accept wildcard characters: False
 ```
 
 ### -Title
-{{ Fill Title Description }}
+
 
 ```yaml
 Type: System.String

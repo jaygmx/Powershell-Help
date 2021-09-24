@@ -8,7 +8,7 @@ schema: 2.0.0
 # Update-ScriptFileInfo
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -33,21 +33,21 @@ Update-ScriptFileInfo [-LiteralPath] <String> [-Version <String>] [-Author <Stri
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Author
-{{ Fill Author Description }}
+
 
 ```yaml
 Type: System.String
@@ -62,7 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -CompanyName
-{{ Fill CompanyName Description }}
+
 
 ```yaml
 Type: System.String
@@ -92,7 +92,7 @@ Accept wildcard characters: False
 ```
 
 ### -Copyright
-{{ Fill Copyright Description }}
+
 
 ```yaml
 Type: System.String
@@ -107,7 +107,7 @@ Accept wildcard characters: False
 ```
 
 ### -Description
-{{ Fill Description Description }}
+
 
 ```yaml
 Type: System.String
@@ -122,7 +122,7 @@ Accept wildcard characters: False
 ```
 
 ### -ExternalModuleDependencies
-{{ Fill ExternalModuleDependencies Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -137,7 +137,7 @@ Accept wildcard characters: False
 ```
 
 ### -ExternalScriptDependencies
-{{ Fill ExternalScriptDependencies Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -152,7 +152,7 @@ Accept wildcard characters: False
 ```
 
 ### -Force
-{{ Fill Force Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -167,7 +167,7 @@ Accept wildcard characters: False
 ```
 
 ### -Guid
-{{ Fill Guid Description }}
+
 
 ```yaml
 Type: System.Guid
@@ -182,7 +182,7 @@ Accept wildcard characters: False
 ```
 
 ### -IconUri
-{{ Fill IconUri Description }}
+
 
 ```yaml
 Type: System.Uri
@@ -197,7 +197,7 @@ Accept wildcard characters: False
 ```
 
 ### -LicenseUri
-{{ Fill LicenseUri Description }}
+
 
 ```yaml
 Type: System.Uri
@@ -212,7 +212,7 @@ Accept wildcard characters: False
 ```
 
 ### -LiteralPath
-{{ Fill LiteralPath Description }}
+
 
 ```yaml
 Type: System.String
@@ -227,7 +227,7 @@ Accept wildcard characters: False
 ```
 
 ### -PassThru
-{{ Fill PassThru Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -242,7 +242,7 @@ Accept wildcard characters: False
 ```
 
 ### -Path
-{{ Fill Path Description }}
+
 
 ```yaml
 Type: System.String
@@ -257,7 +257,7 @@ Accept wildcard characters: False
 ```
 
 ### -PrivateData
-{{ Fill PrivateData Description }}
+
 
 ```yaml
 Type: System.String
@@ -272,7 +272,7 @@ Accept wildcard characters: False
 ```
 
 ### -ProjectUri
-{{ Fill ProjectUri Description }}
+
 
 ```yaml
 Type: System.Uri
@@ -287,7 +287,7 @@ Accept wildcard characters: False
 ```
 
 ### -ReleaseNotes
-{{ Fill ReleaseNotes Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -302,7 +302,7 @@ Accept wildcard characters: False
 ```
 
 ### -RequiredModules
-{{ Fill RequiredModules Description }}
+
 
 ```yaml
 Type: System.Object[]
@@ -317,7 +317,7 @@ Accept wildcard characters: False
 ```
 
 ### -RequiredScripts
-{{ Fill RequiredScripts Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -332,7 +332,7 @@ Accept wildcard characters: False
 ```
 
 ### -Tags
-{{ Fill Tags Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -347,7 +347,7 @@ Accept wildcard characters: False
 ```
 
 ### -Version
-{{ Fill Version Description }}
+
 
 ```yaml
 Type: System.String

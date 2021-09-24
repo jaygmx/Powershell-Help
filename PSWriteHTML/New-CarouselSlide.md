@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-CarouselSlide
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -18,21 +18,21 @@ New-CarouselSlide [[-SlideContent] <ScriptBlock>] [[-BackgroundColor] <String>] 
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -BackgroundColor
-{{ Fill BackgroundColor Description }}
+
 
 ```yaml
 Type: System.String
@@ -47,7 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -Height
-{{ Fill Height Description }}
+
 
 ```yaml
 Type: System.Object
@@ -62,7 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -SlideContent
-{{ Fill SlideContent Description }}
+
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock

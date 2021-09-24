@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-UDMuCardMedia
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -25,21 +25,21 @@ New-UDMuCardMedia [-Id <String>] [-Component <String>] [-Alt <String>] [-Height 
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Alt
-{{ Fill Alt Description }}
+
 
 ```yaml
 Type: System.String
@@ -54,7 +54,7 @@ Accept wildcard characters: False
 ```
 
 ### -Component
-{{ Fill Component Description }}
+
 
 ```yaml
 Type: System.String
@@ -70,7 +70,7 @@ Accept wildcard characters: False
 ```
 
 ### -Height
-{{ Fill Height Description }}
+
 
 ```yaml
 Type: System.String
@@ -85,7 +85,7 @@ Accept wildcard characters: False
 ```
 
 ### -Id
-{{ Fill Id Description }}
+
 
 ```yaml
 Type: System.String
@@ -100,7 +100,7 @@ Accept wildcard characters: False
 ```
 
 ### -Image
-{{ Fill Image Description }}
+
 
 ```yaml
 Type: System.String
@@ -115,7 +115,7 @@ Accept wildcard characters: False
 ```
 
 ### -Source
-{{ Fill Source Description }}
+
 
 ```yaml
 Type: System.String
@@ -130,7 +130,7 @@ Accept wildcard characters: False
 ```
 
 ### -Title
-{{ Fill Title Description }}
+
 
 ```yaml
 Type: System.String

@@ -8,7 +8,7 @@ schema: 2.0.0
 # Add-VbaToXls
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -17,21 +17,21 @@ Add-VbaToXls [-Xlsx] <FileInfo> [-VbaCode] <String> [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -VbaCode
-{{ Fill VbaCode Description }}
+
 
 ```yaml
 Type: System.String
@@ -46,7 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -Xlsx
-{{ Fill Xlsx Description }}
+
 
 ```yaml
 Type: System.IO.FileInfo

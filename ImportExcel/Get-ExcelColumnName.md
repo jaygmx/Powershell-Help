@@ -8,7 +8,7 @@ schema: 2.0.0
 # Get-ExcelColumnName
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -17,21 +17,21 @@ Get-ExcelColumnName [[-ColumnNumber] <Object>] [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -ColumnNumber
-{{ Fill ColumnNumber Description }}
+
 
 ```yaml
 Type: System.Object

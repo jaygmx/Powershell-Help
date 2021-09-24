@@ -8,7 +8,7 @@ schema: 2.0.0
 # EmailOptions
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -18,21 +18,21 @@ EmailOptions [[-Priority] <String>] [[-DeliveryNotifications] <Object>] [[-Encod
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -DeliveryNotifications
-{{ Fill DeliveryNotifications Description }}
+
 
 ```yaml
 Type: System.Object
@@ -48,7 +48,7 @@ Accept wildcard characters: False
 ```
 
 ### -Encoding
-{{ Fill Encoding Description }}
+
 
 ```yaml
 Type: System.String
@@ -63,7 +63,7 @@ Accept wildcard characters: False
 ```
 
 ### -Priority
-{{ Fill Priority Description }}
+
 
 ```yaml
 Type: System.String

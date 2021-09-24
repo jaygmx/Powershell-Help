@@ -8,7 +8,7 @@ schema: 2.0.0
 # Add-BqTableRow
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -19,21 +19,21 @@ Add-BqTableRow -InputObject <TableReference> [-Type] <DataFormats> [-Filename] <
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -AllowJaggedRows
-{{ Fill AllowJaggedRows Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -48,7 +48,7 @@ Accept wildcard characters: False
 ```
 
 ### -AllowQuotedNewlines
-{{ Fill AllowQuotedNewlines Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -63,7 +63,7 @@ Accept wildcard characters: False
 ```
 
 ### -AllowUnknownFields
-{{ Fill AllowUnknownFields Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -78,7 +78,7 @@ Accept wildcard characters: False
 ```
 
 ### -FieldDelimiter
-{{ Fill FieldDelimiter Description }}
+
 
 ```yaml
 Type: System.String
@@ -93,7 +93,7 @@ Accept wildcard characters: False
 ```
 
 ### -Filename
-{{ Fill Filename Description }}
+
 
 ```yaml
 Type: System.String
@@ -108,7 +108,7 @@ Accept wildcard characters: False
 ```
 
 ### -InputObject
-{{ Fill InputObject Description }}
+
 
 ```yaml
 Type: Google.Apis.Bigquery.v2.Data.TableReference
@@ -123,7 +123,7 @@ Accept wildcard characters: False
 ```
 
 ### -Quote
-{{ Fill Quote Description }}
+
 
 ```yaml
 Type: System.String
@@ -138,7 +138,7 @@ Accept wildcard characters: False
 ```
 
 ### -SkipLeadingRows
-{{ Fill SkipLeadingRows Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -153,7 +153,7 @@ Accept wildcard characters: False
 ```
 
 ### -Type
-{{ Fill Type Description }}
+
 
 ```yaml
 Type: Google.PowerShell.BigQuery.DataFormats
@@ -169,7 +169,7 @@ Accept wildcard characters: False
 ```
 
 ### -WriteMode
-{{ Fill WriteMode Description }}
+
 
 ```yaml
 Type: Google.Cloud.BigQuery.V2.WriteDisposition

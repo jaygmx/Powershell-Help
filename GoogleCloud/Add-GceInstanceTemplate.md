@@ -8,7 +8,7 @@ schema: 2.0.0
 # Add-GceInstanceTemplate
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -36,21 +36,21 @@ Add-GceInstanceTemplate [-Project <String>] [-Name] <String> -CustomCpu <Int32> 
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -AutomaticRestart
-{{ Fill AutomaticRestart Description }}
+
 
 ```yaml
 Type: System.Boolean
@@ -65,7 +65,7 @@ Accept wildcard characters: False
 ```
 
 ### -BootDiskImage
-{{ Fill BootDiskImage Description }}
+
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.Image
@@ -80,7 +80,7 @@ Accept wildcard characters: False
 ```
 
 ### -CanIpForward
-{{ Fill CanIpForward Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -95,7 +95,7 @@ Accept wildcard characters: False
 ```
 
 ### -CustomCpu
-{{ Fill CustomCpu Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -110,7 +110,7 @@ Accept wildcard characters: False
 ```
 
 ### -CustomMemory
-{{ Fill CustomMemory Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -125,7 +125,7 @@ Accept wildcard characters: False
 ```
 
 ### -Description
-{{ Fill Description Description }}
+
 
 ```yaml
 Type: System.String
@@ -140,7 +140,7 @@ Accept wildcard characters: False
 ```
 
 ### -Disk
-{{ Fill Disk Description }}
+
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.AttachedDisk[]
@@ -155,7 +155,7 @@ Accept wildcard characters: False
 ```
 
 ### -ExtraDisk
-{{ Fill ExtraDisk Description }}
+
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.Disk[]
@@ -170,7 +170,7 @@ Accept wildcard characters: False
 ```
 
 ### -Label
-{{ Fill Label Description }}
+
 
 ```yaml
 Type: System.Collections.Hashtable
@@ -185,7 +185,7 @@ Accept wildcard characters: False
 ```
 
 ### -MachineType
-{{ Fill MachineType Description }}
+
 
 ```yaml
 Type: System.String
@@ -200,7 +200,7 @@ Accept wildcard characters: False
 ```
 
 ### -Metadata
-{{ Fill Metadata Description }}
+
 
 ```yaml
 Type: System.Collections.IDictionary
@@ -215,7 +215,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
-{{ Fill Name Description }}
+
 
 ```yaml
 Type: System.String
@@ -230,7 +230,7 @@ Accept wildcard characters: False
 ```
 
 ### -Network
-{{ Fill Network Description }}
+
 
 ```yaml
 Type: System.String
@@ -245,7 +245,7 @@ Accept wildcard characters: False
 ```
 
 ### -NoExternalIp
-{{ Fill NoExternalIp Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -260,7 +260,7 @@ Accept wildcard characters: False
 ```
 
 ### -Object
-{{ Fill Object Description }}
+
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.InstanceTemplate
@@ -275,7 +275,7 @@ Accept wildcard characters: False
 ```
 
 ### -Preemptible
-{{ Fill Preemptible Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -290,7 +290,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String
@@ -305,7 +305,7 @@ Accept wildcard characters: False
 ```
 
 ### -Region
-{{ Fill Region Description }}
+
 
 ```yaml
 Type: System.String
@@ -320,7 +320,7 @@ Accept wildcard characters: False
 ```
 
 ### -ServiceAccount
-{{ Fill ServiceAccount Description }}
+
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.ServiceAccount[]
@@ -335,7 +335,7 @@ Accept wildcard characters: False
 ```
 
 ### -Subnetwork
-{{ Fill Subnetwork Description }}
+
 
 ```yaml
 Type: System.String
@@ -350,7 +350,7 @@ Accept wildcard characters: False
 ```
 
 ### -Tag
-{{ Fill Tag Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -365,7 +365,7 @@ Accept wildcard characters: False
 ```
 
 ### -TerminateOnMaintenance
-{{ Fill TerminateOnMaintenance Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter

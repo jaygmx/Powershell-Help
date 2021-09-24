@@ -8,7 +8,7 @@ schema: 2.0.0
 # Start-GcSqlReplica
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -23,21 +23,21 @@ Start-GcSqlReplica [-ReplicaObject] <DatabaseInstance> [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String
@@ -52,7 +52,7 @@ Accept wildcard characters: False
 ```
 
 ### -Replica
-{{ Fill Replica Description }}
+
 
 ```yaml
 Type: System.String
@@ -67,7 +67,7 @@ Accept wildcard characters: False
 ```
 
 ### -ReplicaObject
-{{ Fill ReplicaObject Description }}
+
 
 ```yaml
 Type: Google.Apis.SQLAdmin.v1beta4.Data.DatabaseInstance

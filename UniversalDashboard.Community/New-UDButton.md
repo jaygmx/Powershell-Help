@@ -249,7 +249,7 @@ Accept wildcard characters: False
 ```
 
 ### -Height
-{{ Fill Height Description }}
+
 
 ```yaml
 Type: System.String
@@ -264,7 +264,7 @@ Accept wildcard characters: False
 ```
 
 ### -IconAlignment
-{{ Fill IconAlignment Description }}
+
 
 ```yaml
 Type: System.String
@@ -279,7 +279,7 @@ Accept wildcard characters: False
 ```
 
 ### -Id
-{{ Fill Id Description }}
+
 
 ```yaml
 Type: System.String
@@ -294,7 +294,7 @@ Accept wildcard characters: False
 ```
 
 ### -OnClick
-{{ Fill OnClick Description }}
+
 
 ```yaml
 Type: System.Object
@@ -309,7 +309,7 @@ Accept wildcard characters: False
 ```
 
 ### -Style
-{{ Fill Style Description }}
+
 
 ```yaml
 Type: System.Collections.Hashtable
@@ -324,7 +324,7 @@ Accept wildcard characters: False
 ```
 
 ### -Text
-{{ Fill Text Description }}
+
 
 ```yaml
 Type: System.Object
@@ -339,7 +339,7 @@ Accept wildcard characters: False
 ```
 
 ### -Width
-{{ Fill Width Description }}
+
 
 ```yaml
 Type: System.String

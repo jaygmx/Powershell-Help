@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-HTMLSectionStyle
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -22,21 +22,21 @@ New-HTMLSectionStyle [-BorderRadius <String>] [-RemoveShadow] [-HeaderTextColor 
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Align
-{{ Fill Align Description }}
+
 
 ```yaml
 Type: System.String
@@ -52,7 +52,7 @@ Accept wildcard characters: False
 ```
 
 ### -AlignContent
-{{ Fill AlignContent Description }}
+
 
 ```yaml
 Type: System.String
@@ -68,7 +68,7 @@ Accept wildcard characters: False
 ```
 
 ### -AlignItems
-{{ Fill AlignItems Description }}
+
 
 ```yaml
 Type: System.String
@@ -84,7 +84,7 @@ Accept wildcard characters: False
 ```
 
 ### -AlignItemsContent
-{{ Fill AlignItemsContent Description }}
+
 
 ```yaml
 Type: System.String
@@ -100,7 +100,7 @@ Accept wildcard characters: False
 ```
 
 ### -BackgroundColorContent
-{{ Fill BackgroundColorContent Description }}
+
 
 ```yaml
 Type: System.String
@@ -115,7 +115,7 @@ Accept wildcard characters: False
 ```
 
 ### -BorderRadius
-{{ Fill BorderRadius Description }}
+
 
 ```yaml
 Type: System.String
@@ -131,7 +131,7 @@ Accept wildcard characters: False
 ```
 
 ### -Direction
-{{ Fill Direction Description }}
+
 
 ```yaml
 Type: System.String
@@ -147,7 +147,7 @@ Accept wildcard characters: False
 ```
 
 ### -DirectionContent
-{{ Fill DirectionContent Description }}
+
 
 ```yaml
 Type: System.String
@@ -163,7 +163,7 @@ Accept wildcard characters: False
 ```
 
 ### -HeaderBackGroundColor
-{{ Fill HeaderBackGroundColor Description }}
+
 
 ```yaml
 Type: System.String
@@ -178,7 +178,7 @@ Accept wildcard characters: False
 ```
 
 ### -HeaderRemovePadding
-{{ Fill HeaderRemovePadding Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -193,7 +193,7 @@ Accept wildcard characters: False
 ```
 
 ### -HeaderTextAlignment
-{{ Fill HeaderTextAlignment Description }}
+
 
 ```yaml
 Type: System.String
@@ -209,7 +209,7 @@ Accept wildcard characters: False
 ```
 
 ### -HeaderTextColor
-{{ Fill HeaderTextColor Description }}
+
 
 ```yaml
 Type: System.String
@@ -224,7 +224,7 @@ Accept wildcard characters: False
 ```
 
 ### -Justify
-{{ Fill Justify Description }}
+
 
 ```yaml
 Type: System.String
@@ -240,7 +240,7 @@ Accept wildcard characters: False
 ```
 
 ### -JustifyContent
-{{ Fill JustifyContent Description }}
+
 
 ```yaml
 Type: System.String
@@ -256,7 +256,7 @@ Accept wildcard characters: False
 ```
 
 ### -RemoveShadow
-{{ Fill RemoveShadow Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -271,7 +271,7 @@ Accept wildcard characters: False
 ```
 
 ### -RequestConfiguration
-{{ Fill RequestConfiguration Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -286,7 +286,7 @@ Accept wildcard characters: False
 ```
 
 ### -Rotate
-{{ Fill Rotate Description }}
+
 
 ```yaml
 Type: System.String
@@ -302,7 +302,7 @@ Accept wildcard characters: False
 ```
 
 ### -TextOrientation
-{{ Fill TextOrientation Description }}
+
 
 ```yaml
 Type: System.String
@@ -318,7 +318,7 @@ Accept wildcard characters: False
 ```
 
 ### -Wrap
-{{ Fill Wrap Description }}
+
 
 ```yaml
 Type: System.String
@@ -334,7 +334,7 @@ Accept wildcard characters: False
 ```
 
 ### -WrapContent
-{{ Fill WrapContent Description }}
+
 
 ```yaml
 Type: System.String
@@ -350,7 +350,7 @@ Accept wildcard characters: False
 ```
 
 ### -WritingMode
-{{ Fill WritingMode Description }}
+
 
 ```yaml
 Type: System.String

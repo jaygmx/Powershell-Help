@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-ChartGrid
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -20,21 +20,21 @@ New-ChartGrid [-Show] [[-BorderColor] <String>] [[-StrokeDash] <Int32>] [[-Posit
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -BorderColor
-{{ Fill BorderColor Description }}
+
 
 ```yaml
 Type: System.String
@@ -49,7 +49,7 @@ Accept wildcard characters: False
 ```
 
 ### -ColumnColors
-{{ Fill ColumnColors Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -64,7 +64,7 @@ Accept wildcard characters: False
 ```
 
 ### -ColumnOpacity
-{{ Fill ColumnOpacity Description }}
+
 
 ```yaml
 Type: System.Double
@@ -79,7 +79,7 @@ Accept wildcard characters: False
 ```
 
 ### -PaddingBottom
-{{ Fill PaddingBottom Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -94,7 +94,7 @@ Accept wildcard characters: False
 ```
 
 ### -PaddingLeft
-{{ Fill PaddingLeft Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -109,7 +109,7 @@ Accept wildcard characters: False
 ```
 
 ### -PaddingRight
-{{ Fill PaddingRight Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -124,7 +124,7 @@ Accept wildcard characters: False
 ```
 
 ### -PaddingTop
-{{ Fill PaddingTop Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -139,7 +139,7 @@ Accept wildcard characters: False
 ```
 
 ### -Position
-{{ Fill Position Description }}
+
 
 ```yaml
 Type: System.String
@@ -155,7 +155,7 @@ Accept wildcard characters: False
 ```
 
 ### -RowColors
-{{ Fill RowColors Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -170,7 +170,7 @@ Accept wildcard characters: False
 ```
 
 ### -RowOpacity
-{{ Fill RowOpacity Description }}
+
 
 ```yaml
 Type: System.Double
@@ -185,7 +185,7 @@ Accept wildcard characters: False
 ```
 
 ### -Show
-{{ Fill Show Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -200,7 +200,7 @@ Accept wildcard characters: False
 ```
 
 ### -StrokeDash
-{{ Fill StrokeDash Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -215,7 +215,7 @@ Accept wildcard characters: False
 ```
 
 ### -xAxisLinesShow
-{{ Fill xAxisLinesShow Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -230,7 +230,7 @@ Accept wildcard characters: False
 ```
 
 ### -yAxisLinesShow
-{{ Fill yAxisLinesShow Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter

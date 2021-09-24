@@ -37,7 +37,7 @@ PS C:\> $Slide3 = @{
         }
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
@@ -72,7 +72,7 @@ Accept wildcard characters: False
 ```
 
 ### -ImageSource
-{{ Fill ImageSource Description }}
+
 
 ```yaml
 Type: System.String
@@ -87,7 +87,7 @@ Accept wildcard characters: False
 ```
 
 ### -Style
-{{ Fill Style Description }}
+
 
 ```yaml
 Type: System.Collections.Hashtable

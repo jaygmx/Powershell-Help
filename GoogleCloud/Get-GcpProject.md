@@ -8,7 +8,7 @@ schema: 2.0.0
 # Get-GcpProject
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -17,21 +17,21 @@ Get-GcpProject [-Name <String>] [-ProjectId <String>] [-Label <Hashtable>] [<Com
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Label
-{{ Fill Label Description }}
+
 
 ```yaml
 Type: System.Collections.Hashtable
@@ -46,7 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
-{{ Fill Name Description }}
+
 
 ```yaml
 Type: System.String
@@ -61,7 +61,7 @@ Accept wildcard characters: False
 ```
 
 ### -ProjectId
-{{ Fill ProjectId Description }}
+
 
 ```yaml
 Type: System.String

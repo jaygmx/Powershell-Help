@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-ChartTheme
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -18,21 +18,21 @@ New-ChartTheme [[-Mode] <String>] [[-Palette] <String>] [-Monochrome] [[-Color] 
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Color
-{{ Fill Color Description }}
+
 
 ```yaml
 Type: System.String
@@ -47,7 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -Mode
-{{ Fill Mode Description }}
+
 
 ```yaml
 Type: System.String
@@ -63,7 +63,7 @@ Accept wildcard characters: False
 ```
 
 ### -Monochrome
-{{ Fill Monochrome Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -78,7 +78,7 @@ Accept wildcard characters: False
 ```
 
 ### -Palette
-{{ Fill Palette Description }}
+
 
 ```yaml
 Type: System.String
@@ -94,7 +94,7 @@ Accept wildcard characters: False
 ```
 
 ### -ShadeIntensity
-{{ Fill ShadeIntensity Description }}
+
 
 ```yaml
 Type: System.Double
@@ -109,7 +109,7 @@ Accept wildcard characters: False
 ```
 
 ### -ShadeTo
-{{ Fill ShadeTo Description }}
+
 
 ```yaml
 Type: System.String

@@ -25,10 +25,10 @@ Author information is: velecky@velecky.onmicrosoft.com
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

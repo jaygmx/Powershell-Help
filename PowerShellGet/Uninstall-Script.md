@@ -8,7 +8,7 @@ schema: 2.0.0
 # Uninstall-Script
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -24,21 +24,21 @@ Uninstall-Script [-InputObject] <PSObject[]> [-Force] [-WhatIf] [-Confirm] [<Com
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -AllowPrerelease
-{{ Fill AllowPrerelease Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -68,7 +68,7 @@ Accept wildcard characters: False
 ```
 
 ### -Force
-{{ Fill Force Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -83,7 +83,7 @@ Accept wildcard characters: False
 ```
 
 ### -InputObject
-{{ Fill InputObject Description }}
+
 
 ```yaml
 Type: System.Management.Automation.PSObject[]
@@ -98,7 +98,7 @@ Accept wildcard characters: False
 ```
 
 ### -MaximumVersion
-{{ Fill MaximumVersion Description }}
+
 
 ```yaml
 Type: System.String
@@ -113,7 +113,7 @@ Accept wildcard characters: False
 ```
 
 ### -MinimumVersion
-{{ Fill MinimumVersion Description }}
+
 
 ```yaml
 Type: System.String
@@ -128,7 +128,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
-{{ Fill Name Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -143,7 +143,7 @@ Accept wildcard characters: False
 ```
 
 ### -RequiredVersion
-{{ Fill RequiredVersion Description }}
+
 
 ```yaml
 Type: System.String

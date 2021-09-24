@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-ExcelStyle
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -26,21 +26,21 @@ New-ExcelStyle [[-Range] <Object>] [[-NumberFormat] <Object>] [[-BorderAround] <
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -ArrayFormula
-{{ Fill ArrayFormula Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -55,7 +55,7 @@ Accept wildcard characters: False
 ```
 
 ### -AutoSize
-{{ Fill AutoSize Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -70,7 +70,7 @@ Accept wildcard characters: False
 ```
 
 ### -BackgroundColor
-{{ Fill BackgroundColor Description }}
+
 
 ```yaml
 Type: System.Object
@@ -85,7 +85,7 @@ Accept wildcard characters: False
 ```
 
 ### -BackgroundPattern
-{{ Fill BackgroundPattern Description }}
+
 
 ```yaml
 Type: OfficeOpenXml.Style.ExcelFillStyle
@@ -101,7 +101,7 @@ Accept wildcard characters: False
 ```
 
 ### -Bold
-{{ Fill Bold Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -116,7 +116,7 @@ Accept wildcard characters: False
 ```
 
 ### -BorderAround
-{{ Fill BorderAround Description }}
+
 
 ```yaml
 Type: OfficeOpenXml.Style.ExcelBorderStyle
@@ -132,7 +132,7 @@ Accept wildcard characters: False
 ```
 
 ### -BorderBottom
-{{ Fill BorderBottom Description }}
+
 
 ```yaml
 Type: OfficeOpenXml.Style.ExcelBorderStyle
@@ -148,7 +148,7 @@ Accept wildcard characters: False
 ```
 
 ### -BorderColor
-{{ Fill BorderColor Description }}
+
 
 ```yaml
 Type: System.Object
@@ -163,7 +163,7 @@ Accept wildcard characters: False
 ```
 
 ### -BorderLeft
-{{ Fill BorderLeft Description }}
+
 
 ```yaml
 Type: OfficeOpenXml.Style.ExcelBorderStyle
@@ -179,7 +179,7 @@ Accept wildcard characters: False
 ```
 
 ### -BorderRight
-{{ Fill BorderRight Description }}
+
 
 ```yaml
 Type: OfficeOpenXml.Style.ExcelBorderStyle
@@ -195,7 +195,7 @@ Accept wildcard characters: False
 ```
 
 ### -BorderTop
-{{ Fill BorderTop Description }}
+
 
 ```yaml
 Type: OfficeOpenXml.Style.ExcelBorderStyle
@@ -211,7 +211,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontColor
-{{ Fill FontColor Description }}
+
 
 ```yaml
 Type: System.Object
@@ -226,7 +226,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontName
-{{ Fill FontName Description }}
+
 
 ```yaml
 Type: System.String
@@ -241,7 +241,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontShift
-{{ Fill FontShift Description }}
+
 
 ```yaml
 Type: OfficeOpenXml.Style.ExcelVerticalAlignmentFont
@@ -257,7 +257,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontSize
-{{ Fill FontSize Description }}
+
 
 ```yaml
 Type: System.Single
@@ -272,7 +272,7 @@ Accept wildcard characters: False
 ```
 
 ### -Formula
-{{ Fill Formula Description }}
+
 
 ```yaml
 Type: System.Object
@@ -287,7 +287,7 @@ Accept wildcard characters: False
 ```
 
 ### -Height
-{{ Fill Height Description }}
+
 
 ```yaml
 Type: System.Single
@@ -302,7 +302,7 @@ Accept wildcard characters: False
 ```
 
 ### -Hidden
-{{ Fill Hidden Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -317,7 +317,7 @@ Accept wildcard characters: False
 ```
 
 ### -HorizontalAlignment
-{{ Fill HorizontalAlignment Description }}
+
 
 ```yaml
 Type: OfficeOpenXml.Style.ExcelHorizontalAlignment
@@ -333,7 +333,7 @@ Accept wildcard characters: False
 ```
 
 ### -Italic
-{{ Fill Italic Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -348,7 +348,7 @@ Accept wildcard characters: False
 ```
 
 ### -Locked
-{{ Fill Locked Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -363,7 +363,7 @@ Accept wildcard characters: False
 ```
 
 ### -Merge
-{{ Fill Merge Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -378,7 +378,7 @@ Accept wildcard characters: False
 ```
 
 ### -NumberFormat
-{{ Fill NumberFormat Description }}
+
 
 ```yaml
 Type: System.Object
@@ -393,7 +393,7 @@ Accept wildcard characters: False
 ```
 
 ### -PatternColor
-{{ Fill PatternColor Description }}
+
 
 ```yaml
 Type: System.Object
@@ -408,7 +408,7 @@ Accept wildcard characters: False
 ```
 
 ### -Range
-{{ Fill Range Description }}
+
 
 ```yaml
 Type: System.Object
@@ -423,7 +423,7 @@ Accept wildcard characters: False
 ```
 
 ### -ResetFont
-{{ Fill ResetFont Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -438,7 +438,7 @@ Accept wildcard characters: False
 ```
 
 ### -StrikeThru
-{{ Fill StrikeThru Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -453,7 +453,7 @@ Accept wildcard characters: False
 ```
 
 ### -TextRotation
-{{ Fill TextRotation Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -468,7 +468,7 @@ Accept wildcard characters: False
 ```
 
 ### -UnderLineType
-{{ Fill UnderLineType Description }}
+
 
 ```yaml
 Type: OfficeOpenXml.Style.ExcelUnderLineType
@@ -484,7 +484,7 @@ Accept wildcard characters: False
 ```
 
 ### -Underline
-{{ Fill Underline Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -499,7 +499,7 @@ Accept wildcard characters: False
 ```
 
 ### -Value
-{{ Fill Value Description }}
+
 
 ```yaml
 Type: System.Object
@@ -514,7 +514,7 @@ Accept wildcard characters: False
 ```
 
 ### -VerticalAlignment
-{{ Fill VerticalAlignment Description }}
+
 
 ```yaml
 Type: OfficeOpenXml.Style.ExcelVerticalAlignment
@@ -530,7 +530,7 @@ Accept wildcard characters: False
 ```
 
 ### -Width
-{{ Fill Width Description }}
+
 
 ```yaml
 Type: System.Single
@@ -545,7 +545,7 @@ Accept wildcard characters: False
 ```
 
 ### -WrapText
-{{ Fill WrapText Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter

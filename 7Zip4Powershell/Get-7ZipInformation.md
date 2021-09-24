@@ -8,7 +8,7 @@ schema: 2.0.0
 # Get-7ZipInformation
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -28,16 +28,16 @@ Get-7ZipInformation [-ArchiveFileName] <String[]> [-SecurePassword <SecureString
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
@@ -57,7 +57,7 @@ Accept wildcard characters: False
 ```
 
 ### -Password
-{{ Fill Password Description }}
+
 
 ```yaml
 Type: System.String
@@ -72,7 +72,7 @@ Accept wildcard characters: False
 ```
 
 ### -SecurePassword
-{{ Fill SecurePassword Description }}
+
 
 ```yaml
 Type: System.Security.SecureString

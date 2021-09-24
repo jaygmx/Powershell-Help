@@ -120,7 +120,7 @@ Loads a side menu dynamically from an endpoint.
 ## PARAMETERS
 
 ### -Background
-{{Fill Background Description}}
+
 
 ```yaml
 Type: System.String
@@ -182,7 +182,7 @@ Required: False Position: Named Default value: None Accept pipeline input: False
 
 ### -Image
 
-{{Fill Image Description}}
+
 
 yaml Type: String Parameter Sets: (All) Aliases:
 
@@ -233,7 +233,7 @@ Accept wildcard characters: False
 ```
 
 ### -Id
-{{ Fill Id Description }}
+
 
 ```yaml
 Type: System.String
@@ -248,7 +248,7 @@ Accept wildcard characters: False
 ```
 
 ### -Image
-{{ Fill Image Description }}
+
 
 ```yaml
 Type: System.String
@@ -263,7 +263,7 @@ Accept wildcard characters: False
 ```
 
 ### -OnClick
-{{ Fill OnClick Description }}
+
 
 ```yaml
 Type: System.Object
@@ -278,7 +278,7 @@ Accept wildcard characters: False
 ```
 
 ### -SubHeader
-{{ Fill SubHeader Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -293,7 +293,7 @@ Accept wildcard characters: False
 ```
 
 ### -Text
-{{ Fill Text Description }}
+
 
 ```yaml
 Type: System.String
@@ -308,7 +308,7 @@ Accept wildcard characters: False
 ```
 
 ### -Url
-{{ Fill Url Description }}
+
 
 ```yaml
 Type: System.String

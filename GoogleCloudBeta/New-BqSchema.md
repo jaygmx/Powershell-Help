@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-BqSchema
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -29,21 +29,21 @@ New-BqSchema [-PassThruObject <TableFieldSchema>] -Filename <String> [<CommonPar
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Description
-{{ Fill Description Description }}
+
 
 ```yaml
 Type: System.String
@@ -58,7 +58,7 @@ Accept wildcard characters: False
 ```
 
 ### -Fields
-{{ Fill Fields Description }}
+
 
 ```yaml
 Type: Google.Apis.Bigquery.v2.Data.TableFieldSchema[]
@@ -73,7 +73,7 @@ Accept wildcard characters: False
 ```
 
 ### -Filename
-{{ Fill Filename Description }}
+
 
 ```yaml
 Type: System.String
@@ -88,7 +88,7 @@ Accept wildcard characters: False
 ```
 
 ### -JSON
-{{ Fill JSON Description }}
+
 
 ```yaml
 Type: System.String
@@ -103,7 +103,7 @@ Accept wildcard characters: False
 ```
 
 ### -Mode
-{{ Fill Mode Description }}
+
 
 ```yaml
 Type: System.Nullable`1[Google.PowerShell.BigQuery.ColumnMode]
@@ -119,7 +119,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
-{{ Fill Name Description }}
+
 
 ```yaml
 Type: System.String
@@ -134,7 +134,7 @@ Accept wildcard characters: False
 ```
 
 ### -PassThruObject
-{{ Fill PassThruObject Description }}
+
 
 ```yaml
 Type: Google.Apis.Bigquery.v2.Data.TableFieldSchema
@@ -149,7 +149,7 @@ Accept wildcard characters: False
 ```
 
 ### -Type
-{{ Fill Type Description }}
+
 
 ```yaml
 Type: Google.PowerShell.BigQuery.ColumnType

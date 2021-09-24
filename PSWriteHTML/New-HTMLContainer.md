@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-HTMLContainer
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -18,21 +18,21 @@ New-HTMLContainer [[-HTML] <ScriptBlock>] [-Width <Object>] [-Margin <String>] [
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -AnchorName
-{{ Fill AnchorName Description }}
+
 
 ```yaml
 Type: System.String
@@ -47,7 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -HTML
-{{ Fill HTML Description }}
+
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock
@@ -62,7 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -Margin
-{{ Fill Margin Description }}
+
 
 ```yaml
 Type: System.String
@@ -77,7 +77,7 @@ Accept wildcard characters: False
 ```
 
 ### -Width
-{{ Fill Width Description }}
+
 
 ```yaml
 Type: System.Object

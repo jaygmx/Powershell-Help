@@ -8,7 +8,7 @@ schema: 2.0.0
 # Update-AllBranches
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -17,21 +17,21 @@ Update-AllBranches [[-Upstream] <Object>] [-Quiet]
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Quiet
-{{ Fill Quiet Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -46,7 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -Upstream
-{{ Fill Upstream Description }}
+
 
 ```yaml
 Type: System.Object

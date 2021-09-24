@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-TableReplace
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -17,21 +17,21 @@ New-TableReplace [[-FieldName] <String>] [[-Replacements] <String[]>] [<CommonPa
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -FieldName
-{{ Fill FieldName Description }}
+
 
 ```yaml
 Type: System.String
@@ -46,7 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -Replacements
-{{ Fill Replacements Description }}
+
 
 ```yaml
 Type: System.String[]

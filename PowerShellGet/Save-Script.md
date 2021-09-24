@@ -8,7 +8,7 @@ schema: 2.0.0
 # Save-Script
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -41,21 +41,21 @@ Save-Script [-InputObject] <PSObject[]> [-Path] <String> [-Proxy <Uri>] [-ProxyC
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -AcceptLicense
-{{ Fill AcceptLicense Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -70,7 +70,7 @@ Accept wildcard characters: False
 ```
 
 ### -AllowPrerelease
-{{ Fill AllowPrerelease Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -100,7 +100,7 @@ Accept wildcard characters: False
 ```
 
 ### -Credential
-{{ Fill Credential Description }}
+
 
 ```yaml
 Type: System.Management.Automation.PSCredential
@@ -115,7 +115,7 @@ Accept wildcard characters: False
 ```
 
 ### -Force
-{{ Fill Force Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -130,7 +130,7 @@ Accept wildcard characters: False
 ```
 
 ### -InputObject
-{{ Fill InputObject Description }}
+
 
 ```yaml
 Type: System.Management.Automation.PSObject[]
@@ -145,7 +145,7 @@ Accept wildcard characters: False
 ```
 
 ### -LiteralPath
-{{ Fill LiteralPath Description }}
+
 
 ```yaml
 Type: System.String
@@ -160,7 +160,7 @@ Accept wildcard characters: False
 ```
 
 ### -MaximumVersion
-{{ Fill MaximumVersion Description }}
+
 
 ```yaml
 Type: System.String
@@ -175,7 +175,7 @@ Accept wildcard characters: False
 ```
 
 ### -MinimumVersion
-{{ Fill MinimumVersion Description }}
+
 
 ```yaml
 Type: System.String
@@ -190,7 +190,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
-{{ Fill Name Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -205,7 +205,7 @@ Accept wildcard characters: False
 ```
 
 ### -Path
-{{ Fill Path Description }}
+
 
 ```yaml
 Type: System.String
@@ -220,7 +220,7 @@ Accept wildcard characters: False
 ```
 
 ### -Proxy
-{{ Fill Proxy Description }}
+
 
 ```yaml
 Type: System.Uri
@@ -235,7 +235,7 @@ Accept wildcard characters: False
 ```
 
 ### -ProxyCredential
-{{ Fill ProxyCredential Description }}
+
 
 ```yaml
 Type: System.Management.Automation.PSCredential
@@ -250,7 +250,7 @@ Accept wildcard characters: False
 ```
 
 ### -Repository
-{{ Fill Repository Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -265,7 +265,7 @@ Accept wildcard characters: False
 ```
 
 ### -RequiredVersion
-{{ Fill RequiredVersion Description }}
+
 
 ```yaml
 Type: System.String

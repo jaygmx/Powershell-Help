@@ -46,7 +46,7 @@ Inserts an SVG, base64 logo and sizes it to 50px by 50px.
 ## PARAMETERS
 
 ### -Attributes
-{{Fill Attributes Description}}
+
 
 ```yaml
 Type: Hashtable

@@ -8,7 +8,7 @@ schema: 2.0.0
 # Publish-GcpsMessage
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -24,21 +24,21 @@ Publish-GcpsMessage [-Project <String>] [-Topic] <String> -Message <PubsubMessag
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Attributes
-{{ Fill Attributes Description }}
+
 
 ```yaml
 Type: System.Collections.Hashtable
@@ -53,7 +53,7 @@ Accept wildcard characters: False
 ```
 
 ### -Data
-{{ Fill Data Description }}
+
 
 ```yaml
 Type: System.String
@@ -68,7 +68,7 @@ Accept wildcard characters: False
 ```
 
 ### -Message
-{{ Fill Message Description }}
+
 
 ```yaml
 Type: Google.Apis.Pubsub.v1.Data.PubsubMessage[]
@@ -83,7 +83,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String
@@ -98,7 +98,7 @@ Accept wildcard characters: False
 ```
 
 ### -Topic
-{{ Fill Topic Description }}
+
 
 ```yaml
 Type: System.String

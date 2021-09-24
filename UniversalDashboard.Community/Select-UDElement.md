@@ -74,7 +74,7 @@ Accept wildcard characters: False
 ```
 
 ### -ScrollToElement
-{{ Fill ScrollToElement Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter

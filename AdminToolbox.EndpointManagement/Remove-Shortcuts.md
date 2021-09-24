@@ -28,7 +28,7 @@ Remove-Shortcuts
 ## PARAMETERS
 
 ### -MyDesktopOnly
-{{ Fill MyDesktopOnly Description }}
+
 
 ```yaml
 Type: System.Object

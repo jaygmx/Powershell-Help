@@ -8,7 +8,7 @@ schema: 2.0.0
 # Remove-GcpsSubscription
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -18,16 +18,16 @@ Remove-GcpsSubscription [-Project <String>] [[-Subscription] <String[]>] [-WhatI
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
@@ -47,7 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String
@@ -62,7 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -Subscription
-{{ Fill Subscription Description }}
+
 
 ```yaml
 Type: System.String[]

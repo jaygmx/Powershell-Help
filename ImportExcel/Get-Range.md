@@ -8,7 +8,7 @@ schema: 2.0.0
 # Get-Range
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -17,21 +17,21 @@ Get-Range [[-Start] <Object>] [[-Stop] <Object>] [[-Step] <Object>] [<CommonPara
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Start
-{{ Fill Start Description }}
+
 
 ```yaml
 Type: System.Object
@@ -46,7 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -Step
-{{ Fill Step Description }}
+
 
 ```yaml
 Type: System.Object
@@ -61,7 +61,7 @@ Accept wildcard characters: False
 ```
 
 ### -Stop
-{{ Fill Stop Description }}
+
 
 ```yaml
 Type: System.Object

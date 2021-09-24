@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-HTMLDiagram
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -18,21 +18,21 @@ New-HTMLDiagram [[-Diagram] <ScriptBlock>] [[-Height] <Object>] [[-Width] <Objec
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -BackGroundImage
-{{ Fill BackGroundImage Description }}
+
 
 ```yaml
 Type: System.Uri
@@ -47,7 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -BackgroundSize
-{{ Fill BackgroundSize Description }}
+
 
 ```yaml
 Type: System.String
@@ -62,7 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -BundleImages
-{{ Fill BundleImages Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -77,7 +77,7 @@ Accept wildcard characters: False
 ```
 
 ### -Diagram
-{{ Fill Diagram Description }}
+
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock
@@ -92,7 +92,7 @@ Accept wildcard characters: False
 ```
 
 ### -DisableLoader
-{{ Fill DisableLoader Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -107,7 +107,7 @@ Accept wildcard characters: False
 ```
 
 ### -Height
-{{ Fill Height Description }}
+
 
 ```yaml
 Type: System.Object
@@ -122,7 +122,7 @@ Accept wildcard characters: False
 ```
 
 ### -NoAutoResize
-{{ Fill NoAutoResize Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -137,7 +137,7 @@ Accept wildcard characters: False
 ```
 
 ### -Width
-{{ Fill Width Description }}
+
 
 ```yaml
 Type: System.Object

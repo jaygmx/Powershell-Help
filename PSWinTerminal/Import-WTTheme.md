@@ -23,10 +23,10 @@ Import-WTTheme will import a valid scheme in JSON format from your clipboard
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

@@ -8,7 +8,7 @@ schema: 2.0.0
 # Remove-GceHealthCheck
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -33,16 +33,16 @@ Remove-GceHealthCheck [-Https] [-HttpsObject] <HttpsHealthCheck> [-WhatIf] [-Con
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
@@ -62,7 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -Http
-{{ Fill Http Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -89,7 +89,7 @@ Accept wildcard characters: False
 ```
 
 ### -HttpObject
-{{ Fill HttpObject Description }}
+
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.HttpHealthCheck
@@ -104,7 +104,7 @@ Accept wildcard characters: False
 ```
 
 ### -Https
-{{ Fill Https Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -131,7 +131,7 @@ Accept wildcard characters: False
 ```
 
 ### -HttpsObject
-{{ Fill HttpsObject Description }}
+
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.HttpsHealthCheck
@@ -146,7 +146,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
-{{ Fill Name Description }}
+
 
 ```yaml
 Type: System.String
@@ -161,7 +161,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String

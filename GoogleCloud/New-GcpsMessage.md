@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-GcpsMessage
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -17,21 +17,21 @@ New-GcpsMessage [-Data <String>] [-Attributes <Hashtable>] [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Attributes
-{{ Fill Attributes Description }}
+
 
 ```yaml
 Type: System.Collections.Hashtable
@@ -46,7 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -Data
-{{ Fill Data Description }}
+
 
 ```yaml
 Type: System.String

@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-DiagramEvent
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -17,21 +17,21 @@ New-DiagramEvent [[-ID] <String>] [[-ColumnID] <Int32>] [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -ColumnID
-{{ Fill ColumnID Description }}
+
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -46,7 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -ID
-{{ Fill ID Description }}
+
 
 ```yaml
 Type: System.String

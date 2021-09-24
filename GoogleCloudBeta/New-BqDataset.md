@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-BqDataset
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -24,21 +24,21 @@ New-BqDataset [-Dataset <Dataset>] [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Dataset
-{{ Fill Dataset Description }}
+
 
 ```yaml
 Type: Google.Apis.Bigquery.v2.Data.Dataset
@@ -53,7 +53,7 @@ Accept wildcard characters: False
 ```
 
 ### -DatasetId
-{{ Fill DatasetId Description }}
+
 
 ```yaml
 Type: System.String
@@ -68,7 +68,7 @@ Accept wildcard characters: False
 ```
 
 ### -Description
-{{ Fill Description Description }}
+
 
 ```yaml
 Type: System.String
@@ -83,7 +83,7 @@ Accept wildcard characters: False
 ```
 
 ### -Expiration
-{{ Fill Expiration Description }}
+
 
 ```yaml
 Type: System.Int64
@@ -98,7 +98,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
-{{ Fill Name Description }}
+
 
 ```yaml
 Type: System.String
@@ -113,7 +113,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String

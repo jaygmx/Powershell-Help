@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-UDMuCard
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -19,21 +19,21 @@ New-UDMuCard [[-Id] <String>] [[-ClassName] <String>] [[-ToolBar] <Object>] [[-H
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Body
-{{ Fill Body Description }}
+
 
 ```yaml
 Type: Object
@@ -48,7 +48,7 @@ Accept wildcard characters: False
 ```
 
 ### -ClassName
-{{ Fill ClassName Description }}
+
 
 ```yaml
 Type: String
@@ -63,7 +63,7 @@ Accept wildcard characters: False
 ```
 
 ### -Elevation
-{{ Fill Elevation Description }}
+
 
 ```yaml
 Type: Int32
@@ -79,7 +79,7 @@ Accept wildcard characters: False
 ```
 
 ### -Expand
-{{ Fill Expand Description }}
+
 
 ```yaml
 Type: Object
@@ -94,7 +94,7 @@ Accept wildcard characters: False
 ```
 
 ### -Footer
-{{ Fill Footer Description }}
+
 
 ```yaml
 Type: Object
@@ -109,7 +109,7 @@ Accept wildcard characters: False
 ```
 
 ### -Header
-{{ Fill Header Description }}
+
 
 ```yaml
 Type: Object
@@ -124,7 +124,7 @@ Accept wildcard characters: False
 ```
 
 ### -Id
-{{ Fill Id Description }}
+
 
 ```yaml
 Type: String
@@ -139,7 +139,7 @@ Accept wildcard characters: False
 ```
 
 ### -ShowToolBar
-{{ Fill ShowToolBar Description }}
+
 
 ```yaml
 Type: SwitchParameter
@@ -154,7 +154,7 @@ Accept wildcard characters: False
 ```
 
 ### -Style
-{{ Fill Style Description }}
+
 
 ```yaml
 Type: Hashtable
@@ -169,7 +169,7 @@ Accept wildcard characters: False
 ```
 
 ### -ToolBar
-{{ Fill ToolBar Description }}
+
 
 ```yaml
 Type: Object

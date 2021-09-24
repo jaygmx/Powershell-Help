@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-AccordionItem
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -18,21 +18,21 @@ New-AccordionItem [[-HeaderText] <String>] [[-HeaderAlign] <String>] [[-PanelTex
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -HeaderAlign
-{{ Fill HeaderAlign Description }}
+
 
 ```yaml
 Type: System.String
@@ -47,7 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -HeaderText
-{{ Fill HeaderText Description }}
+
 
 ```yaml
 Type: System.String
@@ -62,7 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -PanelText
-{{ Fill PanelText Description }}
+
 
 ```yaml
 Type: System.String

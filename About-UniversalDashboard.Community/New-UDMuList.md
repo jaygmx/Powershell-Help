@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-UDMuList
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -18,21 +18,21 @@ New-UDMuList [[-Id] <String>] [[-Content] <ScriptBlock>] [[-SubHeader] <String>]
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Content
-{{ Fill Content Description }}
+
 
 ```yaml
 Type: ScriptBlock
@@ -47,7 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -Id
-{{ Fill Id Description }}
+
 
 ```yaml
 Type: String
@@ -62,7 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -Style
-{{ Fill Style Description }}
+
 
 ```yaml
 Type: Hashtable
@@ -77,7 +77,7 @@ Accept wildcard characters: False
 ```
 
 ### -SubHeader
-{{ Fill SubHeader Description }}
+
 
 ```yaml
 Type: String

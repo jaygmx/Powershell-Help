@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-BqTable
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -30,21 +30,21 @@ New-BqTable -Dataset <DatasetReference> [-TableId] <String> [-Name <String>] [-D
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Dataset
-{{ Fill Dataset Description }}
+
 
 ```yaml
 Type: Google.Apis.Bigquery.v2.Data.DatasetReference
@@ -59,7 +59,7 @@ Accept wildcard characters: False
 ```
 
 ### -DatasetId
-{{ Fill DatasetId Description }}
+
 
 ```yaml
 Type: System.String
@@ -74,7 +74,7 @@ Accept wildcard characters: False
 ```
 
 ### -Description
-{{ Fill Description Description }}
+
 
 ```yaml
 Type: System.String
@@ -89,7 +89,7 @@ Accept wildcard characters: False
 ```
 
 ### -Expiration
-{{ Fill Expiration Description }}
+
 
 ```yaml
 Type: System.Int64
@@ -104,7 +104,7 @@ Accept wildcard characters: False
 ```
 
 ### -InputObject
-{{ Fill InputObject Description }}
+
 
 ```yaml
 Type: Google.Apis.Bigquery.v2.Data.Table
@@ -119,7 +119,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
-{{ Fill Name Description }}
+
 
 ```yaml
 Type: System.String
@@ -134,7 +134,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String
@@ -149,7 +149,7 @@ Accept wildcard characters: False
 ```
 
 ### -Schema
-{{ Fill Schema Description }}
+
 
 ```yaml
 Type: Google.Apis.Bigquery.v2.Data.TableSchema
@@ -164,7 +164,7 @@ Accept wildcard characters: False
 ```
 
 ### -TableId
-{{ Fill TableId Description }}
+
 
 ```yaml
 Type: System.String

@@ -66,10 +66,10 @@ Would convert into a three item list, the first a link to the web, the second a 
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

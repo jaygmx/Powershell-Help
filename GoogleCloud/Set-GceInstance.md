@@ -8,7 +8,7 @@ schema: 2.0.0
 # Set-GceInstance
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -71,21 +71,21 @@ Set-GceInstance [-Object] <Instance> [-AddTag <String[]>] [-RemoveTag <String[]>
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -AddAccessConfig
-{{ Fill AddAccessConfig Description }}
+
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.AccessConfig[]
@@ -100,7 +100,7 @@ Accept wildcard characters: False
 ```
 
 ### -AddDisk
-{{ Fill AddDisk Description }}
+
 
 ```yaml
 Type: System.Object[]
@@ -115,7 +115,7 @@ Accept wildcard characters: False
 ```
 
 ### -AddMetadata
-{{ Fill AddMetadata Description }}
+
 
 ```yaml
 Type: System.Collections.Hashtable
@@ -130,7 +130,7 @@ Accept wildcard characters: False
 ```
 
 ### -AddTag
-{{ Fill AddTag Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -145,7 +145,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
-{{ Fill Name Description }}
+
 
 ```yaml
 Type: System.String
@@ -160,7 +160,7 @@ Accept wildcard characters: False
 ```
 
 ### -NetworkInterface
-{{ Fill NetworkInterface Description }}
+
 
 ```yaml
 Type: System.String
@@ -175,7 +175,7 @@ Accept wildcard characters: False
 ```
 
 ### -Object
-{{ Fill Object Description }}
+
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.Instance
@@ -190,7 +190,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String
@@ -205,7 +205,7 @@ Accept wildcard characters: False
 ```
 
 ### -RemoveAccessConfig
-{{ Fill RemoveAccessConfig Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -220,7 +220,7 @@ Accept wildcard characters: False
 ```
 
 ### -RemoveDisk
-{{ Fill RemoveDisk Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -235,7 +235,7 @@ Accept wildcard characters: False
 ```
 
 ### -RemoveMetadata
-{{ Fill RemoveMetadata Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -250,7 +250,7 @@ Accept wildcard characters: False
 ```
 
 ### -RemoveTag
-{{ Fill RemoveTag Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -265,7 +265,7 @@ Accept wildcard characters: False
 ```
 
 ### -TurnOffAutoDeleteDisk
-{{ Fill TurnOffAutoDeleteDisk Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -280,7 +280,7 @@ Accept wildcard characters: False
 ```
 
 ### -TurnOnAutoDeleteDisk
-{{ Fill TurnOnAutoDeleteDisk Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -295,7 +295,7 @@ Accept wildcard characters: False
 ```
 
 ### -Zone
-{{ Fill Zone Description }}
+
 
 ```yaml
 Type: System.String

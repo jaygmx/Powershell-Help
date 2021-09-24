@@ -8,7 +8,7 @@ schema: 2.0.0
 # Start-BqJob
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -41,21 +41,21 @@ Start-BqJob [-Project <String>] [-PollUntilComplete] [-Destination] <TableRefere
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -AllowJaggedRows
-{{ Fill AllowJaggedRows Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -70,7 +70,7 @@ Accept wildcard characters: False
 ```
 
 ### -AllowQuotedNewlines
-{{ Fill AllowQuotedNewlines Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -85,7 +85,7 @@ Accept wildcard characters: False
 ```
 
 ### -AllowUnknownFields
-{{ Fill AllowUnknownFields Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -100,7 +100,7 @@ Accept wildcard characters: False
 ```
 
 ### -Compress
-{{ Fill Compress Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -130,7 +130,7 @@ Accept wildcard characters: False
 ```
 
 ### -Copy
-{{ Fill Copy Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -145,7 +145,7 @@ Accept wildcard characters: False
 ```
 
 ### -DefaultDataset
-{{ Fill DefaultDataset Description }}
+
 
 ```yaml
 Type: Google.Apis.Bigquery.v2.Data.DatasetReference
@@ -160,7 +160,7 @@ Accept wildcard characters: False
 ```
 
 ### -Destination
-{{ Fill Destination Description }}
+
 
 ```yaml
 Type: Google.Apis.Bigquery.v2.Data.TableReference
@@ -199,7 +199,7 @@ Accept wildcard characters: False
 ```
 
 ### -DestinationUris
-{{ Fill DestinationUris Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -214,7 +214,7 @@ Accept wildcard characters: False
 ```
 
 ### -Encoding
-{{ Fill Encoding Description }}
+
 
 ```yaml
 Type: System.String
@@ -229,7 +229,7 @@ Accept wildcard characters: False
 ```
 
 ### -Extract
-{{ Fill Extract Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -244,7 +244,7 @@ Accept wildcard characters: False
 ```
 
 ### -FieldDelimiter
-{{ Fill FieldDelimiter Description }}
+
 
 ```yaml
 Type: System.String
@@ -259,7 +259,7 @@ Accept wildcard characters: False
 ```
 
 ### -Load
-{{ Fill Load Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -274,7 +274,7 @@ Accept wildcard characters: False
 ```
 
 ### -MaxBadRecords
-{{ Fill MaxBadRecords Description }}
+
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -289,7 +289,7 @@ Accept wildcard characters: False
 ```
 
 ### -NoHeader
-{{ Fill NoHeader Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -304,7 +304,7 @@ Accept wildcard characters: False
 ```
 
 ### -PollUntilComplete
-{{ Fill PollUntilComplete Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -319,7 +319,7 @@ Accept wildcard characters: False
 ```
 
 ### -Priority
-{{ Fill Priority Description }}
+
 
 ```yaml
 Type: Google.Cloud.BigQuery.V2.QueryPriority
@@ -335,7 +335,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String
@@ -350,7 +350,7 @@ Accept wildcard characters: False
 ```
 
 ### -Query
-{{ Fill Query Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -365,7 +365,7 @@ Accept wildcard characters: False
 ```
 
 ### -QueryString
-{{ Fill QueryString Description }}
+
 
 ```yaml
 Type: System.String
@@ -380,7 +380,7 @@ Accept wildcard characters: False
 ```
 
 ### -Quote
-{{ Fill Quote Description }}
+
 
 ```yaml
 Type: System.String
@@ -395,7 +395,7 @@ Accept wildcard characters: False
 ```
 
 ### -SkipLeadingRows
-{{ Fill SkipLeadingRows Description }}
+
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -410,7 +410,7 @@ Accept wildcard characters: False
 ```
 
 ### -Source
-{{ Fill Source Description }}
+
 
 ```yaml
 Type: Google.Apis.Bigquery.v2.Data.TableReference
@@ -425,7 +425,7 @@ Accept wildcard characters: False
 ```
 
 ### -SourceUris
-{{ Fill SourceUris Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -440,7 +440,7 @@ Accept wildcard characters: False
 ```
 
 ### -Type
-{{ Fill Type Description }}
+
 
 ```yaml
 Type: Google.PowerShell.BigQuery.DataFormats
@@ -456,7 +456,7 @@ Accept wildcard characters: False
 ```
 
 ### -UseLegacySql
-{{ Fill UseLegacySql Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -487,7 +487,7 @@ Accept wildcard characters: False
 ```
 
 ### -WriteMode
-{{ Fill WriteMode Description }}
+
 
 ```yaml
 Type: System.Nullable`1[Google.Cloud.BigQuery.V2.WriteDisposition]

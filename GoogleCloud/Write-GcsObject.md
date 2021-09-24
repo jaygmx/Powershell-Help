@@ -8,7 +8,7 @@ schema: 2.0.0
 # Write-GcsObject
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -41,21 +41,21 @@ Write-GcsObject [[-Bucket] <String>] [-ObjectName] <String> -File <String> [-Con
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Bucket
-{{ Fill Bucket Description }}
+
 
 ```yaml
 Type: System.String
@@ -70,7 +70,7 @@ Accept wildcard characters: False
 ```
 
 ### -CacheControl
-{{ Fill CacheControl Description }}
+
 
 ```yaml
 Type: System.String
@@ -85,7 +85,7 @@ Accept wildcard characters: False
 ```
 
 ### -ContentDisposition
-{{ Fill ContentDisposition Description }}
+
 
 ```yaml
 Type: System.String
@@ -100,7 +100,7 @@ Accept wildcard characters: False
 ```
 
 ### -ContentEncoding
-{{ Fill ContentEncoding Description }}
+
 
 ```yaml
 Type: System.String
@@ -115,7 +115,7 @@ Accept wildcard characters: False
 ```
 
 ### -ContentLanguage
-{{ Fill ContentLanguage Description }}
+
 
 ```yaml
 Type: System.String
@@ -130,7 +130,7 @@ Accept wildcard characters: False
 ```
 
 ### -ContentType
-{{ Fill ContentType Description }}
+
 
 ```yaml
 Type: System.String
@@ -145,7 +145,7 @@ Accept wildcard characters: False
 ```
 
 ### -File
-{{ Fill File Description }}
+
 
 ```yaml
 Type: System.String
@@ -160,7 +160,7 @@ Accept wildcard characters: False
 ```
 
 ### -Force
-{{ Fill Force Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -175,7 +175,7 @@ Accept wildcard characters: False
 ```
 
 ### -InputObject
-{{ Fill InputObject Description }}
+
 
 ```yaml
 Type: Google.Apis.Storage.v1.Data.Object
@@ -190,7 +190,7 @@ Accept wildcard characters: False
 ```
 
 ### -Metadata
-{{ Fill Metadata Description }}
+
 
 ```yaml
 Type: System.Collections.Hashtable
@@ -205,7 +205,7 @@ Accept wildcard characters: False
 ```
 
 ### -ObjectName
-{{ Fill ObjectName Description }}
+
 
 ```yaml
 Type: System.String
@@ -220,7 +220,7 @@ Accept wildcard characters: False
 ```
 
 ### -Value
-{{ Fill Value Description }}
+
 
 ```yaml
 Type: System.String

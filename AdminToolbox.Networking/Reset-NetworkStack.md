@@ -22,10 +22,10 @@ Resets the TCP/IP and Winsock Stacks
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

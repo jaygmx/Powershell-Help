@@ -8,7 +8,7 @@ schema: 2.0.0
 # Export-GcSqlInstance
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -25,21 +25,21 @@ Export-GcSqlInstance [-Project <String>] [-Instance] <String> [-CloudStorageDest
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -CloudStorageDestination
-{{ Fill CloudStorageDestination Description }}
+
 
 ```yaml
 Type: System.String
@@ -54,7 +54,7 @@ Accept wildcard characters: False
 ```
 
 ### -Database
-{{ Fill Database Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -69,7 +69,7 @@ Accept wildcard characters: False
 ```
 
 ### -Instance
-{{ Fill Instance Description }}
+
 
 ```yaml
 Type: System.String
@@ -84,7 +84,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String
@@ -99,7 +99,7 @@ Accept wildcard characters: False
 ```
 
 ### -SchemaOnly
-{{ Fill SchemaOnly Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -114,7 +114,7 @@ Accept wildcard characters: False
 ```
 
 ### -SelectQuery
-{{ Fill SelectQuery Description }}
+
 
 ```yaml
 Type: System.String
@@ -129,7 +129,7 @@ Accept wildcard characters: False
 ```
 
 ### -Table
-{{ Fill Table Description }}
+
 
 ```yaml
 Type: System.String[]

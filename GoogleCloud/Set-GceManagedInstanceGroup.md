@@ -8,7 +8,7 @@ schema: 2.0.0
 # Set-GceManagedInstanceGroup
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -67,21 +67,21 @@ Set-GceManagedInstanceGroup [-Project <String>] [-Zone <String>] [-Region <Strin
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Abandon
-{{ Fill Abandon Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -111,7 +111,7 @@ Accept wildcard characters: False
 ```
 
 ### -Delete
-{{ Fill Delete Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -126,7 +126,7 @@ Accept wildcard characters: False
 ```
 
 ### -InstanceObject
-{{ Fill InstanceObject Description }}
+
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.Instance[]
@@ -141,7 +141,7 @@ Accept wildcard characters: False
 ```
 
 ### -InstanceUri
-{{ Fill InstanceUri Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -156,7 +156,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
-{{ Fill Name Description }}
+
 
 ```yaml
 Type: System.String
@@ -171,7 +171,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String
@@ -186,7 +186,7 @@ Accept wildcard characters: False
 ```
 
 ### -Recreate
-{{ Fill Recreate Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -201,7 +201,7 @@ Accept wildcard characters: False
 ```
 
 ### -Region
-{{ Fill Region Description }}
+
 
 ```yaml
 Type: System.String
@@ -216,7 +216,7 @@ Accept wildcard characters: False
 ```
 
 ### -Size
-{{ Fill Size Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -231,7 +231,7 @@ Accept wildcard characters: False
 ```
 
 ### -TargetPoolUri
-{{ Fill TargetPoolUri Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -246,7 +246,7 @@ Accept wildcard characters: False
 ```
 
 ### -Template
-{{ Fill Template Description }}
+
 
 ```yaml
 Type: System.String
@@ -277,7 +277,7 @@ Accept wildcard characters: False
 ```
 
 ### -Zone
-{{ Fill Zone Description }}
+
 
 ```yaml
 Type: System.String

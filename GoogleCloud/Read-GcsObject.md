@@ -8,7 +8,7 @@ schema: 2.0.0
 # Read-GcsObject
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -23,21 +23,21 @@ Read-GcsObject -InputObject <Object> [[-OutFile] <String>] [-Force] [<CommonPara
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Bucket
-{{ Fill Bucket Description }}
+
 
 ```yaml
 Type: System.String
@@ -52,7 +52,7 @@ Accept wildcard characters: False
 ```
 
 ### -Force
-{{ Fill Force Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -67,7 +67,7 @@ Accept wildcard characters: False
 ```
 
 ### -InputObject
-{{ Fill InputObject Description }}
+
 
 ```yaml
 Type: Google.Apis.Storage.v1.Data.Object
@@ -82,7 +82,7 @@ Accept wildcard characters: False
 ```
 
 ### -ObjectName
-{{ Fill ObjectName Description }}
+
 
 ```yaml
 Type: System.String
@@ -97,7 +97,7 @@ Accept wildcard characters: False
 ```
 
 ### -OutFile
-{{ Fill OutFile Description }}
+
 
 ```yaml
 Type: System.String

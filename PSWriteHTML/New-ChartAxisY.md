@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-ChartAxisY
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -22,21 +22,21 @@ New-ChartAxisY [-Show] [-ShowAlways] [[-TitleText] <String>] [[-TitleRotate] <St
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Floating
-{{ Fill Floating Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -51,7 +51,7 @@ Accept wildcard characters: False
 ```
 
 ### -ForceNiceScale
-{{ Fill ForceNiceScale Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -66,7 +66,7 @@ Accept wildcard characters: False
 ```
 
 ### -LabelAlign
-{{ Fill LabelAlign Description }}
+
 
 ```yaml
 Type: System.String
@@ -82,7 +82,7 @@ Accept wildcard characters: False
 ```
 
 ### -LabelFontColor
-{{ Fill LabelFontColor Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -97,7 +97,7 @@ Accept wildcard characters: False
 ```
 
 ### -LabelFontFamily
-{{ Fill LabelFontFamily Description }}
+
 
 ```yaml
 Type: System.String
@@ -112,7 +112,7 @@ Accept wildcard characters: False
 ```
 
 ### -LabelFontSize
-{{ Fill LabelFontSize Description }}
+
 
 ```yaml
 Type: System.Object
@@ -127,7 +127,7 @@ Accept wildcard characters: False
 ```
 
 ### -LabelFontWeight
-{{ Fill LabelFontWeight Description }}
+
 
 ```yaml
 Type: System.String
@@ -143,7 +143,7 @@ Accept wildcard characters: False
 ```
 
 ### -LabelMaxWidth
-{{ Fill LabelMaxWidth Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -158,7 +158,7 @@ Accept wildcard characters: False
 ```
 
 ### -LabelMinWidth
-{{ Fill LabelMinWidth Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -173,7 +173,7 @@ Accept wildcard characters: False
 ```
 
 ### -Logarithmic
-{{ Fill Logarithmic Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -188,7 +188,7 @@ Accept wildcard characters: False
 ```
 
 ### -MaxValue
-{{ Fill MaxValue Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -203,7 +203,7 @@ Accept wildcard characters: False
 ```
 
 ### -MinValue
-{{ Fill MinValue Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -218,7 +218,7 @@ Accept wildcard characters: False
 ```
 
 ### -Opposite
-{{ Fill Opposite Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -233,7 +233,7 @@ Accept wildcard characters: False
 ```
 
 ### -Reversed
-{{ Fill Reversed Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -248,7 +248,7 @@ Accept wildcard characters: False
 ```
 
 ### -SeriesName
-{{ Fill SeriesName Description }}
+
 
 ```yaml
 Type: System.String
@@ -263,7 +263,7 @@ Accept wildcard characters: False
 ```
 
 ### -Show
-{{ Fill Show Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -278,7 +278,7 @@ Accept wildcard characters: False
 ```
 
 ### -ShowAlways
-{{ Fill ShowAlways Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -293,7 +293,7 @@ Accept wildcard characters: False
 ```
 
 ### -TitleColor
-{{ Fill TitleColor Description }}
+
 
 ```yaml
 Type: System.String
@@ -308,7 +308,7 @@ Accept wildcard characters: False
 ```
 
 ### -TitleFontFamily
-{{ Fill TitleFontFamily Description }}
+
 
 ```yaml
 Type: System.String
@@ -323,7 +323,7 @@ Accept wildcard characters: False
 ```
 
 ### -TitleFontSize
-{{ Fill TitleFontSize Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -338,7 +338,7 @@ Accept wildcard characters: False
 ```
 
 ### -TitleFontWeight
-{{ Fill TitleFontWeight Description }}
+
 
 ```yaml
 Type: System.String
@@ -354,7 +354,7 @@ Accept wildcard characters: False
 ```
 
 ### -TitleOffsetX
-{{ Fill TitleOffsetX Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -369,7 +369,7 @@ Accept wildcard characters: False
 ```
 
 ### -TitleOffsetY
-{{ Fill TitleOffsetY Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -384,7 +384,7 @@ Accept wildcard characters: False
 ```
 
 ### -TitleRotate
-{{ Fill TitleRotate Description }}
+
 
 ```yaml
 Type: System.String
@@ -400,7 +400,7 @@ Accept wildcard characters: False
 ```
 
 ### -TitleText
-{{ Fill TitleText Description }}
+
 
 ```yaml
 Type: System.String

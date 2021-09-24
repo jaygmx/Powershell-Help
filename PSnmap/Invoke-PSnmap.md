@@ -37,7 +37,7 @@ Invoke-PSnmap [-ComputerName] <String[]> [[-Port] <Int32[]>] [-Dns] [-ScanOnPing
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 

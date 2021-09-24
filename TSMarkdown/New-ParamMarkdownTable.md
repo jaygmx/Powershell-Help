@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-ParamMarkdownTable
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -17,16 +17,16 @@ New-ParamMarkdownTable [-Path] <FileInfo> [-WhatIf] [-Confirm] [<CommonParameter
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
@@ -46,7 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -Path
-{{ Fill Path Description }}
+
 
 ```yaml
 Type: System.IO.FileInfo

@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-ChartAxisX
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -18,21 +18,21 @@ New-ChartAxisX [[-Names] <Array>] [[-TitleText] <String>] [[-Type] <String>] [[-
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -MaxValue
-{{ Fill MaxValue Description }}
+
 
 ```yaml
 Type: System.Object
@@ -47,7 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -MinValue
-{{ Fill MinValue Description }}
+
 
 ```yaml
 Type: System.Object
@@ -62,7 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -Names
-{{ Fill Names Description }}
+
 
 ```yaml
 Type: System.Array
@@ -77,7 +77,7 @@ Accept wildcard characters: False
 ```
 
 ### -TimeZoneOffset
-{{ Fill TimeZoneOffset Description }}
+
 
 ```yaml
 Type: System.String
@@ -92,7 +92,7 @@ Accept wildcard characters: False
 ```
 
 ### -TitleText
-{{ Fill TitleText Description }}
+
 
 ```yaml
 Type: System.String
@@ -107,7 +107,7 @@ Accept wildcard characters: False
 ```
 
 ### -Type
-{{ Fill Type Description }}
+
 
 ```yaml
 Type: System.String

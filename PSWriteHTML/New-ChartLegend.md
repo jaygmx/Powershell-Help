@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-ChartLegend
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -21,21 +21,21 @@ New-ChartLegend [[-Names] <Array>] [[-Color] <String[]>] [-HideLegend] [[-Legend
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Color
-{{ Fill Color Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -50,7 +50,7 @@ Accept wildcard characters: False
 ```
 
 ### -DisableOnItemClickToggleDataSeries
-{{ Fill DisableOnItemClickToggleDataSeries Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -65,7 +65,7 @@ Accept wildcard characters: False
 ```
 
 ### -DisableOnItemHoverHighlightDataSeries
-{{ Fill DisableOnItemHoverHighlightDataSeries Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -80,7 +80,7 @@ Accept wildcard characters: False
 ```
 
 ### -Floating
-{{ Fill Floating Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -95,7 +95,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontFamily
-{{ Fill FontFamily Description }}
+
 
 ```yaml
 Type: System.String
@@ -110,7 +110,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontSize
-{{ Fill FontSize Description }}
+
 
 ```yaml
 Type: System.Object
@@ -125,7 +125,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontWeight
-{{ Fill FontWeight Description }}
+
 
 ```yaml
 Type: System.String
@@ -141,7 +141,7 @@ Accept wildcard characters: False
 ```
 
 ### -HideLegend
-{{ Fill HideLegend Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -156,7 +156,7 @@ Accept wildcard characters: False
 ```
 
 ### -HorizontalAlign
-{{ Fill HorizontalAlign Description }}
+
 
 ```yaml
 Type: System.String
@@ -172,7 +172,7 @@ Accept wildcard characters: False
 ```
 
 ### -InverseOrder
-{{ Fill InverseOrder Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -187,7 +187,7 @@ Accept wildcard characters: False
 ```
 
 ### -ItemMarginHorizontal
-{{ Fill ItemMarginHorizontal Description }}
+
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -202,7 +202,7 @@ Accept wildcard characters: False
 ```
 
 ### -ItemMarginVertical
-{{ Fill ItemMarginVertical Description }}
+
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -217,7 +217,7 @@ Accept wildcard characters: False
 ```
 
 ### -LegendPosition
-{{ Fill LegendPosition Description }}
+
 
 ```yaml
 Type: System.String
@@ -233,7 +233,7 @@ Accept wildcard characters: False
 ```
 
 ### -Names
-{{ Fill Names Description }}
+
 
 ```yaml
 Type: System.Array
@@ -248,7 +248,7 @@ Accept wildcard characters: False
 ```
 
 ### -OffsetX
-{{ Fill OffsetX Description }}
+
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -263,7 +263,7 @@ Accept wildcard characters: False
 ```
 
 ### -OffsetY
-{{ Fill OffsetY Description }}
+
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -278,7 +278,7 @@ Accept wildcard characters: False
 ```
 
 ### -UseSeriesColors
-{{ Fill UseSeriesColors Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter

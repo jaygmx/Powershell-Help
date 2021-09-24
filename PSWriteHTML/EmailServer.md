@@ -8,7 +8,7 @@ schema: 2.0.0
 # EmailServer
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -18,21 +18,21 @@ EmailServer [[-Server] <String>] [[-Port] <Int32>] [[-UserName] <String>] [[-Pas
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Password
-{{ Fill Password Description }}
+
 
 ```yaml
 Type: System.String
@@ -47,7 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -PasswordAsSecure
-{{ Fill PasswordAsSecure Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -62,7 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -PasswordFromFile
-{{ Fill PasswordFromFile Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -77,7 +77,7 @@ Accept wildcard characters: False
 ```
 
 ### -Port
-{{ Fill Port Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -92,7 +92,7 @@ Accept wildcard characters: False
 ```
 
 ### -SSL
-{{ Fill SSL Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -107,7 +107,7 @@ Accept wildcard characters: False
 ```
 
 ### -Server
-{{ Fill Server Description }}
+
 
 ```yaml
 Type: System.String
@@ -122,7 +122,7 @@ Accept wildcard characters: False
 ```
 
 ### -UseDefaultCredential
-{{ Fill UseDefaultCredential Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -137,7 +137,7 @@ Accept wildcard characters: False
 ```
 
 ### -UserName
-{{ Fill UserName Description }}
+
 
 ```yaml
 Type: System.String

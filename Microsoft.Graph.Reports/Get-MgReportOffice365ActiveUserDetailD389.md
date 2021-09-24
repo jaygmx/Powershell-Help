@@ -33,10 +33,10 @@ Invoke function getOffice365ActiveUserDetail
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

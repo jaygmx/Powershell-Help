@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-NavFloatWidgetItem
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -38,21 +38,21 @@ New-NavFloatWidgetItem -Name <String> [-Href <String>] [-InternalPageID <String>
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Bordered
-{{ Fill Bordered Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -67,7 +67,7 @@ Accept wildcard characters: False
 ```
 
 ### -BorderedCircle
-{{ Fill BorderedCircle Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -82,7 +82,7 @@ Accept wildcard characters: False
 ```
 
 ### -FlipHorizontal
-{{ Fill FlipHorizontal Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -97,7 +97,7 @@ Accept wildcard characters: False
 ```
 
 ### -FlipVertical
-{{ Fill FlipVertical Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -112,7 +112,7 @@ Accept wildcard characters: False
 ```
 
 ### -Href
-{{ Fill Href Description }}
+
 
 ```yaml
 Type: System.String
@@ -127,7 +127,7 @@ Accept wildcard characters: False
 ```
 
 ### -IconBrands
-{{ Fill IconBrands Description }}
+
 
 ```yaml
 Type: System.String
@@ -142,7 +142,7 @@ Accept wildcard characters: False
 ```
 
 ### -IconColor
-{{ Fill IconColor Description }}
+
 
 ```yaml
 Type: System.String
@@ -157,7 +157,7 @@ Accept wildcard characters: False
 ```
 
 ### -IconMaterial
-{{ Fill IconMaterial Description }}
+
 
 ```yaml
 Type: System.String
@@ -172,7 +172,7 @@ Accept wildcard characters: False
 ```
 
 ### -IconRegular
-{{ Fill IconRegular Description }}
+
 
 ```yaml
 Type: System.String
@@ -187,7 +187,7 @@ Accept wildcard characters: False
 ```
 
 ### -IconSolid
-{{ Fill IconSolid Description }}
+
 
 ```yaml
 Type: System.String
@@ -202,7 +202,7 @@ Accept wildcard characters: False
 ```
 
 ### -InternalPageID
-{{ Fill InternalPageID Description }}
+
 
 ```yaml
 Type: System.String
@@ -217,7 +217,7 @@ Accept wildcard characters: False
 ```
 
 ### -LinkHome
-{{ Fill LinkHome Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -232,7 +232,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
-{{ Fill Name Description }}
+
 
 ```yaml
 Type: System.String
@@ -247,7 +247,7 @@ Accept wildcard characters: False
 ```
 
 ### -PullLeft
-{{ Fill PullLeft Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -262,7 +262,7 @@ Accept wildcard characters: False
 ```
 
 ### -PullRight
-{{ Fill PullRight Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -277,7 +277,7 @@ Accept wildcard characters: False
 ```
 
 ### -Rotate
-{{ Fill Rotate Description }}
+
 
 ```yaml
 Type: System.String
@@ -293,7 +293,7 @@ Accept wildcard characters: False
 ```
 
 ### -Spinning
-{{ Fill Spinning Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -308,7 +308,7 @@ Accept wildcard characters: False
 ```
 
 ### -SpinningReverse
-{{ Fill SpinningReverse Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter

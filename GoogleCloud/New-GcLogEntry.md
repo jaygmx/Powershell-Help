@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-GcLogEntry
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -31,21 +31,21 @@ New-GcLogEntry [-Project <String>] [-LogName] <String> -ProtoPayload <Hashtable[
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -JsonPayload
-{{ Fill JsonPayload Description }}
+
 
 ```yaml
 Type: System.Collections.Hashtable[]
@@ -60,7 +60,7 @@ Accept wildcard characters: False
 ```
 
 ### -LogName
-{{ Fill LogName Description }}
+
 
 ```yaml
 Type: System.String
@@ -75,7 +75,7 @@ Accept wildcard characters: False
 ```
 
 ### -MonitoredResource
-{{ Fill MonitoredResource Description }}
+
 
 ```yaml
 Type: Google.Apis.Logging.v2.Data.MonitoredResource
@@ -90,7 +90,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String
@@ -105,7 +105,7 @@ Accept wildcard characters: False
 ```
 
 ### -ProtoPayload
-{{ Fill ProtoPayload Description }}
+
 
 ```yaml
 Type: System.Collections.Hashtable[]
@@ -120,7 +120,7 @@ Accept wildcard characters: False
 ```
 
 ### -Severity
-{{ Fill Severity Description }}
+
 
 ```yaml
 Type: Google.PowerShell.Logging.GcLogCmdlet+LogSeverity
@@ -136,7 +136,7 @@ Accept wildcard characters: False
 ```
 
 ### -TextPayload
-{{ Fill TextPayload Description }}
+
 
 ```yaml
 Type: System.String[]

@@ -84,7 +84,7 @@ wc -text "my text" -c red
 ## PARAMETERS
 
 ### -Text
-{{ Fill Text Description }}
+
 
 ```yaml
 Type: System.String[]
@@ -99,7 +99,7 @@ Accept wildcard characters: False
 ```
 
 ### -Color
-{{ Fill Color Description }}
+
 
 ```yaml
 Type: System.ConsoleColor[]
@@ -115,7 +115,7 @@ Accept wildcard characters: False
 ```
 
 ### -BackGroundColor
-{{ Fill BackGroundColor Description }}
+
 
 ```yaml
 Type: System.ConsoleColor[]
@@ -131,7 +131,7 @@ Accept wildcard characters: False
 ```
 
 ### -StartTab
-{{ Fill StartTab Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -146,7 +146,7 @@ Accept wildcard characters: False
 ```
 
 ### -LinesBefore
-{{ Fill LinesBefore Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -161,7 +161,7 @@ Accept wildcard characters: False
 ```
 
 ### -LinesAfter
-{{ Fill LinesAfter Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -176,7 +176,7 @@ Accept wildcard characters: False
 ```
 
 ### -StartSpaces
-{{ Fill StartSpaces Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -191,7 +191,7 @@ Accept wildcard characters: False
 ```
 
 ### -LogFile
-{{ Fill LogFile Description }}
+
 
 ```yaml
 Type: System.String
@@ -206,7 +206,7 @@ Accept wildcard characters: False
 ```
 
 ### -DateTimeFormat
-{{ Fill DateTimeFormat Description }}
+
 
 ```yaml
 Type: System.String
@@ -221,7 +221,7 @@ Accept wildcard characters: False
 ```
 
 ### -LogTime
-{{ Fill LogTime Description }}
+
 
 ```yaml
 Type: System.Boolean
@@ -236,7 +236,7 @@ Accept wildcard characters: False
 ```
 
 ### -LogRetry
-{{ Fill LogRetry Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -251,7 +251,7 @@ Accept wildcard characters: False
 ```
 
 ### -Encoding
-{{ Fill Encoding Description }}
+
 
 ```yaml
 Type: System.String
@@ -266,7 +266,7 @@ Accept wildcard characters: False
 ```
 
 ### -ShowTime
-{{ Fill ShowTime Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -281,7 +281,7 @@ Accept wildcard characters: False
 ```
 
 ### -NoNewLine
-{{ Fill NoNewLine Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter

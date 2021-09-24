@@ -8,7 +8,7 @@ schema: 2.0.0
 # Write-SleepProgress
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -17,21 +17,21 @@ Write-SleepProgress [-Seconds] <Int32> [-ProcessName] <String> [<CommonParameter
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -ProcessName
-{{ Fill ProcessName Description }}
+
 
 ```yaml
 Type: System.String
@@ -46,7 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -Seconds
-{{ Fill Seconds Description }}
+
 
 ```yaml
 Type: System.Int32

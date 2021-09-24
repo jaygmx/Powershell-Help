@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-NavFloatWidget
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -17,21 +17,21 @@ New-NavFloatWidget [[-Items] <ScriptBlock>] [[-Type] <String>] [[-Title] <String
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Items
-{{ Fill Items Description }}
+
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock
@@ -46,7 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -Title
-{{ Fill Title Description }}
+
 
 ```yaml
 Type: System.String
@@ -61,7 +61,7 @@ Accept wildcard characters: False
 ```
 
 ### -Type
-{{ Fill Type Description }}
+
 
 ```yaml
 Type: System.String

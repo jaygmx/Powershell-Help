@@ -8,7 +8,7 @@ schema: 2.0.0
 # Set-GcpsSubscriptionConfig
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -24,21 +24,21 @@ Set-GcpsSubscriptionConfig [-Project <String>] [-Subscription] <String> [-PullCo
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String
@@ -53,7 +53,7 @@ Accept wildcard characters: False
 ```
 
 ### -PullConfig
-{{ Fill PullConfig Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -68,7 +68,7 @@ Accept wildcard characters: False
 ```
 
 ### -PushEndpoint
-{{ Fill PushEndpoint Description }}
+
 
 ```yaml
 Type: System.String
@@ -83,7 +83,7 @@ Accept wildcard characters: False
 ```
 
 ### -Subscription
-{{ Fill Subscription Description }}
+
 
 ```yaml
 Type: System.String

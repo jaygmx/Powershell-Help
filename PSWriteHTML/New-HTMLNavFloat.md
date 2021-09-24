@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-HTMLNavFloat
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -21,21 +21,21 @@ New-HTMLNavFloat [[-NavigationLinks] <ScriptBlock>] [[-Title] <String>] [[-Tagli
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -ButtonColor
-{{ Fill ButtonColor Description }}
+
 
 ```yaml
 Type: System.String
@@ -50,7 +50,7 @@ Accept wildcard characters: False
 ```
 
 ### -ButtonColorBackground
-{{ Fill ButtonColorBackground Description }}
+
 
 ```yaml
 Type: System.String
@@ -65,7 +65,7 @@ Accept wildcard characters: False
 ```
 
 ### -ButtonColorBackgroundOnHover
-{{ Fill ButtonColorBackgroundOnHover Description }}
+
 
 ```yaml
 Type: System.String
@@ -80,7 +80,7 @@ Accept wildcard characters: False
 ```
 
 ### -ButtonColorOnHover
-{{ Fill ButtonColorOnHover Description }}
+
 
 ```yaml
 Type: System.String
@@ -95,7 +95,7 @@ Accept wildcard characters: False
 ```
 
 ### -ButtonLocationBottom
-{{ Fill ButtonLocationBottom Description }}
+
 
 ```yaml
 Type: System.Object
@@ -110,7 +110,7 @@ Accept wildcard characters: False
 ```
 
 ### -ButtonLocationLeft
-{{ Fill ButtonLocationLeft Description }}
+
 
 ```yaml
 Type: System.Object
@@ -125,7 +125,7 @@ Accept wildcard characters: False
 ```
 
 ### -ButtonLocationRight
-{{ Fill ButtonLocationRight Description }}
+
 
 ```yaml
 Type: System.Object
@@ -140,7 +140,7 @@ Accept wildcard characters: False
 ```
 
 ### -ButtonLocationTop
-{{ Fill ButtonLocationTop Description }}
+
 
 ```yaml
 Type: System.Object
@@ -155,7 +155,7 @@ Accept wildcard characters: False
 ```
 
 ### -NavigationLinks
-{{ Fill NavigationLinks Description }}
+
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock
@@ -170,7 +170,7 @@ Accept wildcard characters: False
 ```
 
 ### -Tagline
-{{ Fill Tagline Description }}
+
 
 ```yaml
 Type: System.String
@@ -185,7 +185,7 @@ Accept wildcard characters: False
 ```
 
 ### -TaglineColor
-{{ Fill TaglineColor Description }}
+
 
 ```yaml
 Type: System.String
@@ -200,7 +200,7 @@ Accept wildcard characters: False
 ```
 
 ### -Title
-{{ Fill Title Description }}
+
 
 ```yaml
 Type: System.String
@@ -215,7 +215,7 @@ Accept wildcard characters: False
 ```
 
 ### -TitleColor
-{{ Fill TitleColor Description }}
+
 
 ```yaml
 Type: System.String

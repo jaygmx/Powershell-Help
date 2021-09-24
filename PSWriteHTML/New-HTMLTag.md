@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-HTMLTag
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -18,21 +18,21 @@ New-HTMLTag [[-Value] <ScriptBlock>] [-Tag] <String> [-Attributes <IDictionary>]
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Attributes
-{{ Fill Attributes Description }}
+
 
 ```yaml
 Type: System.Collections.IDictionary
@@ -47,7 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -NewLine
-{{ Fill NewLine Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -62,7 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -NoClosing
-{{ Fill NoClosing Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -77,7 +77,7 @@ Accept wildcard characters: False
 ```
 
 ### -SelfClosing
-{{ Fill SelfClosing Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -92,7 +92,7 @@ Accept wildcard characters: False
 ```
 
 ### -Tag
-{{ Fill Tag Description }}
+
 
 ```yaml
 Type: System.String
@@ -107,7 +107,7 @@ Accept wildcard characters: False
 ```
 
 ### -Value
-{{ Fill Value Description }}
+
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock

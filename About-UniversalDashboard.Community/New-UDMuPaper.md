@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-UDMuPaper
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -19,21 +19,21 @@ New-UDMuPaper [[-Id] <String>] [[-Content] <ScriptBlock>] [[-Width] <String>] [[
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -AutoRefresh
-{{ Fill AutoRefresh Description }}
+
 
 ```yaml
 Type: SwitchParameter
@@ -48,7 +48,7 @@ Accept wildcard characters: False
 ```
 
 ### -Content
-{{ Fill Content Description }}
+
 
 ```yaml
 Type: ScriptBlock
@@ -63,7 +63,7 @@ Accept wildcard characters: False
 ```
 
 ### -Elevation
-{{ Fill Elevation Description }}
+
 
 ```yaml
 Type: Int32
@@ -78,7 +78,7 @@ Accept wildcard characters: False
 ```
 
 ### -Height
-{{ Fill Height Description }}
+
 
 ```yaml
 Type: String
@@ -93,7 +93,7 @@ Accept wildcard characters: False
 ```
 
 ### -Id
-{{ Fill Id Description }}
+
 
 ```yaml
 Type: String
@@ -108,7 +108,7 @@ Accept wildcard characters: False
 ```
 
 ### -IsEndPoint
-{{ Fill IsEndPoint Description }}
+
 
 ```yaml
 Type: SwitchParameter
@@ -123,7 +123,7 @@ Accept wildcard characters: False
 ```
 
 ### -RefreshInterval
-{{ Fill RefreshInterval Description }}
+
 
 ```yaml
 Type: Int32
@@ -138,7 +138,7 @@ Accept wildcard characters: False
 ```
 
 ### -Square
-{{ Fill Square Description }}
+
 
 ```yaml
 Type: SwitchParameter
@@ -153,7 +153,7 @@ Accept wildcard characters: False
 ```
 
 ### -Style
-{{ Fill Style Description }}
+
 
 ```yaml
 Type: Hashtable
@@ -168,7 +168,7 @@ Accept wildcard characters: False
 ```
 
 ### -Width
-{{ Fill Width Description }}
+
 
 ```yaml
 Type: String

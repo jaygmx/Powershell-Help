@@ -8,7 +8,7 @@ schema: 2.0.0
 # Test-GcsObject
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -17,21 +17,21 @@ Test-GcsObject [[-Bucket] <String>] [-ObjectName] <String> [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Bucket
-{{ Fill Bucket Description }}
+
 
 ```yaml
 Type: System.String
@@ -46,7 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -ObjectName
-{{ Fill ObjectName Description }}
+
 
 ```yaml
 Type: System.String

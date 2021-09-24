@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-TableButtonSearchBuilder
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -18,21 +18,21 @@ New-TableButtonSearchBuilder [[-ButtonName] <String>] [[-DepthLimit] <Int32>] [[
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -ButtonName
-{{ Fill ButtonName Description }}
+
 
 ```yaml
 Type: System.String
@@ -47,7 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -DefaultLogic
-{{ Fill DefaultLogic Description }}
+
 
 ```yaml
 Type: System.String
@@ -62,7 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -DepthLimit
-{{ Fill DepthLimit Description }}
+
 
 ```yaml
 Type: System.Int32
@@ -77,7 +77,7 @@ Accept wildcard characters: False
 ```
 
 ### -GreyScale
-{{ Fill GreyScale Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter

@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-HTMLStatusItem
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -43,21 +43,21 @@ New-HTMLStatusItem [-Name <String>] [-Status <String>] [-FontColor <String>] [-B
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -BackgroundColor
-{{ Fill BackgroundColor Description }}
+
 
 ```yaml
 Type: System.String
@@ -72,7 +72,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontColor
-{{ Fill FontColor Description }}
+
 
 ```yaml
 Type: System.String
@@ -87,7 +87,7 @@ Accept wildcard characters: False
 ```
 
 ### -Icon
-{{ Fill Icon Description }}
+
 
 ```yaml
 Type: System.Object
@@ -103,7 +103,7 @@ Accept wildcard characters: False
 ```
 
 ### -IconBrands
-{{ Fill IconBrands Description }}
+
 
 ```yaml
 Type: System.String
@@ -118,7 +118,7 @@ Accept wildcard characters: False
 ```
 
 ### -IconHex
-{{ Fill IconHex Description }}
+
 
 ```yaml
 Type: System.String
@@ -133,7 +133,7 @@ Accept wildcard characters: False
 ```
 
 ### -IconRegular
-{{ Fill IconRegular Description }}
+
 
 ```yaml
 Type: System.String
@@ -148,7 +148,7 @@ Accept wildcard characters: False
 ```
 
 ### -IconSolid
-{{ Fill IconSolid Description }}
+
 
 ```yaml
 Type: System.String
@@ -163,7 +163,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
-{{ Fill Name Description }}
+
 
 ```yaml
 Type: System.String
@@ -178,7 +178,7 @@ Accept wildcard characters: False
 ```
 
 ### -Percentage
-{{ Fill Percentage Description }}
+
 
 ```yaml
 Type: System.String
@@ -194,7 +194,7 @@ Accept wildcard characters: False
 ```
 
 ### -Status
-{{ Fill Status Description }}
+
 
 ```yaml
 Type: System.String

@@ -8,7 +8,7 @@ schema: 2.0.0
 # ConvertTo-CascadingStyleSheets
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -17,21 +17,21 @@ ConvertTo-CascadingStyleSheets [[-Css] <IDictionary>] [[-Comment] <String>] [-Wi
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Comment
-{{ Fill Comment Description }}
+
 
 ```yaml
 Type: System.String
@@ -46,7 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -Css
-{{ Fill Css Description }}
+
 
 ```yaml
 Type: System.Collections.IDictionary
@@ -61,7 +61,7 @@ Accept wildcard characters: False
 ```
 
 ### -WithTags
-{{ Fill WithTags Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter

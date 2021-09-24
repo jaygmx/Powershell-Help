@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-HTMLQRCode
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -19,21 +19,21 @@ New-HTMLQRCode [[-Link] <String>] [[-Width] <Object>] [[-Height] <Object>] [[-Ti
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Height
-{{ Fill Height Description }}
+
 
 ```yaml
 Type: System.Object
@@ -48,7 +48,7 @@ Accept wildcard characters: False
 ```
 
 ### -Link
-{{ Fill Link Description }}
+
 
 ```yaml
 Type: System.String
@@ -63,7 +63,7 @@ Accept wildcard characters: False
 ```
 
 ### -Logo
-{{ Fill Logo Description }}
+
 
 ```yaml
 Type: System.String
@@ -78,7 +78,7 @@ Accept wildcard characters: False
 ```
 
 ### -LogoHeight
-{{ Fill LogoHeight Description }}
+
 
 ```yaml
 Type: System.Object
@@ -93,7 +93,7 @@ Accept wildcard characters: False
 ```
 
 ### -LogoInline
-{{ Fill LogoInline Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -108,7 +108,7 @@ Accept wildcard characters: False
 ```
 
 ### -LogoWidth
-{{ Fill LogoWidth Description }}
+
 
 ```yaml
 Type: System.Object
@@ -123,7 +123,7 @@ Accept wildcard characters: False
 ```
 
 ### -Title
-{{ Fill Title Description }}
+
 
 ```yaml
 Type: System.String
@@ -138,7 +138,7 @@ Accept wildcard characters: False
 ```
 
 ### -TitleColor
-{{ Fill TitleColor Description }}
+
 
 ```yaml
 Type: System.String
@@ -153,7 +153,7 @@ Accept wildcard characters: False
 ```
 
 ### -Width
-{{ Fill Width Description }}
+
 
 ```yaml
 Type: System.Object

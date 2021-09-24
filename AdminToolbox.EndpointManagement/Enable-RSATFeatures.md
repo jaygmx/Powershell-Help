@@ -22,10 +22,10 @@ Enables Remote Server Administration Tools On Windows 10 PC's.
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

@@ -8,7 +8,7 @@ schema: 2.0.0
 # Get-GceInstance
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -47,21 +47,21 @@ Get-GceInstance [-ManagedGroupObject] <InstanceGroupManager> [-SerialPortOutput]
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -ManagedGroupName
-{{ Fill ManagedGroupName Description }}
+
 
 ```yaml
 Type: System.String
@@ -76,7 +76,7 @@ Accept wildcard characters: False
 ```
 
 ### -ManagedGroupObject
-{{ Fill ManagedGroupObject Description }}
+
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.InstanceGroupManager
@@ -91,7 +91,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
-{{ Fill Name Description }}
+
 
 ```yaml
 Type: System.String
@@ -106,7 +106,7 @@ Accept wildcard characters: False
 ```
 
 ### -Object
-{{ Fill Object Description }}
+
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.Instance
@@ -121,7 +121,7 @@ Accept wildcard characters: False
 ```
 
 ### -PortNumber
-{{ Fill PortNumber Description }}
+
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -136,7 +136,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
-{{ Fill Project Description }}
+
 
 ```yaml
 Type: System.String
@@ -151,7 +151,7 @@ Accept wildcard characters: False
 ```
 
 ### -SerialPortOutput
-{{ Fill SerialPortOutput Description }}
+
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -166,7 +166,7 @@ Accept wildcard characters: False
 ```
 
 ### -Zone
-{{ Fill Zone Description }}
+
 
 ```yaml
 Type: System.String
