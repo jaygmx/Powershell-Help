@@ -17,7 +17,7 @@ New-PSModule [-Name] <String> [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 

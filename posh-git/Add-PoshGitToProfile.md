@@ -97,6 +97,7 @@ Accept wildcard characters: False
 ```
 
 ### -TestParams
+{{ Fill TestParams Description }}
 
 ```yaml
 Type: System.Management.Automation.PSObject[]

@@ -85,7 +85,9 @@ LONG DESCRIPTION
     Use the following template to define a selector:
 
 ```yaml
+SYNOPSIS: {{ SYNOPSIS }}
     apiVersion: github.com/microsoft/PSDocs/v1 kind: Selector metadata:   name:
+    '{{ Name }}' spec:   if: { }
 
     Within the `if` object, one or more conditions or logical operators can be used.
     

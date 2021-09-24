@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-UDMuChip
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -26,20 +26,21 @@ New-UDMuChip [-Id <String>] [[-Label] <String>] [[-OnDelete] <Object>] [[-OnClic
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Avatar
+{{ Fill Avatar Description }}
 
 ```yaml
 Type: System.String
@@ -54,6 +55,7 @@ Accept wildcard characters: False
 ```
 
 ### -AvatarType
+{{ Fill AvatarType Description }}
 
 ```yaml
 Type: System.String
@@ -69,6 +71,7 @@ Accept wildcard characters: False
 ```
 
 ### -Clickable
+{{ Fill Clickable Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -83,6 +86,7 @@ Accept wildcard characters: False
 ```
 
 ### -Icon
+{{ Fill Icon Description }}
 
 ```yaml
 Type: System.Object
@@ -97,6 +101,7 @@ Accept wildcard characters: False
 ```
 
 ### -Id
+{{ Fill Id Description }}
 
 ```yaml
 Type: System.String
@@ -111,6 +116,7 @@ Accept wildcard characters: False
 ```
 
 ### -Label
+{{ Fill Label Description }}
 
 ```yaml
 Type: System.String
@@ -125,6 +131,7 @@ Accept wildcard characters: False
 ```
 
 ### -OnClick
+{{ Fill OnClick Description }}
 
 ```yaml
 Type: System.Object
@@ -139,6 +146,7 @@ Accept wildcard characters: False
 ```
 
 ### -OnDelete
+{{ Fill OnDelete Description }}
 
 ```yaml
 Type: System.Object
@@ -153,6 +161,7 @@ Accept wildcard characters: False
 ```
 
 ### -Style
+{{ Fill Style Description }}
 
 ```yaml
 Type: System.Collections.Hashtable
@@ -167,6 +176,7 @@ Accept wildcard characters: False
 ```
 
 ### -Variant
+{{ Fill Variant Description }}
 
 ```yaml
 Type: System.String

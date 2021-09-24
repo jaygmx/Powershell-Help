@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-WmiEventSubscription
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -37,20 +37,21 @@ New-WmiEventSubscription -CimSession <CimSession[]> -FilterName <String> -Consum
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -CimSession
+{{ Fill CimSession Description }}
 
 ```yaml
 Type: Microsoft.Management.Infrastructure.CimSession[]
@@ -65,6 +66,7 @@ Accept wildcard characters: False
 ```
 
 ### -ComputerName
+{{ Fill ComputerName Description }}
 
 ```yaml
 Type: System.String[]
@@ -79,6 +81,7 @@ Accept wildcard characters: False
 ```
 
 ### -Consumer
+{{ Fill Consumer Description }}
 
 ```yaml
 Type: Microsoft.Management.Infrastructure.CimInstance
@@ -93,6 +96,7 @@ Accept wildcard characters: False
 ```
 
 ### -ConsumerName
+{{ Fill ConsumerName Description }}
 
 ```yaml
 Type: System.String
@@ -107,6 +111,7 @@ Accept wildcard characters: False
 ```
 
 ### -ConsumerType
+{{ Fill ConsumerType Description }}
 
 ```yaml
 Type: System.String
@@ -122,6 +127,7 @@ Accept wildcard characters: False
 ```
 
 ### -Credential
+{{ Fill Credential Description }}
 
 ```yaml
 Type: System.Management.Automation.PSCredential
@@ -136,6 +142,7 @@ Accept wildcard characters: False
 ```
 
 ### -Filter
+{{ Fill Filter Description }}
 
 ```yaml
 Type: Microsoft.Management.Infrastructure.CimInstance
@@ -150,6 +157,7 @@ Accept wildcard characters: False
 ```
 
 ### -FilterName
+{{ Fill FilterName Description }}
 
 ```yaml
 Type: System.String

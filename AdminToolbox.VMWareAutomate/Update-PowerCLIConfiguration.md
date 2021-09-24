@@ -22,10 +22,10 @@ Updates the PowerCLI Configuration to ignore certificate warnings and to not par
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 

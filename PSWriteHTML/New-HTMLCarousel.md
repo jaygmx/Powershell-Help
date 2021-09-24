@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-HTMLCarousel
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -18,20 +18,21 @@ New-HTMLCarousel [[-Slide] <ScriptBlock>] [[-Mode] <String>] [[-Align] <String>]
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Align
+{{ Fill Align Description }}
 
 ```yaml
 Type: System.String
@@ -47,6 +48,7 @@ Accept wildcard characters: False
 ```
 
 ### -Height
+{{ Fill Height Description }}
 
 ```yaml
 Type: System.String
@@ -62,6 +64,7 @@ Accept wildcard characters: False
 ```
 
 ### -Loop
+{{ Fill Loop Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -76,6 +79,7 @@ Accept wildcard characters: False
 ```
 
 ### -Margin
+{{ Fill Margin Description }}
 
 ```yaml
 Type: System.String
@@ -90,6 +94,7 @@ Accept wildcard characters: False
 ```
 
 ### -Mode
+{{ Fill Mode Description }}
 
 ```yaml
 Type: System.String
@@ -105,6 +110,7 @@ Accept wildcard characters: False
 ```
 
 ### -Pagination
+{{ Fill Pagination Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -119,6 +125,7 @@ Accept wildcard characters: False
 ```
 
 ### -PerView
+{{ Fill PerView Description }}
 
 ```yaml
 Type: System.Object
@@ -133,6 +140,7 @@ Accept wildcard characters: False
 ```
 
 ### -Slide
+{{ Fill Slide Description }}
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock
@@ -147,6 +155,7 @@ Accept wildcard characters: False
 ```
 
 ### -StartAt
+{{ Fill StartAt Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]

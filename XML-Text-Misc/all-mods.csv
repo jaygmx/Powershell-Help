@@ -7189,6 +7189,8 @@ Available cmdlets are:
 A module for simple string templates using the the mustache var replacement
 syntax. 
 
+Resolve-Stache ""Hello, {{ Person }}"" -Model [PsCustomObject]@{ Person = ""World"" }
+Resolve-Stache ""Hello, {{ Env:UserName }}"" -Model [PsCustomObject]@{}"
 "PSXmlRpcClient","PSXmlRpcClient is an implementation of XML-RPC in PowerShell"
 "google_search","Script module to use search engine and Open urls from powershell. Supports msedge, chrome, firefox and brave browsers."
 "VoiceCommands","A module that contains cmdlets for voice output"
@@ -8346,6 +8348,8 @@ Read the guide and browse the source code at https://github.com/panasenco/sqltem
 A module for simple/light weight string templates using the the mustache var replacement
 syntax. 
 
+Resolve-GzTemplate ""Hello, {{ Person }}"" -Model [PsCustomObject]@{ Person = ""World"" }
+Resolve-GzTemplate ""Hello, {{ Env:UserName }}"" -Model [PsCustomObject]@{}"
 "entropy","Calculate the entropy of a byte array."
 "testpath","Module description"
 "PoshVault","Simple that allows you to easily encrypt, share and decrypt project based secrets with trusted parties."

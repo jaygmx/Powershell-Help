@@ -8,7 +8,7 @@ schema: 2.0.0
 # Get-InstalledScript
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -18,20 +18,21 @@ Get-InstalledScript [[-Name] <String[]>] [-MinimumVersion <String>] [-RequiredVe
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -AllowPrerelease
+{{ Fill AllowPrerelease Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -46,6 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -MaximumVersion
+{{ Fill MaximumVersion Description }}
 
 ```yaml
 Type: System.String
@@ -60,6 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -MinimumVersion
+{{ Fill MinimumVersion Description }}
 
 ```yaml
 Type: System.String
@@ -74,6 +77,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
+{{ Fill Name Description }}
 
 ```yaml
 Type: System.String[]
@@ -88,6 +92,7 @@ Accept wildcard characters: False
 ```
 
 ### -RequiredVersion
+{{ Fill RequiredVersion Description }}
 
 ```yaml
 Type: System.String

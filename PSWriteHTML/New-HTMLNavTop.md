@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-HTMLNavTop
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -19,20 +19,21 @@ New-HTMLNavTop [[-NavigationLinks] <ScriptBlock>] [[-Logo] <String>] [[-LogoLink
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Convert
+{{ Fill Convert Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -47,6 +48,7 @@ Accept wildcard characters: False
 ```
 
 ### -HomeColor
+{{ Fill HomeColor Description }}
 
 ```yaml
 Type: System.String
@@ -61,6 +63,7 @@ Accept wildcard characters: False
 ```
 
 ### -HomeColorBackground
+{{ Fill HomeColorBackground Description }}
 
 ```yaml
 Type: System.String
@@ -75,6 +78,7 @@ Accept wildcard characters: False
 ```
 
 ### -HomeLink
+{{ Fill HomeLink Description }}
 
 ```yaml
 Type: System.String
@@ -89,6 +93,7 @@ Accept wildcard characters: False
 ```
 
 ### -HomeLinkHome
+{{ Fill HomeLinkHome Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -103,6 +108,7 @@ Accept wildcard characters: False
 ```
 
 ### -Logo
+{{ Fill Logo Description }}
 
 ```yaml
 Type: System.String
@@ -117,6 +123,7 @@ Accept wildcard characters: False
 ```
 
 ### -LogoLink
+{{ Fill LogoLink Description }}
 
 ```yaml
 Type: System.String
@@ -131,6 +138,7 @@ Accept wildcard characters: False
 ```
 
 ### -LogoLinkHome
+{{ Fill LogoLinkHome Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -145,6 +153,7 @@ Accept wildcard characters: False
 ```
 
 ### -MenuColor
+{{ Fill MenuColor Description }}
 
 ```yaml
 Type: System.String
@@ -159,6 +168,7 @@ Accept wildcard characters: False
 ```
 
 ### -MenuColorBackground
+{{ Fill MenuColorBackground Description }}
 
 ```yaml
 Type: System.String
@@ -173,6 +183,7 @@ Accept wildcard characters: False
 ```
 
 ### -MenuItemsWidth
+{{ Fill MenuItemsWidth Description }}
 
 ```yaml
 Type: System.Object
@@ -187,6 +198,7 @@ Accept wildcard characters: False
 ```
 
 ### -NavigationLinks
+{{ Fill NavigationLinks Description }}
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock

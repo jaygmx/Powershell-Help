@@ -8,7 +8,7 @@ schema: 2.0.0
 # ConvertTo-Letter
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -17,20 +17,21 @@ ConvertTo-Letter [-Number] <Int32> [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Number
+{{ Fill Number Description }}
 
 ```yaml
 Type: System.Int32

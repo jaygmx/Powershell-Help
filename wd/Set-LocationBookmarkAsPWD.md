@@ -8,7 +8,7 @@ schema: 2.0.0
 # Set-LocationBookmarkAsPWD
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -17,20 +17,21 @@ Set-LocationBookmarkAsPWD [-Alias] <String> [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Alias
+{{ Fill Alias Description }}
 
 ```yaml
 Type: System.String

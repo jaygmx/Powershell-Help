@@ -8,7 +8,7 @@ schema: 2.0.0
 # Get-GceManagedInstanceGroup
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -44,20 +44,21 @@ Get-GceManagedInstanceGroup -Object <InstanceGroupManager> [-InstanceStatus] [<C
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -InstanceStatus
+{{ Fill InstanceStatus Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -72,6 +73,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
+{{ Fill Name Description }}
 
 ```yaml
 Type: System.String
@@ -86,6 +88,7 @@ Accept wildcard characters: False
 ```
 
 ### -Object
+{{ Fill Object Description }}
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.InstanceGroupManager
@@ -100,6 +103,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
+{{ Fill Project Description }}
 
 ```yaml
 Type: System.String
@@ -114,6 +118,7 @@ Accept wildcard characters: False
 ```
 
 ### -Region
+{{ Fill Region Description }}
 
 ```yaml
 Type: System.String
@@ -140,6 +145,7 @@ Accept wildcard characters: False
 ```
 
 ### -Uri
+{{ Fill Uri Description }}
 
 ```yaml
 Type: System.String
@@ -154,6 +160,7 @@ Accept wildcard characters: False
 ```
 
 ### -Zone
+{{ Fill Zone Description }}
 
 ```yaml
 Type: System.String

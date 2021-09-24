@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-HTMLToast
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -34,20 +34,21 @@ New-HTMLToast [-TextHeader <String>] [-TextHeaderColor <String>] [-Text <String>
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -BarColorLeft
+{{ Fill BarColorLeft Description }}
 
 ```yaml
 Type: System.String
@@ -62,6 +63,7 @@ Accept wildcard characters: False
 ```
 
 ### -BarColorRight
+{{ Fill BarColorRight Description }}
 
 ```yaml
 Type: System.String
@@ -76,6 +78,7 @@ Accept wildcard characters: False
 ```
 
 ### -IconBrands
+{{ Fill IconBrands Description }}
 
 ```yaml
 Type: System.String
@@ -90,6 +93,7 @@ Accept wildcard characters: False
 ```
 
 ### -IconColor
+{{ Fill IconColor Description }}
 
 ```yaml
 Type: System.String
@@ -104,6 +108,7 @@ Accept wildcard characters: False
 ```
 
 ### -IconRegular
+{{ Fill IconRegular Description }}
 
 ```yaml
 Type: System.String
@@ -118,6 +123,7 @@ Accept wildcard characters: False
 ```
 
 ### -IconSize
+{{ Fill IconSize Description }}
 
 ```yaml
 Type: System.Int32
@@ -132,6 +138,7 @@ Accept wildcard characters: False
 ```
 
 ### -IconSolid
+{{ Fill IconSolid Description }}
 
 ```yaml
 Type: System.String
@@ -146,6 +153,7 @@ Accept wildcard characters: False
 ```
 
 ### -Text
+{{ Fill Text Description }}
 
 ```yaml
 Type: System.String
@@ -160,6 +168,7 @@ Accept wildcard characters: False
 ```
 
 ### -TextColor
+{{ Fill TextColor Description }}
 
 ```yaml
 Type: System.String
@@ -174,6 +183,7 @@ Accept wildcard characters: False
 ```
 
 ### -TextHeader
+{{ Fill TextHeader Description }}
 
 ```yaml
 Type: System.String
@@ -188,6 +198,7 @@ Accept wildcard characters: False
 ```
 
 ### -TextHeaderColor
+{{ Fill TextHeaderColor Description }}
 
 ```yaml
 Type: System.String

@@ -156,6 +156,7 @@ Accept wildcard characters: False
 ```
 
 ### -IconColor
+{{ Fill IconColor Description }}
 
 ```yaml
 Type: UniversalDashboard.Models.DashboardColor
@@ -170,6 +171,7 @@ Accept wildcard characters: False
 ```
 
 ### -Id
+{{ Fill Id Description }}
 
 ```yaml
 Type: System.String
@@ -184,6 +186,7 @@ Accept wildcard characters: False
 ```
 
 ### -onClick
+{{ Fill onClick Description }}
 
 ```yaml
 Type: System.Object
@@ -198,6 +201,7 @@ Accept wildcard characters: False
 ```
 
 ### -Size
+{{ Fill Size Description }}
 
 ```yaml
 Type: System.Object

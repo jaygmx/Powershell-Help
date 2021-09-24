@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-TablePercentageBar
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -19,20 +19,21 @@ New-TablePercentageBar [[-ColumnID] <Int32>] [[-ColumnName] <String>] [[-Type] <
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -BackgroundColor
+{{ Fill BackgroundColor Description }}
 
 ```yaml
 Type: System.String
@@ -47,6 +48,7 @@ Accept wildcard characters: False
 ```
 
 ### -BarColor
+{{ Fill BarColor Description }}
 
 ```yaml
 Type: System.String
@@ -61,6 +63,7 @@ Accept wildcard characters: False
 ```
 
 ### -BorderColor
+{{ Fill BorderColor Description }}
 
 ```yaml
 Type: System.String
@@ -75,6 +78,7 @@ Accept wildcard characters: False
 ```
 
 ### -BorderStyle
+{{ Fill BorderStyle Description }}
 
 ```yaml
 Type: System.String
@@ -90,6 +94,7 @@ Accept wildcard characters: False
 ```
 
 ### -ColumnID
+{{ Fill ColumnID Description }}
 
 ```yaml
 Type: System.Int32
@@ -104,6 +109,7 @@ Accept wildcard characters: False
 ```
 
 ### -ColumnName
+{{ Fill ColumnName Description }}
 
 ```yaml
 Type: System.String
@@ -118,6 +124,7 @@ Accept wildcard characters: False
 ```
 
 ### -RoundValue
+{{ Fill RoundValue Description }}
 
 ```yaml
 Type: System.Int32
@@ -132,6 +139,7 @@ Accept wildcard characters: False
 ```
 
 ### -TextColor
+{{ Fill TextColor Description }}
 
 ```yaml
 Type: System.String
@@ -146,6 +154,7 @@ Accept wildcard characters: False
 ```
 
 ### -Type
+{{ Fill Type Description }}
 
 ```yaml
 Type: System.String

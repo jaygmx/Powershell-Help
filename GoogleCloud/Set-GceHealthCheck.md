@@ -8,7 +8,7 @@ schema: 2.0.0
 # Set-GceHealthCheck
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -23,16 +23,16 @@ Set-GceHealthCheck [-HttpsObject] <HttpsHealthCheck> [-WhatIf] [-Confirm] [<Comm
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
@@ -52,6 +52,7 @@ Accept wildcard characters: False
 ```
 
 ### -HttpObject
+{{ Fill HttpObject Description }}
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.HttpHealthCheck
@@ -66,6 +67,7 @@ Accept wildcard characters: False
 ```
 
 ### -HttpsObject
+{{ Fill HttpsObject Description }}
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.HttpsHealthCheck

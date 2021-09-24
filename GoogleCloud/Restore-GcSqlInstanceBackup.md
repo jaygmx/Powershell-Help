@@ -8,7 +8,7 @@ schema: 2.0.0
 # Restore-GcSqlInstanceBackup
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -25,20 +25,21 @@ Restore-GcSqlInstanceBackup [-BackupRunId] <Int64> -InstanceObject <DatabaseInst
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -BackupInstance
+{{ Fill BackupInstance Description }}
 
 ```yaml
 Type: System.String
@@ -53,6 +54,7 @@ Accept wildcard characters: False
 ```
 
 ### -BackupRunId
+{{ Fill BackupRunId Description }}
 
 ```yaml
 Type: System.Int64
@@ -82,6 +84,7 @@ Accept wildcard characters: False
 ```
 
 ### -Instance
+{{ Fill Instance Description }}
 
 ```yaml
 Type: System.String
@@ -96,6 +99,7 @@ Accept wildcard characters: False
 ```
 
 ### -InstanceObject
+{{ Fill InstanceObject Description }}
 
 ```yaml
 Type: Google.Apis.SQLAdmin.v1beta4.Data.DatabaseInstance
@@ -110,6 +114,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
+{{ Fill Project Description }}
 
 ```yaml
 Type: System.String

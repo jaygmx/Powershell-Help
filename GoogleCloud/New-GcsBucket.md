@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-GcsBucket
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -19,20 +19,21 @@ New-GcsBucket [-Name] <String> [-Project <String>] [-StorageClass <String>] [-Lo
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -DefaultBucketAcl
+{{ Fill DefaultBucketAcl Description }}
 
 ```yaml
 Type: System.Nullable`1[Google.Apis.Storage.v1.BucketsResource+InsertRequest+PredefinedAclEnum]
@@ -48,6 +49,7 @@ Accept wildcard characters: False
 ```
 
 ### -DefaultObjectAcl
+{{ Fill DefaultObjectAcl Description }}
 
 ```yaml
 Type: System.Nullable`1[Google.Apis.Storage.v1.BucketsResource+InsertRequest+PredefinedDefaultObjectAclEnum]
@@ -63,6 +65,7 @@ Accept wildcard characters: False
 ```
 
 ### -Location
+{{ Fill Location Description }}
 
 ```yaml
 Type: System.String
@@ -78,6 +81,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
+{{ Fill Name Description }}
 
 ```yaml
 Type: System.String
@@ -92,6 +96,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
+{{ Fill Project Description }}
 
 ```yaml
 Type: System.String
@@ -106,6 +111,7 @@ Accept wildcard characters: False
 ```
 
 ### -StorageClass
+{{ Fill StorageClass Description }}
 
 ```yaml
 Type: System.String

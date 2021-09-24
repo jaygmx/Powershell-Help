@@ -8,7 +8,7 @@ schema: 2.0.0
 # Copy-GcsObject
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -25,20 +25,21 @@ Copy-GcsObject [-Bucket <String>] -ObjectName <String> [[-DestinationBucket] <St
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Bucket
+{{ Fill Bucket Description }}
 
 ```yaml
 Type: System.String
@@ -53,6 +54,7 @@ Accept wildcard characters: False
 ```
 
 ### -DestinationBucket
+{{ Fill DestinationBucket Description }}
 
 ```yaml
 Type: System.String
@@ -67,6 +69,7 @@ Accept wildcard characters: False
 ```
 
 ### -DestinationObjectName
+{{ Fill DestinationObjectName Description }}
 
 ```yaml
 Type: System.String
@@ -81,6 +84,7 @@ Accept wildcard characters: False
 ```
 
 ### -Force
+{{ Fill Force Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -95,6 +99,7 @@ Accept wildcard characters: False
 ```
 
 ### -InputObject
+{{ Fill InputObject Description }}
 
 ```yaml
 Type: Google.Apis.Storage.v1.Data.Object
@@ -109,6 +114,7 @@ Accept wildcard characters: False
 ```
 
 ### -ObjectName
+{{ Fill ObjectName Description }}
 
 ```yaml
 Type: System.String

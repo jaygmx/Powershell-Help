@@ -139,6 +139,7 @@ Accept wildcard characters: False
 ```
 
 ### -Horizontal
+{{Fill Horizontal Description}}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -275,6 +276,7 @@ Accept wildcard characters: False
 ```
 
 ### -TextAlignment
+{{Fill TextAlignment Description}}
 
 ```yaml
 Type: System.String
@@ -290,6 +292,7 @@ Accept wildcard characters: False
 ```
 
 ### -TextSize
+{{Fill TextSize Description}}
 
 ```yaml
 Type: System.String

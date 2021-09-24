@@ -8,7 +8,7 @@ schema: 2.0.0
 # Get-GceInstanceTemplate
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -28,20 +28,21 @@ Get-GceInstanceTemplate [-Object] <InstanceTemplate> [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Name
+{{ Fill Name Description }}
 
 ```yaml
 Type: System.String
@@ -56,6 +57,7 @@ Accept wildcard characters: False
 ```
 
 ### -Object
+{{ Fill Object Description }}
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.InstanceTemplate
@@ -70,6 +72,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
+{{ Fill Project Description }}
 
 ```yaml
 Type: System.String

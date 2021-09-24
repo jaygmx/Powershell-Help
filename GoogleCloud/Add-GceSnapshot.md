@@ -8,7 +8,7 @@ schema: 2.0.0
 # Add-GceSnapshot
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -25,20 +25,21 @@ Add-GceSnapshot [-Project <String>] [-Zone <String>] [-Label <Hashtable>] [-Disk
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Description
+{{ Fill Description Description }}
 
 ```yaml
 Type: System.String
@@ -53,6 +54,7 @@ Accept wildcard characters: False
 ```
 
 ### -Disk
+{{ Fill Disk Description }}
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.Disk
@@ -67,6 +69,7 @@ Accept wildcard characters: False
 ```
 
 ### -DiskName
+{{ Fill DiskName Description }}
 
 ```yaml
 Type: System.String
@@ -81,6 +84,7 @@ Accept wildcard characters: False
 ```
 
 ### -GuestFlush
+{{ Fill GuestFlush Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -95,6 +99,7 @@ Accept wildcard characters: False
 ```
 
 ### -Label
+{{ Fill Label Description }}
 
 ```yaml
 Type: System.Collections.Hashtable
@@ -109,6 +114,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
+{{ Fill Name Description }}
 
 ```yaml
 Type: System.String
@@ -123,6 +129,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
+{{ Fill Project Description }}
 
 ```yaml
 Type: System.String
@@ -137,6 +144,7 @@ Accept wildcard characters: False
 ```
 
 ### -Zone
+{{ Fill Zone Description }}
 
 ```yaml
 Type: System.String

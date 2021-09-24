@@ -183,6 +183,7 @@ Accept wildcard characters: False
 ```
 
 ### -ChartTrendLine
+{{ Fill ChartTrendLine Description }}
 
 ```yaml
 Type: eTrendLine[]

@@ -8,7 +8,7 @@ schema: 2.0.0
 # Get-Alphabet
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -17,16 +17,16 @@ Get-Alphabet [-Upper] [-Lower] [-WhatIf] [-Confirm] [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
@@ -46,6 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -Lower
+{{ Fill Lower Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -60,6 +61,7 @@ Accept wildcard characters: False
 ```
 
 ### -Upper
+{{ Fill Upper Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter

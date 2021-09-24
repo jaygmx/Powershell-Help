@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-HTMLTimelineItem
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -18,20 +18,21 @@ New-HTMLTimelineItem [[-Date] <DateTime>] [[-HeadingText] <String>] [[-Text] <St
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Color
+{{ Fill Color Description }}
 
 ```yaml
 Type: System.String
@@ -46,6 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -Date
+{{ Fill Date Description }}
 
 ```yaml
 Type: System.DateTime
@@ -60,6 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -HeadingText
+{{ Fill HeadingText Description }}
 
 ```yaml
 Type: System.String
@@ -74,6 +77,7 @@ Accept wildcard characters: False
 ```
 
 ### -Text
+{{ Fill Text Description }}
 
 ```yaml
 Type: System.String

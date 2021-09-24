@@ -8,7 +8,7 @@ schema: 2.0.0
 # Compress-7Zip
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -39,16 +39,16 @@ Compress-7Zip [-ArchiveFileName] <String> [-Path] <String> [[-Filter] <String>] 
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
@@ -83,6 +83,7 @@ Accept wildcard characters: False
 ```
 
 ### -CompressionLevel
+{{ Fill CompressionLevel Description }}
 
 ```yaml
 Type: SevenZip.CompressionLevel
@@ -98,6 +99,7 @@ Accept wildcard characters: False
 ```
 
 ### -CompressionMethod
+{{ Fill CompressionMethod Description }}
 
 ```yaml
 Type: SevenZip.CompressionMethod
@@ -188,6 +190,7 @@ Accept wildcard characters: False
 ```
 
 ### -Format
+{{ Fill Format Description }}
 
 ```yaml
 Type: SevenZip4PowerShell.OutputFormat
@@ -218,6 +221,7 @@ Accept wildcard characters: False
 ```
 
 ### -Password
+{{ Fill Password Description }}
 
 ```yaml
 Type: System.String
@@ -262,6 +266,7 @@ Accept wildcard characters: False
 ```
 
 ### -SecurePassword
+{{ Fill SecurePassword Description }}
 
 ```yaml
 Type: System.Security.SecureString

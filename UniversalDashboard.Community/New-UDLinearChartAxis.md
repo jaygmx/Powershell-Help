@@ -31,10 +31,10 @@ As the name suggests, linear interpolation is used to determine where a value li
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 

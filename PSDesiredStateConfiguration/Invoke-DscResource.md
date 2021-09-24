@@ -8,7 +8,7 @@ schema: 2.0.0
 # Invoke-DscResource
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -18,20 +18,21 @@ Invoke-DscResource [-Name] <String> [[-ModuleName] <ModuleSpecification>] [-Meth
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Method
+{{ Fill Method Description }}
 
 ```yaml
 Type: System.String
@@ -47,6 +48,7 @@ Accept wildcard characters: False
 ```
 
 ### -ModuleName
+{{ Fill ModuleName Description }}
 
 ```yaml
 Type: Microsoft.PowerShell.Commands.ModuleSpecification
@@ -61,6 +63,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
+{{ Fill Name Description }}
 
 ```yaml
 Type: System.String
@@ -75,6 +78,7 @@ Accept wildcard characters: False
 ```
 
 ### -Property
+{{ Fill Property Description }}
 
 ```yaml
 Type: System.Collections.Hashtable

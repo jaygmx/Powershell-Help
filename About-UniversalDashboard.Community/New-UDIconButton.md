@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-UDIconButton
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -18,20 +18,21 @@ New-UDIconButton [[-Id] <String>] [[-Icon] <Object>] [[-OnClick] <Object>] [[-Hr
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Disable
+{{ Fill Disable Description }}
 
 ```yaml
 Type: SwitchParameter
@@ -46,6 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -Href
+{{ Fill Href Description }}
 
 ```yaml
 Type: String
@@ -60,6 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -Icon
+{{ Fill Icon Description }}
 
 ```yaml
 Type: Object
@@ -74,6 +77,7 @@ Accept wildcard characters: False
 ```
 
 ### -Id
+{{ Fill Id Description }}
 
 ```yaml
 Type: String
@@ -88,6 +92,7 @@ Accept wildcard characters: False
 ```
 
 ### -OnClick
+{{ Fill OnClick Description }}
 
 ```yaml
 Type: Object
@@ -102,6 +107,7 @@ Accept wildcard characters: False
 ```
 
 ### -Style
+{{ Fill Style Description }}
 
 ```yaml
 Type: Hashtable

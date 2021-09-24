@@ -8,7 +8,7 @@ schema: 2.0.0
 # ConvertFrom-HashTable
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -17,20 +17,21 @@ ConvertFrom-HashTable [-HashTable] <Hashtable> [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -HashTable
+{{ Fill HashTable Description }}
 
 ```yaml
 Type: System.Collections.Hashtable

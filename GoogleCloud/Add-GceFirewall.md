@@ -8,7 +8,7 @@ schema: 2.0.0
 # Add-GceFirewall
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -21,20 +21,21 @@ Add-GceFirewall [-Project <String>] [-Name] <String>
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -AllowedProtocol
+{{ Fill AllowedProtocol Description }}
 
 ```yaml
 Type: System.Collections.Generic.List`1[Google.Apis.Compute.v1.Data.Firewall+AllowedData]
@@ -49,6 +50,7 @@ Accept wildcard characters: False
 ```
 
 ### -Description
+{{ Fill Description Description }}
 
 ```yaml
 Type: System.String
@@ -63,6 +65,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
+{{ Fill Name Description }}
 
 ```yaml
 Type: System.String
@@ -77,6 +80,7 @@ Accept wildcard characters: False
 ```
 
 ### -Network
+{{ Fill Network Description }}
 
 ```yaml
 Type: System.String
@@ -91,6 +95,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
+{{ Fill Project Description }}
 
 ```yaml
 Type: System.String
@@ -105,6 +110,7 @@ Accept wildcard characters: False
 ```
 
 ### -SourceRange
+{{ Fill SourceRange Description }}
 
 ```yaml
 Type: System.Collections.Generic.List`1[System.String]
@@ -119,6 +125,7 @@ Accept wildcard characters: False
 ```
 
 ### -SourceTag
+{{ Fill SourceTag Description }}
 
 ```yaml
 Type: System.Collections.Generic.List`1[System.String]
@@ -133,6 +140,7 @@ Accept wildcard characters: False
 ```
 
 ### -TargetTag
+{{ Fill TargetTag Description }}
 
 ```yaml
 Type: System.Collections.Generic.List`1[System.String]

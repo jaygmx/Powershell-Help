@@ -8,7 +8,7 @@ schema: 2.0.0
 # Export-PoshTheme
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -17,20 +17,21 @@ Export-PoshTheme [-FilePath] <String> [[-Format] <String>] [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -FilePath
+{{ Fill FilePath Description }}
 
 ```yaml
 Type: System.String
@@ -45,6 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -Format
+{{ Fill Format Description }}
 
 ```yaml
 Type: System.String

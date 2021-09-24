@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-GcdResourceRecordSet
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -18,20 +18,21 @@ New-GcdResourceRecordSet [-Name] <String> [-Rrdata] <String[]> [-Type] <String> 
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Name
+{{ Fill Name Description }}
 
 ```yaml
 Type: System.String
@@ -46,6 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -Rrdata
+{{ Fill Rrdata Description }}
 
 ```yaml
 Type: System.String[]
@@ -60,6 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -Ttl
+{{ Fill Ttl Description }}
 
 ```yaml
 Type: System.Int32
@@ -74,6 +77,7 @@ Accept wildcard characters: False
 ```
 
 ### -Type
+{{ Fill Type Description }}
 
 ```yaml
 Type: System.String

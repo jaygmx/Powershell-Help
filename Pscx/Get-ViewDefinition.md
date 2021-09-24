@@ -70,6 +70,7 @@ Accept wildcard characters: False
 ```
 
 ### -InputObject
+{{ Fill InputObject Description }}
 
 ```yaml
 Type: System.Management.Automation.PSObject

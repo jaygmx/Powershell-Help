@@ -311,6 +311,7 @@ Accept wildcard characters: False
 ```
 
 ### -Activate
+{{ Fill Activate Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -325,6 +326,7 @@ Accept wildcard characters: False
 ```
 
 ### -Append
+{{ Fill Append Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -339,6 +341,7 @@ Accept wildcard characters: False
 ```
 
 ### -AutoFilter
+{{ Fill AutoFilter Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -353,6 +356,7 @@ Accept wildcard characters: False
 ```
 
 ### -AutoNameRange
+{{ Fill AutoNameRange Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -367,6 +371,7 @@ Accept wildcard characters: False
 ```
 
 ### -AutoSize
+{{ Fill AutoSize Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -381,6 +386,7 @@ Accept wildcard characters: False
 ```
 
 ### -Barchart
+{{ Fill Barchart Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -395,6 +401,7 @@ Accept wildcard characters: False
 ```
 
 ### -BoldTopRow
+{{ Fill BoldTopRow Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -409,6 +416,7 @@ Accept wildcard characters: False
 ```
 
 ### -Calculate
+{{ Fill Calculate Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -423,6 +431,7 @@ Accept wildcard characters: False
 ```
 
 ### -CellStyleSB
+{{ Fill CellStyleSB Description }}
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock
@@ -437,6 +446,7 @@ Accept wildcard characters: False
 ```
 
 ### -ClearSheet
+{{ Fill ClearSheet Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -451,6 +461,7 @@ Accept wildcard characters: False
 ```
 
 ### -ColumnChart
+{{ Fill ColumnChart Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -465,6 +476,7 @@ Accept wildcard characters: False
 ```
 
 ### -ConditionalFormat
+{{ Fill ConditionalFormat Description }}
 
 ```yaml
 Type: System.Object[]
@@ -479,6 +491,7 @@ Accept wildcard characters: False
 ```
 
 ### -ConditionalText
+{{ Fill ConditionalText Description }}
 
 ```yaml
 Type: System.Object[]
@@ -493,6 +506,7 @@ Accept wildcard characters: False
 ```
 
 ### -DisplayPropertySet
+{{ Fill DisplayPropertySet Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -507,6 +521,7 @@ Accept wildcard characters: False
 ```
 
 ### -ExcelChartDefinition
+{{ Fill ExcelChartDefinition Description }}
 
 ```yaml
 Type: System.Object[]
@@ -521,6 +536,7 @@ Accept wildcard characters: False
 ```
 
 ### -ExcelPackage
+{{ Fill ExcelPackage Description }}
 
 ```yaml
 Type: OfficeOpenXml.ExcelPackage
@@ -535,6 +551,7 @@ Accept wildcard characters: False
 ```
 
 ### -ExcludeProperty
+{{ Fill ExcludeProperty Description }}
 
 ```yaml
 Type: System.String[]
@@ -549,6 +566,7 @@ Accept wildcard characters: False
 ```
 
 ### -FreezeFirstColumn
+{{ Fill FreezeFirstColumn Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -563,6 +581,7 @@ Accept wildcard characters: False
 ```
 
 ### -FreezePane
+{{ Fill FreezePane Description }}
 
 ```yaml
 Type: System.Int32[]
@@ -577,6 +596,7 @@ Accept wildcard characters: False
 ```
 
 ### -FreezeTopRow
+{{ Fill FreezeTopRow Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -591,6 +611,7 @@ Accept wildcard characters: False
 ```
 
 ### -FreezeTopRowFirstColumn
+{{ Fill FreezeTopRowFirstColumn Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -605,6 +626,7 @@ Accept wildcard characters: False
 ```
 
 ### -HideSheet
+{{ Fill HideSheet Description }}
 
 ```yaml
 Type: System.String[]
@@ -619,6 +641,7 @@ Accept wildcard characters: False
 ```
 
 ### -IncludePivotChart
+{{ Fill IncludePivotChart Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -633,6 +656,7 @@ Accept wildcard characters: False
 ```
 
 ### -IncludePivotTable
+{{ Fill IncludePivotTable Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -647,6 +671,7 @@ Accept wildcard characters: False
 ```
 
 ### -KillExcel
+{{ Fill KillExcel Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -661,6 +686,7 @@ Accept wildcard characters: False
 ```
 
 ### -LineChart
+{{ Fill LineChart Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -675,6 +701,7 @@ Accept wildcard characters: False
 ```
 
 ### -MaxAutoSizeRows
+{{ Fill MaxAutoSizeRows Description }}
 
 ```yaml
 Type: System.Object
@@ -689,6 +716,7 @@ Accept wildcard characters: False
 ```
 
 ### -MoveAfter
+{{ Fill MoveAfter Description }}
 
 ```yaml
 Type: System.Object
@@ -703,6 +731,7 @@ Accept wildcard characters: False
 ```
 
 ### -MoveBefore
+{{ Fill MoveBefore Description }}
 
 ```yaml
 Type: System.Object
@@ -717,6 +746,7 @@ Accept wildcard characters: False
 ```
 
 ### -MoveToEnd
+{{ Fill MoveToEnd Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -731,6 +761,7 @@ Accept wildcard characters: False
 ```
 
 ### -MoveToStart
+{{ Fill MoveToStart Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -760,6 +791,7 @@ Accept wildcard characters: False
 ```
 
 ### -NoAliasOrScriptPropeties
+{{ Fill NoAliasOrScriptPropeties Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -774,6 +806,7 @@ Accept wildcard characters: False
 ```
 
 ### -NoClobber
+{{ Fill NoClobber Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -788,6 +821,7 @@ Accept wildcard characters: False
 ```
 
 ### -NoHeader
+{{ Fill NoHeader Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -802,6 +836,7 @@ Accept wildcard characters: False
 ```
 
 ### -NoLegend
+{{ Fill NoLegend Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -816,6 +851,7 @@ Accept wildcard characters: False
 ```
 
 ### -NoNumberConversion
+{{ Fill NoNumberConversion Description }}
 
 ```yaml
 Type: System.String[]
@@ -830,6 +866,7 @@ Accept wildcard characters: False
 ```
 
 ### -NoTotalsInPivot
+{{ Fill NoTotalsInPivot Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -844,6 +881,7 @@ Accept wildcard characters: False
 ```
 
 ### -Now
+{{ Fill Now Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -858,6 +896,7 @@ Accept wildcard characters: False
 ```
 
 ### -Numberformat
+{{ Fill Numberformat Description }}
 
 ```yaml
 Type: System.String
@@ -872,6 +911,7 @@ Accept wildcard characters: False
 ```
 
 ### -PassThru
+{{ Fill PassThru Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -886,6 +926,7 @@ Accept wildcard characters: False
 ```
 
 ### -Password
+{{ Fill Password Description }}
 
 ```yaml
 Type: System.String
@@ -900,7 +941,7 @@ Accept wildcard characters: False
 ```
 
 ### -Path
-
+{{ Fill Path Description }}
 
 ```yaml
 Type: System.String
@@ -915,6 +956,7 @@ Accept wildcard characters: False
 ```
 
 ### -PieChart
+{{ Fill PieChart Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -929,6 +971,7 @@ Accept wildcard characters: False
 ```
 
 ### -PivotChartType
+{{ Fill PivotChartType Description }}
 
 ```yaml
 Type: OfficeOpenXml.Drawing.Chart.eChartType
@@ -943,6 +986,7 @@ Accept wildcard characters: False
 ```
 
 ### -PivotColumns
+{{ Fill PivotColumns Description }}
 
 ```yaml
 Type: System.String[]
@@ -957,6 +1001,7 @@ Accept wildcard characters: False
 ```
 
 ### -PivotData
+{{ Fill PivotData Description }}
 
 ```yaml
 Type: System.Object
@@ -971,6 +1016,7 @@ Accept wildcard characters: False
 ```
 
 ### -PivotDataToColumn
+{{ Fill PivotDataToColumn Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -985,6 +1031,7 @@ Accept wildcard characters: False
 ```
 
 ### -PivotFilter
+{{ Fill PivotFilter Description }}
 
 ```yaml
 Type: System.String[]
@@ -999,6 +1046,7 @@ Accept wildcard characters: False
 ```
 
 ### -PivotRows
+{{ Fill PivotRows Description }}
 
 ```yaml
 Type: System.String[]
@@ -1013,6 +1061,7 @@ Accept wildcard characters: False
 ```
 
 ### -PivotTableDefinition
+{{ Fill PivotTableDefinition Description }}
 
 ```yaml
 Type: System.Collections.Hashtable
@@ -1027,6 +1076,7 @@ Accept wildcard characters: False
 ```
 
 ### -PivotTableName
+{{ Fill PivotTableName Description }}
 
 ```yaml
 Type: System.String
@@ -1041,6 +1091,7 @@ Accept wildcard characters: False
 ```
 
 ### -PivotTotals
+{{ Fill PivotTotals Description }}
 
 ```yaml
 Type: System.String
@@ -1055,6 +1106,7 @@ Accept wildcard characters: False
 ```
 
 ### -RangeName
+{{ Fill RangeName Description }}
 
 ```yaml
 Type: System.String
@@ -1069,6 +1121,7 @@ Accept wildcard characters: False
 ```
 
 ### -ReturnRange
+{{ Fill ReturnRange Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -1083,6 +1136,7 @@ Accept wildcard characters: False
 ```
 
 ### -ReZip
+{{ Fill ReZip Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -1097,6 +1151,7 @@ Accept wildcard characters: False
 ```
 
 ### -Show
+{{ Fill Show Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -1111,6 +1166,7 @@ Accept wildcard characters: False
 ```
 
 ### -ShowCategory
+{{ Fill ShowCategory Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -1125,6 +1181,7 @@ Accept wildcard characters: False
 ```
 
 ### -ShowPercent
+{{ Fill ShowPercent Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -1139,6 +1196,7 @@ Accept wildcard characters: False
 ```
 
 ### -StartColumn
+{{ Fill StartColumn Description }}
 
 ```yaml
 Type: System.Int32
@@ -1153,6 +1211,7 @@ Accept wildcard characters: False
 ```
 
 ### -StartRow
+{{ Fill StartRow Description }}
 
 ```yaml
 Type: System.Int32
@@ -1167,6 +1226,7 @@ Accept wildcard characters: False
 ```
 
 ### -Style
+{{ Fill Style Description }}
 
 ```yaml
 Type: System.Object[]
@@ -1181,6 +1241,7 @@ Accept wildcard characters: False
 ```
 
 ### -TableName
+{{ Fill TableName Description }}
 
 ```yaml
 Type: System.Object
@@ -1195,6 +1256,7 @@ Accept wildcard characters: False
 ```
 
 ### -TableStyle
+{{ Fill TableStyle Description }}
 
 ```yaml
 Type: OfficeOpenXml.Table.TableStyles
@@ -1209,6 +1271,7 @@ Accept wildcard characters: False
 ```
 
 ### -Title
+{{ Fill Title Description }}
 
 ```yaml
 Type: System.String
@@ -1223,6 +1286,7 @@ Accept wildcard characters: False
 ```
 
 ### -TitleBackgroundColor
+{{ Fill TitleBackgroundColor Description }}
 
 ```yaml
 Type: System.Object
@@ -1237,6 +1301,7 @@ Accept wildcard characters: False
 ```
 
 ### -TitleBold
+{{ Fill TitleBold Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -1251,6 +1316,7 @@ Accept wildcard characters: False
 ```
 
 ### -TitleFillPattern
+{{ Fill TitleFillPattern Description }}
 
 ```yaml
 Type: OfficeOpenXml.Style.ExcelFillStyle
@@ -1265,6 +1331,7 @@ Accept wildcard characters: False
 ```
 
 ### -TitleSize
+{{ Fill TitleSize Description }}
 
 ```yaml
 Type: System.Int32
@@ -1279,6 +1346,7 @@ Accept wildcard characters: False
 ```
 
 ### -UnHideSheet
+{{ Fill UnHideSheet Description }}
 
 ```yaml
 Type: System.String[]
@@ -1293,6 +1361,7 @@ Accept wildcard characters: False
 ```
 
 ### -WorksheetName
+{{ Fill WorksheetName Description }}
 
 ```yaml
 Type: System.String

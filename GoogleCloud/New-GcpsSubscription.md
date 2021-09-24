@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-GcpsSubscription
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -18,20 +18,21 @@ New-GcpsSubscription [-Project <String>] [-Subscription] <String> [-Topic] <Stri
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -AckDeadline
+{{ Fill AckDeadline Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -46,6 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
+{{ Fill Project Description }}
 
 ```yaml
 Type: System.String
@@ -60,6 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -PushEndpoint
+{{ Fill PushEndpoint Description }}
 
 ```yaml
 Type: System.String
@@ -74,6 +77,7 @@ Accept wildcard characters: False
 ```
 
 ### -Subscription
+{{ Fill Subscription Description }}
 
 ```yaml
 Type: System.String
@@ -88,6 +92,7 @@ Accept wildcard characters: False
 ```
 
 ### -Topic
+{{ Fill Topic Description }}
 
 ```yaml
 Type: System.String

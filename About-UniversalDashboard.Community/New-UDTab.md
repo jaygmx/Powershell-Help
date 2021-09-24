@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-UDTab
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -17,20 +17,21 @@ New-UDTab -Content <ScriptBlock> [-Id <String>] -Text <String> [<CommonParameter
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Content
+{{ Fill Content Description }}
 
 ```yaml
 Type: ScriptBlock
@@ -45,6 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -Id
+{{ Fill Id Description }}
 
 ```yaml
 Type: String
@@ -59,6 +61,7 @@ Accept wildcard characters: False
 ```
 
 ### -Text
+{{ Fill Text Description }}
 
 ```yaml
 Type: String

@@ -8,7 +8,7 @@ schema: 2.0.0
 # Save-LocationBookmark
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -17,20 +17,21 @@ Save-LocationBookmark [-Alias] <String> [[-Location] <String>] [<CommonParameter
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Alias
+{{ Fill Alias Description }}
 
 ```yaml
 Type: System.String
@@ -45,6 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -Location
+{{ Fill Location Description }}
 
 ```yaml
 Type: System.String

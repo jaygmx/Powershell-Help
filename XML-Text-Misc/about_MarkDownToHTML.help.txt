@@ -357,6 +357,7 @@ CUSTOMIZATION
     >     the final HTML page in the desired way.
     >
     >     Content placeholders on the page are enclosed in double curly brackets,
+    >     e.g. `{{foo}}`. The command `Publish-StaticHtmlSite` locates these
     >     placeholders on the template page and replaces them with content. This replacement
     >     is performed for simple conversion projects based on the
     >     `Convert-MarkdownToHTML` command and also for static HTML site projects
@@ -365,7 +366,9 @@ CUSTOMIZATION
     >
     >     | Placeholder   | Description                  | Origin                      |
     >     |:------------- | :--------------------------- | :-------------------------- |
+    >     | `{{title}}`   | Auto generated page title    | `$inputObject.Title`        |
     >     | `[title]`     | For backwards compatibility. | `$inputObject.Title`        |
+    >     | `{{content}}` | HTML content                 | `$inputObject.HtmlFragment` |
     >     | `[content]`   | For backwards compatibility. | `$inputObject.HtmlFragment` |
     >
     >     For static HTML site projects following additional placeholders are
@@ -373,6 +376,8 @@ CUSTOMIZATION
     >
     >     | Placeholder   | Description                  | Origin       |
     >     |:------------- | :--------------------------- | :----------- |
+    >     | `{{nav}}`     | Navigation bar content       | `Build.json` |
+    >     | `{{footer}}`  | Page footer content          | `Build.json` |
     >
     >     For static HTML site projects additional custom placeholders can be
     >     added to `md-template.html` as needed.
@@ -523,17 +528,22 @@ CUSTOMIZATION
     >     |     |     are replaced with content from the `site_navigation` specification
     >     |     |     in `Build.json` or navigation links to headings found on the page.
     >     |     |     Following placeholders can be used in these HTML templates:
+    >     |     |     - `{{navurl}}`: Hyperlink to as specified in the
     >     |     |       `site_navigation` option or a link to a page heading.
+    >     |     |     - `{{navtext}}`: The link's descriptive text.
+    >     |     |     - `{{level}}`: The heading level of links to page headings.
     >     |     |
     >     |     |     Following navigation bar item templates are available:
     >     |     |     - `navitem`: A navigation link item template. Default:
     >     |     |       ~~~ html
     >     |     |       <button class='navitem'>
+    >     |     |           <a href='{{navurl}}'>{{navtext}}</a>
     >     |     |       </button>
     >     |     |       ~~~
     >     |     |     - `navlabel`: Template for a navigation bar label
     >     |     |       (without link). Default:
     >     |     |       ~~~ html
+    >     |     |       <div class='navlabel'>{{navtext}}</div>
     >     |     |       ~~~
     >     |     |     - `navseparator`:  A separator between navigation bar
     >     |     |       sections. Default:
@@ -543,6 +553,7 @@ CUSTOMIZATION
     >     |     |     - `navheading`: Specification for the text of links to page
     >     |     |       headings. Default:
     >     |     |       ~~~ html
+    >     |     |       <span class='navitem{{level}}'>{{navtext}}</span>
     >     |     |       ~~~
     >     |     +--------------------------------------------------------------+
     >     |
@@ -655,12 +666,15 @@ CUSTOMIZATION
     > replace it with content in the project's build process is required.
     > This rule is added to the content map dictionary
     > `$SCRIPT:contentMap` defined in `Build.ps1`. For example a simple
+    > rule to replace the placeholder `{{my_placeholder}}` with static text
     > `<b>Hello</b>` looks like:
     >
     > ~~~ Powershell
     > SCRIPT:contentMap = @{
     >
+    > '{{my_placeholder}}' = '<b>Hello</b>'
     >
+    > '{{footer}}' =  $config.Footer # Footer text from configuration
     >
     > # other mappings ...
     > }
@@ -691,6 +705,7 @@ CUSTOMIZATION
     >
     > This script block would substitute the path of the Markdown
     > source document relative to the site root for every occurence of
+    > '{{my_placeholder}}'.
 
 KEYWORDS
     Markdown HTML static sites Conversion

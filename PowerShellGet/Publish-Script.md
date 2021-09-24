@@ -8,7 +8,7 @@ schema: 2.0.0
 # Publish-Script
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -25,16 +25,16 @@ Publish-Script -LiteralPath <String> [-NuGetApiKey <String>] [-Repository <Strin
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
@@ -54,6 +54,7 @@ Accept wildcard characters: False
 ```
 
 ### -Credential
+{{ Fill Credential Description }}
 
 ```yaml
 Type: System.Management.Automation.PSCredential
@@ -68,6 +69,7 @@ Accept wildcard characters: False
 ```
 
 ### -Force
+{{ Fill Force Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -82,6 +84,7 @@ Accept wildcard characters: False
 ```
 
 ### -LiteralPath
+{{ Fill LiteralPath Description }}
 
 ```yaml
 Type: System.String
@@ -96,6 +99,7 @@ Accept wildcard characters: False
 ```
 
 ### -NuGetApiKey
+{{ Fill NuGetApiKey Description }}
 
 ```yaml
 Type: System.String
@@ -110,7 +114,7 @@ Accept wildcard characters: False
 ```
 
 ### -Path
-
+{{ Fill Path Description }}
 
 ```yaml
 Type: System.String
@@ -125,6 +129,7 @@ Accept wildcard characters: False
 ```
 
 ### -Repository
+{{ Fill Repository Description }}
 
 ```yaml
 Type: System.String

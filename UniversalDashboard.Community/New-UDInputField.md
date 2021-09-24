@@ -173,6 +173,7 @@ Accept wildcard characters: False
 ```
 
 ### -Disabled
+{{ Fill Disabled Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter

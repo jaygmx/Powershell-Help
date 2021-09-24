@@ -100,6 +100,7 @@ Accept wildcard characters: False
 ```
 
 ### -Text
+{{Fill Text Description}}
 
 ```yaml
 Type: String

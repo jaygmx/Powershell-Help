@@ -8,7 +8,7 @@ schema: 2.0.0
 # Get-CsvColumn
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -17,20 +17,21 @@ Get-CsvColumn [-Csv] <FileInfo> [-Column] <String> [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Column
+{{ Fill Column Description }}
 
 ```yaml
 Type: System.String
@@ -45,6 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -Csv
+{{ Fill Csv Description }}
 
 ```yaml
 Type: System.IO.FileInfo

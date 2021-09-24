@@ -47,6 +47,7 @@ and exits as soon as the port is responding
 ## PARAMETERS
 
 ### -ComputerName
+{{ Fill ComputerName Description }}
 
 ```yaml
 Type: System.String

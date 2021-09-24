@@ -8,7 +8,7 @@ schema: 2.0.0
 # Import-GcSqlInstance
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -25,20 +25,21 @@ Import-GcSqlInstance [-Project <String>] [-Instance] <String> [-ImportFilePath] 
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Column
+{{ Fill Column Description }}
 
 ```yaml
 Type: System.String[]
@@ -53,6 +54,7 @@ Accept wildcard characters: False
 ```
 
 ### -Database
+{{ Fill Database Description }}
 
 ```yaml
 Type: System.String
@@ -67,6 +69,7 @@ Accept wildcard characters: False
 ```
 
 ### -DestinationTable
+{{ Fill DestinationTable Description }}
 
 ```yaml
 Type: System.String
@@ -81,6 +84,7 @@ Accept wildcard characters: False
 ```
 
 ### -ImportFilePath
+{{ Fill ImportFilePath Description }}
 
 ```yaml
 Type: System.String
@@ -95,6 +99,7 @@ Accept wildcard characters: False
 ```
 
 ### -Instance
+{{ Fill Instance Description }}
 
 ```yaml
 Type: System.String
@@ -109,6 +114,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
+{{ Fill Project Description }}
 
 ```yaml
 Type: System.String

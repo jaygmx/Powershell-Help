@@ -8,7 +8,7 @@ schema: 2.0.0
 # Set-BqDataset
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -28,20 +28,21 @@ Set-BqDataset [-Project <String>] [-Dataset] <Dataset> -ClearLabel <String[]> [<
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -ClearLabel
+{{ Fill ClearLabel Description }}
 
 ```yaml
 Type: System.String[]
@@ -56,6 +57,7 @@ Accept wildcard characters: False
 ```
 
 ### -Dataset
+{{ Fill Dataset Description }}
 
 ```yaml
 Type: Google.Apis.Bigquery.v2.Data.Dataset
@@ -70,6 +72,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
+{{ Fill Project Description }}
 
 ```yaml
 Type: System.String
@@ -84,6 +87,7 @@ Accept wildcard characters: False
 ```
 
 ### -SetLabel
+{{ Fill SetLabel Description }}
 
 ```yaml
 Type: System.Collections.Hashtable

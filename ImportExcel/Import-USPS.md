@@ -8,7 +8,7 @@ schema: 2.0.0
 # Import-USPS
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -17,20 +17,21 @@ Import-USPS [[-TrackingNumber] <Object>] [-UseDefaultCredentials] [<CommonParame
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -TrackingNumber
+{{ Fill TrackingNumber Description }}
 
 ```yaml
 Type: System.Object
@@ -45,6 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -UseDefaultCredentials
+{{ Fill UseDefaultCredentials Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter

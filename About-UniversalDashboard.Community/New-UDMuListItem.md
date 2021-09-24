@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-UDMuListItem
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -20,20 +20,21 @@ New-UDMuListItem [[-Id] <String>] [[-AvatarType] <String>] [[-LabelStyle] <Hasht
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -AutoRefresh
+{{ Fill AutoRefresh Description }}
 
 ```yaml
 Type: SwitchParameter
@@ -48,6 +49,7 @@ Accept wildcard characters: False
 ```
 
 ### -AvatarType
+{{ Fill AvatarType Description }}
 
 ```yaml
 Type: String
@@ -63,6 +65,7 @@ Accept wildcard characters: False
 ```
 
 ### -Content
+{{ Fill Content Description }}
 
 ```yaml
 Type: ScriptBlock
@@ -77,6 +80,7 @@ Accept wildcard characters: False
 ```
 
 ### -Icon
+{{ Fill Icon Description }}
 
 ```yaml
 Type: Object
@@ -91,6 +95,7 @@ Accept wildcard characters: False
 ```
 
 ### -Id
+{{ Fill Id Description }}
 
 ```yaml
 Type: String
@@ -105,6 +110,7 @@ Accept wildcard characters: False
 ```
 
 ### -IsButton
+{{ Fill IsButton Description }}
 
 ```yaml
 Type: SwitchParameter
@@ -119,6 +125,7 @@ Accept wildcard characters: False
 ```
 
 ### -IsEndPoint
+{{ Fill IsEndPoint Description }}
 
 ```yaml
 Type: SwitchParameter
@@ -133,6 +140,7 @@ Accept wildcard characters: False
 ```
 
 ### -Label
+{{ Fill Label Description }}
 
 ```yaml
 Type: String
@@ -147,6 +155,7 @@ Accept wildcard characters: False
 ```
 
 ### -LabelStyle
+{{ Fill LabelStyle Description }}
 
 ```yaml
 Type: Hashtable
@@ -161,6 +170,7 @@ Accept wildcard characters: False
 ```
 
 ### -OnClick
+{{ Fill OnClick Description }}
 
 ```yaml
 Type: Object
@@ -175,6 +185,7 @@ Accept wildcard characters: False
 ```
 
 ### -RefreshInterval
+{{ Fill RefreshInterval Description }}
 
 ```yaml
 Type: Int32
@@ -189,6 +200,7 @@ Accept wildcard characters: False
 ```
 
 ### -SecondaryAction
+{{ Fill SecondaryAction Description }}
 
 ```yaml
 Type: ScriptBlock
@@ -203,6 +215,7 @@ Accept wildcard characters: False
 ```
 
 ### -Source
+{{ Fill Source Description }}
 
 ```yaml
 Type: String
@@ -217,6 +230,7 @@ Accept wildcard characters: False
 ```
 
 ### -Style
+{{ Fill Style Description }}
 
 ```yaml
 Type: Hashtable
@@ -231,6 +245,7 @@ Accept wildcard characters: False
 ```
 
 ### -SubTitle
+{{ Fill SubTitle Description }}
 
 ```yaml
 Type: String

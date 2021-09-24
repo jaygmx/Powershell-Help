@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-ChartToolbar
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -18,20 +18,21 @@ New-ChartToolbar [-Download] [-Selection] [-Zoom] [-ZoomIn] [-ZoomOut] [-Pan] [-
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -AutoSelected
+{{ Fill AutoSelected Description }}
 
 ```yaml
 Type: System.String
@@ -47,6 +48,7 @@ Accept wildcard characters: False
 ```
 
 ### -Download
+{{ Fill Download Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -61,6 +63,7 @@ Accept wildcard characters: False
 ```
 
 ### -Pan
+{{ Fill Pan Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -75,6 +78,7 @@ Accept wildcard characters: False
 ```
 
 ### -Reset
+{{ Fill Reset Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -89,6 +93,7 @@ Accept wildcard characters: False
 ```
 
 ### -Selection
+{{ Fill Selection Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -103,6 +108,7 @@ Accept wildcard characters: False
 ```
 
 ### -Zoom
+{{ Fill Zoom Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -117,6 +123,7 @@ Accept wildcard characters: False
 ```
 
 ### -ZoomIn
+{{ Fill ZoomIn Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -131,6 +138,7 @@ Accept wildcard characters: False
 ```
 
 ### -ZoomOut
+{{ Fill ZoomOut Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter

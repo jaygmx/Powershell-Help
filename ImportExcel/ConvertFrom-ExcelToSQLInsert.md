@@ -183,6 +183,7 @@ Accept wildcard characters: False
 ```
 
 ### -UseMsSqlSyntax
+{{ Fill UseMSSQLSyntax Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter

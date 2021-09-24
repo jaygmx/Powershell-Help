@@ -8,7 +8,7 @@ schema: 2.0.0
 # Set-CellStyle
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -18,20 +18,21 @@ Set-CellStyle [[-Worksheet] <Object>] [[-Row] <Object>] [[-LastColumn] <Object>]
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Color
+{{ Fill Color Description }}
 
 ```yaml
 Type: System.Object
@@ -46,6 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -LastColumn
+{{ Fill LastColumn Description }}
 
 ```yaml
 Type: System.Object
@@ -60,6 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -Pattern
+{{ Fill Pattern Description }}
 
 ```yaml
 Type: OfficeOpenXml.Style.ExcelFillStyle
@@ -75,6 +78,7 @@ Accept wildcard characters: False
 ```
 
 ### -Row
+{{ Fill Row Description }}
 
 ```yaml
 Type: System.Object
@@ -89,6 +93,7 @@ Accept wildcard characters: False
 ```
 
 ### -Worksheet
+{{ Fill Worksheet Description }}
 
 ```yaml
 Type: System.Object

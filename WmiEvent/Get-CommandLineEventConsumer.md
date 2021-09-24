@@ -29,14 +29,15 @@ Get-CommandLineEventConsumer -CimSession <CimSession[]> [-Name <String>] [-Throt
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -CimSession
+{{ Fill CimSession Description }}
 
 ```yaml
 Type: Microsoft.Management.Infrastructure.CimSession[]
@@ -51,6 +52,7 @@ Accept wildcard characters: False
 ```
 
 ### -ComputerName
+{{ Fill ComputerName Description }}
 
 ```yaml
 Type: System.String[]
@@ -65,6 +67,7 @@ Accept wildcard characters: False
 ```
 
 ### -Credential
+{{ Fill Credential Description }}
 
 ```yaml
 Type: System.Management.Automation.PSCredential
@@ -79,6 +82,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
+{{ Fill Name Description }}
 
 ```yaml
 Type: System.String
@@ -93,6 +97,7 @@ Accept wildcard characters: False
 ```
 
 ### -ThrottleLimit
+{{ Fill ThrottleLimit Description }}
 
 ```yaml
 Type: System.Int32

@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-GcSqlInstanceReplicaConfig
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -20,20 +20,21 @@ New-GcSqlInstanceReplicaConfig [-FailoverTarget] [-MySqlCaCert <String>] [-MySql
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -FailoverTarget
+{{ Fill FailoverTarget Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -48,6 +49,7 @@ Accept wildcard characters: False
 ```
 
 ### -MySqlCaCert
+{{ Fill MySqlCaCert Description }}
 
 ```yaml
 Type: System.String
@@ -62,6 +64,7 @@ Accept wildcard characters: False
 ```
 
 ### -MySqlClientCert
+{{ Fill MySqlClientCert Description }}
 
 ```yaml
 Type: System.String
@@ -76,6 +79,7 @@ Accept wildcard characters: False
 ```
 
 ### -MySqlClientKey
+{{ Fill MySqlClientKey Description }}
 
 ```yaml
 Type: System.String
@@ -90,6 +94,7 @@ Accept wildcard characters: False
 ```
 
 ### -MySqlDumpPath
+{{ Fill MySqlDumpPath Description }}
 
 ```yaml
 Type: System.String
@@ -104,6 +109,7 @@ Accept wildcard characters: False
 ```
 
 ### -MySqlHeartbeatPeriod
+{{ Fill MySqlHeartbeatPeriod Description }}
 
 ```yaml
 Type: System.Int64
@@ -118,6 +124,7 @@ Accept wildcard characters: False
 ```
 
 ### -MySqlPassword
+{{ Fill MySqlPassword Description }}
 
 ```yaml
 Type: System.String
@@ -132,6 +139,7 @@ Accept wildcard characters: False
 ```
 
 ### -MySqlRetryInterval
+{{ Fill MySqlRetryInterval Description }}
 
 ```yaml
 Type: System.Int32
@@ -146,6 +154,7 @@ Accept wildcard characters: False
 ```
 
 ### -MySqlSslCipher
+{{ Fill MySqlSslCipher Description }}
 
 ```yaml
 Type: System.String
@@ -160,6 +169,7 @@ Accept wildcard characters: False
 ```
 
 ### -MySqlUser
+{{ Fill MySqlUser Description }}
 
 ```yaml
 Type: System.String
@@ -174,6 +184,7 @@ Accept wildcard characters: False
 ```
 
 ### -MySqlVerifyCertificate
+{{ Fill MySqlVerifyCertificate Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter

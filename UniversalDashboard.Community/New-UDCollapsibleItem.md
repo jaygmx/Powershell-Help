@@ -196,6 +196,7 @@ Accept wildcard characters: False
 ```
 
 ### -Id
+{{ Fill Id Description }}
 
 ```yaml
 Type: System.String
@@ -210,6 +211,7 @@ Accept wildcard characters: False
 ```
 
 ### -RefreshInterval
+{{ Fill RefreshInterval Description }}
 
 ```yaml
 Type: System.Int32
@@ -224,6 +226,7 @@ Accept wildcard characters: False
 ```
 
 ### -Title
+{{ Fill Title Description }}
 
 ```yaml
 Type: System.String

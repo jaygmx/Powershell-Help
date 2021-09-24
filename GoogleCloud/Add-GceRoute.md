@@ -8,7 +8,7 @@ schema: 2.0.0
 # Add-GceRoute
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -25,20 +25,21 @@ Add-GceRoute [-Project <String>] [-Name] <String> [-DestinationIpRange] <String>
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Description
+{{ Fill Description Description }}
 
 ```yaml
 Type: System.String
@@ -53,6 +54,7 @@ Accept wildcard characters: False
 ```
 
 ### -DestinationIpRange
+{{ Fill DestinationIpRange Description }}
 
 ```yaml
 Type: System.String
@@ -67,6 +69,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
+{{ Fill Name Description }}
 
 ```yaml
 Type: System.String
@@ -81,6 +84,7 @@ Accept wildcard characters: False
 ```
 
 ### -Network
+{{ Fill Network Description }}
 
 ```yaml
 Type: System.String
@@ -95,6 +99,7 @@ Accept wildcard characters: False
 ```
 
 ### -NextHopInstance
+{{ Fill NextHopInstance Description }}
 
 ```yaml
 Type: System.String
@@ -109,6 +114,7 @@ Accept wildcard characters: False
 ```
 
 ### -NextHopInternetGateway
+{{ Fill NextHopInternetGateway Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -123,6 +129,7 @@ Accept wildcard characters: False
 ```
 
 ### -NextHopIp
+{{ Fill NextHopIp Description }}
 
 ```yaml
 Type: System.String
@@ -137,6 +144,7 @@ Accept wildcard characters: False
 ```
 
 ### -NextHopVpnTunnel
+{{ Fill NextHopVpnTunnel Description }}
 
 ```yaml
 Type: System.String
@@ -151,6 +159,7 @@ Accept wildcard characters: False
 ```
 
 ### -Object
+{{ Fill Object Description }}
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.Route
@@ -165,6 +174,7 @@ Accept wildcard characters: False
 ```
 
 ### -Priority
+{{ Fill Priority Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int64]
@@ -179,6 +189,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
+{{ Fill Project Description }}
 
 ```yaml
 Type: System.String
@@ -193,6 +204,7 @@ Accept wildcard characters: False
 ```
 
 ### -Tag
+{{ Fill Tag Description }}
 
 ```yaml
 Type: System.String[]

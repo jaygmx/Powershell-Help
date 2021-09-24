@@ -8,7 +8,7 @@ schema: 2.0.0
 # Publish-Module
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -28,20 +28,21 @@ Publish-Module -Path <String> [-NuGetApiKey <String>] [-Repository <String>] [-C
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -AllowPrerelease
+{{ Fill AllowPrerelease Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -71,6 +72,7 @@ Accept wildcard characters: False
 ```
 
 ### -Credential
+{{ Fill Credential Description }}
 
 ```yaml
 Type: System.Management.Automation.PSCredential
@@ -85,6 +87,7 @@ Accept wildcard characters: False
 ```
 
 ### -Exclude
+{{ Fill Exclude Description }}
 
 ```yaml
 Type: System.String[]
@@ -99,6 +102,7 @@ Accept wildcard characters: False
 ```
 
 ### -Force
+{{ Fill Force Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -113,6 +117,7 @@ Accept wildcard characters: False
 ```
 
 ### -FormatVersion
+{{ Fill FormatVersion Description }}
 
 ```yaml
 Type: System.Version
@@ -128,6 +133,7 @@ Accept wildcard characters: False
 ```
 
 ### -IconUri
+{{ Fill IconUri Description }}
 
 ```yaml
 Type: System.Uri
@@ -142,6 +148,7 @@ Accept wildcard characters: False
 ```
 
 ### -LicenseUri
+{{ Fill LicenseUri Description }}
 
 ```yaml
 Type: System.Uri
@@ -156,6 +163,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
+{{ Fill Name Description }}
 
 ```yaml
 Type: System.String
@@ -170,6 +178,7 @@ Accept wildcard characters: False
 ```
 
 ### -NuGetApiKey
+{{ Fill NuGetApiKey Description }}
 
 ```yaml
 Type: System.String
@@ -184,7 +193,7 @@ Accept wildcard characters: False
 ```
 
 ### -Path
-
+{{ Fill Path Description }}
 
 ```yaml
 Type: System.String
@@ -199,6 +208,7 @@ Accept wildcard characters: False
 ```
 
 ### -ProjectUri
+{{ Fill ProjectUri Description }}
 
 ```yaml
 Type: System.Uri
@@ -213,6 +223,7 @@ Accept wildcard characters: False
 ```
 
 ### -ReleaseNotes
+{{ Fill ReleaseNotes Description }}
 
 ```yaml
 Type: System.String[]
@@ -227,6 +238,7 @@ Accept wildcard characters: False
 ```
 
 ### -Repository
+{{ Fill Repository Description }}
 
 ```yaml
 Type: System.String
@@ -241,6 +253,7 @@ Accept wildcard characters: False
 ```
 
 ### -RequiredVersion
+{{ Fill RequiredVersion Description }}
 
 ```yaml
 Type: System.String
@@ -255,6 +268,7 @@ Accept wildcard characters: False
 ```
 
 ### -SkipAutomaticTags
+{{ Fill SkipAutomaticTags Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -269,6 +283,7 @@ Accept wildcard characters: False
 ```
 
 ### -Tags
+{{ Fill Tags Description }}
 
 ```yaml
 Type: System.String[]

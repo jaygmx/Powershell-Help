@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-TableHeader
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -21,20 +21,21 @@ New-TableHeader [[-Names] <String[]>] [[-Title] <String>] [[-Color] <String>] [[
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -AddRow
+{{ Fill AddRow Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -49,6 +50,7 @@ Accept wildcard characters: False
 ```
 
 ### -Alignment
+{{ Fill Alignment Description }}
 
 ```yaml
 Type: System.String
@@ -64,6 +66,7 @@ Accept wildcard characters: False
 ```
 
 ### -BackGroundColor
+{{ Fill BackGroundColor Description }}
 
 ```yaml
 Type: System.String
@@ -78,6 +81,7 @@ Accept wildcard characters: False
 ```
 
 ### -Color
+{{ Fill Color Description }}
 
 ```yaml
 Type: System.String
@@ -92,6 +96,7 @@ Accept wildcard characters: False
 ```
 
 ### -ColumnCount
+{{ Fill ColumnCount Description }}
 
 ```yaml
 Type: System.Int32
@@ -106,6 +111,7 @@ Accept wildcard characters: False
 ```
 
 ### -Direction
+{{ Fill Direction Description }}
 
 ```yaml
 Type: System.String
@@ -121,6 +127,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontFamily
+{{ Fill FontFamily Description }}
 
 ```yaml
 Type: System.String
@@ -135,6 +142,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontSize
+{{ Fill FontSize Description }}
 
 ```yaml
 Type: System.Int32
@@ -149,6 +157,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontStyle
+{{ Fill FontStyle Description }}
 
 ```yaml
 Type: System.String
@@ -164,6 +173,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontVariant
+{{ Fill FontVariant Description }}
 
 ```yaml
 Type: System.String
@@ -179,6 +189,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontWeight
+{{ Fill FontWeight Description }}
 
 ```yaml
 Type: System.String
@@ -194,6 +205,7 @@ Accept wildcard characters: False
 ```
 
 ### -Names
+{{ Fill Names Description }}
 
 ```yaml
 Type: System.String[]
@@ -208,6 +220,7 @@ Accept wildcard characters: False
 ```
 
 ### -ResponsiveOperations
+{{ Fill ResponsiveOperations Description }}
 
 ```yaml
 Type: System.String
@@ -223,6 +236,7 @@ Accept wildcard characters: False
 ```
 
 ### -TextDecoration
+{{ Fill TextDecoration Description }}
 
 ```yaml
 Type: System.String
@@ -238,6 +252,7 @@ Accept wildcard characters: False
 ```
 
 ### -TextTransform
+{{ Fill TextTransform Description }}
 
 ```yaml
 Type: System.String
@@ -253,6 +268,7 @@ Accept wildcard characters: False
 ```
 
 ### -Title
+{{ Fill Title Description }}
 
 ```yaml
 Type: System.String

@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-HierarchicalTreeNode
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -18,20 +18,21 @@ New-HierarchicalTreeNode [[-ID] <String>] [[-Label] <String>] [[-Type] <String>]
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Description
+{{ Fill Description Description }}
 
 ```yaml
 Type: System.String
@@ -46,6 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -ID
+{{ Fill ID Description }}
 
 ```yaml
 Type: System.String
@@ -60,6 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -Label
+{{ Fill Label Description }}
 
 ```yaml
 Type: System.String
@@ -74,6 +77,7 @@ Accept wildcard characters: False
 ```
 
 ### -To
+{{ Fill To Description }}
 
 ```yaml
 Type: System.String
@@ -88,6 +92,7 @@ Accept wildcard characters: False
 ```
 
 ### -Type
+{{ Fill Type Description }}
 
 ```yaml
 Type: System.String

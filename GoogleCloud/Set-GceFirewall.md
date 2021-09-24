@@ -8,7 +8,7 @@ schema: 2.0.0
 # Set-GceFirewall
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -17,20 +17,21 @@ Set-GceFirewall [-Project <String>] [-Firewall] <Firewall> [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Firewall
+{{ Fill Firewall Description }}
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.Firewall
@@ -45,6 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
+{{ Fill Project Description }}
 
 ```yaml
 Type: System.String

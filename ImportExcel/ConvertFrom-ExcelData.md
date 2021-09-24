@@ -8,7 +8,7 @@ schema: 2.0.0
 # ConvertFrom-ExcelData
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -18,20 +18,21 @@ ConvertFrom-ExcelData [-Path] <Object> [[-ScriptBlock] <ScriptBlock>] [[-Workshe
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -DataOnly
+{{ Fill DataOnly Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -46,6 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -Header
+{{ Fill Header Description }}
 
 ```yaml
 Type: System.String[]
@@ -60,6 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -HeaderRow
+{{ Fill HeaderRow Description }}
 
 ```yaml
 Type: System.Int32
@@ -74,6 +77,7 @@ Accept wildcard characters: False
 ```
 
 ### -NoHeader
+{{ Fill NoHeader Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -88,7 +92,7 @@ Accept wildcard characters: False
 ```
 
 ### -Path
-
+{{ Fill Path Description }}
 
 ```yaml
 Type: System.Object
@@ -103,6 +107,7 @@ Accept wildcard characters: False
 ```
 
 ### -ScriptBlock
+{{ Fill ScriptBlock Description }}
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock
@@ -117,6 +122,7 @@ Accept wildcard characters: False
 ```
 
 ### -WorksheetName
+{{ Fill WorksheetName Description }}
 
 ```yaml
 Type: System.Object

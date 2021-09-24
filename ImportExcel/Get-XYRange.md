@@ -8,7 +8,7 @@ schema: 2.0.0
 # Get-XYRange
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -17,20 +17,21 @@ Get-XYRange [[-TargetData] <Object>] [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -TargetData
+{{ Fill TargetData Description }}
 
 ```yaml
 Type: System.Object

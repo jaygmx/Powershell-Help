@@ -8,7 +8,7 @@ schema: 2.0.0
 # Set-GcsObject
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -24,20 +24,21 @@ Set-GcsObject [-InputObject] <Object> [-PredefinedAcl <PredefinedAclEnum>] [<Com
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Bucket
+{{ Fill Bucket Description }}
 
 ```yaml
 Type: System.String
@@ -52,6 +53,7 @@ Accept wildcard characters: False
 ```
 
 ### -InputObject
+{{ Fill InputObject Description }}
 
 ```yaml
 Type: Google.Apis.Storage.v1.Data.Object
@@ -66,6 +68,7 @@ Accept wildcard characters: False
 ```
 
 ### -ObjectName
+{{ Fill ObjectName Description }}
 
 ```yaml
 Type: System.String
@@ -80,6 +83,7 @@ Accept wildcard characters: False
 ```
 
 ### -PredefinedAcl
+{{ Fill PredefinedAcl Description }}
 
 ```yaml
 Type: System.Nullable`1[Google.Apis.Storage.v1.ObjectsResource+UpdateRequest+PredefinedAclEnum]

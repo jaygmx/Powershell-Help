@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-HTMLSection
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -22,20 +22,21 @@ New-HTMLSection [[-Content] <ScriptBlock>] [-HeaderText <String>] [-HeaderTextCo
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -AlignContent
+{{ Fill AlignContent Description }}
 
 ```yaml
 Type: System.String
@@ -51,6 +52,7 @@ Accept wildcard characters: False
 ```
 
 ### -AlignItems
+{{ Fill AlignItems Description }}
 
 ```yaml
 Type: System.String
@@ -66,6 +68,7 @@ Accept wildcard characters: False
 ```
 
 ### -AnchorName
+{{ Fill AnchorName Description }}
 
 ```yaml
 Type: System.String
@@ -80,6 +83,7 @@ Accept wildcard characters: False
 ```
 
 ### -BackgroundColor
+{{ Fill BackgroundColor Description }}
 
 ```yaml
 Type: System.String
@@ -94,6 +98,7 @@ Accept wildcard characters: False
 ```
 
 ### -BorderRadius
+{{ Fill BorderRadius Description }}
 
 ```yaml
 Type: System.String
@@ -109,6 +114,7 @@ Accept wildcard characters: False
 ```
 
 ### -CanCollapse
+{{ Fill CanCollapse Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -123,6 +129,7 @@ Accept wildcard characters: False
 ```
 
 ### -Collapsed
+{{ Fill Collapsed Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -137,6 +144,7 @@ Accept wildcard characters: False
 ```
 
 ### -Content
+{{ Fill Content Description }}
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock
@@ -151,6 +159,7 @@ Accept wildcard characters: False
 ```
 
 ### -Direction
+{{ Fill Direction Description }}
 
 ```yaml
 Type: System.String
@@ -166,6 +175,7 @@ Accept wildcard characters: False
 ```
 
 ### -HeaderBackGroundColor
+{{ Fill HeaderBackGroundColor Description }}
 
 ```yaml
 Type: System.String
@@ -180,6 +190,7 @@ Accept wildcard characters: False
 ```
 
 ### -HeaderText
+{{ Fill HeaderText Description }}
 
 ```yaml
 Type: System.String
@@ -194,6 +205,7 @@ Accept wildcard characters: False
 ```
 
 ### -HeaderTextAlignment
+{{ Fill HeaderTextAlignment Description }}
 
 ```yaml
 Type: System.String
@@ -209,6 +221,7 @@ Accept wildcard characters: False
 ```
 
 ### -HeaderTextColor
+{{ Fill HeaderTextColor Description }}
 
 ```yaml
 Type: System.String
@@ -223,6 +236,7 @@ Accept wildcard characters: False
 ```
 
 ### -HeaderTextSize
+{{ Fill HeaderTextSize Description }}
 
 ```yaml
 Type: System.String
@@ -237,6 +251,7 @@ Accept wildcard characters: False
 ```
 
 ### -Height
+{{ Fill Height Description }}
 
 ```yaml
 Type: System.Object
@@ -251,6 +266,7 @@ Accept wildcard characters: False
 ```
 
 ### -Invisible
+{{ Fill Invisible Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -265,6 +281,7 @@ Accept wildcard characters: False
 ```
 
 ### -IsHidden
+{{ Fill IsHidden Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -279,6 +296,7 @@ Accept wildcard characters: False
 ```
 
 ### -JustifyContent
+{{ Fill JustifyContent Description }}
 
 ```yaml
 Type: System.String
@@ -294,6 +312,7 @@ Accept wildcard characters: False
 ```
 
 ### -StyleSheetsConfiguration
+{{ Fill StyleSheetsConfiguration Description }}
 
 ```yaml
 Type: System.Collections.IDictionary
@@ -308,6 +327,7 @@ Accept wildcard characters: False
 ```
 
 ### -Width
+{{ Fill Width Description }}
 
 ```yaml
 Type: System.Object
@@ -322,6 +342,7 @@ Accept wildcard characters: False
 ```
 
 ### -Wrap
+{{ Fill Wrap Description }}
 
 ```yaml
 Type: System.String

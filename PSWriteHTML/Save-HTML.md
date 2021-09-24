@@ -90,6 +90,7 @@ Accept wildcard characters: False
 ```
 
 ### -Suppress
+{{ Fill Suppress Description }}
 
 ```yaml
 Type: System.Boolean
@@ -104,6 +105,7 @@ Accept wildcard characters: False
 ```
 
 ### -Format
+{{ Fill Format Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -118,6 +120,7 @@ Accept wildcard characters: False
 ```
 
 ### -Minify
+{{ Fill Minify Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter

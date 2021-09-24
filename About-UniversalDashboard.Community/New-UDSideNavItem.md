@@ -107,6 +107,7 @@ Loads a side menu dynamically from an endpoint.
 ## PARAMETERS
 
 ### -Background
+{{Fill Background Description}}
 
 ```yaml
 Type: String

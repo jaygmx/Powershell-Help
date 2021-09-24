@@ -128,6 +128,7 @@ Accept wildcard characters: False
 ```
 
 ### -Horizontal
+{{Fill Horizontal Description}}
 
 ```yaml
 Type: SwitchParameter
@@ -264,6 +265,7 @@ Accept wildcard characters: False
 ```
 
 ### -TextAlignment
+{{Fill TextAlignment Description}}
 
 ```yaml
 Type: String
@@ -279,6 +281,7 @@ Accept wildcard characters: False
 ```
 
 ### -TextSize
+{{Fill TextSize Description}}
 
 ```yaml
 Type: String

@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-HTMLSpanStyle
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -20,20 +20,21 @@ New-HTMLSpanStyle [[-Content] <ScriptBlock>] [[-Color] <String>] [[-BackGroundCo
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Alignment
+{{ Fill Alignment Description }}
 
 ```yaml
 Type: System.String
@@ -49,6 +50,7 @@ Accept wildcard characters: False
 ```
 
 ### -BackGroundColor
+{{ Fill BackGroundColor Description }}
 
 ```yaml
 Type: System.String
@@ -63,6 +65,7 @@ Accept wildcard characters: False
 ```
 
 ### -Color
+{{ Fill Color Description }}
 
 ```yaml
 Type: System.String
@@ -77,6 +80,7 @@ Accept wildcard characters: False
 ```
 
 ### -Content
+{{ Fill Content Description }}
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock
@@ -91,6 +95,7 @@ Accept wildcard characters: False
 ```
 
 ### -Direction
+{{ Fill Direction Description }}
 
 ```yaml
 Type: System.String
@@ -106,6 +111,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontFamily
+{{ Fill FontFamily Description }}
 
 ```yaml
 Type: System.String
@@ -120,6 +126,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontSize
+{{ Fill FontSize Description }}
 
 ```yaml
 Type: System.Object
@@ -134,6 +141,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontStyle
+{{ Fill FontStyle Description }}
 
 ```yaml
 Type: System.String
@@ -149,6 +157,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontVariant
+{{ Fill FontVariant Description }}
 
 ```yaml
 Type: System.String
@@ -164,6 +173,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontWeight
+{{ Fill FontWeight Description }}
 
 ```yaml
 Type: System.String
@@ -179,6 +189,7 @@ Accept wildcard characters: False
 ```
 
 ### -LineBreak
+{{ Fill LineBreak Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -193,6 +204,7 @@ Accept wildcard characters: False
 ```
 
 ### -LineHeight
+{{ Fill LineHeight Description }}
 
 ```yaml
 Type: System.String
@@ -207,6 +219,7 @@ Accept wildcard characters: False
 ```
 
 ### -TextDecoration
+{{ Fill TextDecoration Description }}
 
 ```yaml
 Type: System.String
@@ -222,6 +235,7 @@ Accept wildcard characters: False
 ```
 
 ### -TextTransform
+{{ Fill TextTransform Description }}
 
 ```yaml
 Type: System.String

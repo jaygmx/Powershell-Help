@@ -32,14 +32,15 @@ New-SmtpEventConsumer -CimSession <CimSession[]> -Name <String> [-ThrottleLimit 
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -BccLine
+{{ Fill BccLine Description }}
 
 ```yaml
 Type: System.String
@@ -54,6 +55,7 @@ Accept wildcard characters: False
 ```
 
 ### -CcLine
+{{ Fill CcLine Description }}
 
 ```yaml
 Type: System.String
@@ -68,6 +70,7 @@ Accept wildcard characters: False
 ```
 
 ### -CimSession
+{{ Fill CimSession Description }}
 
 ```yaml
 Type: Microsoft.Management.Infrastructure.CimSession[]
@@ -82,6 +85,7 @@ Accept wildcard characters: False
 ```
 
 ### -ComputerName
+{{ Fill ComputerName Description }}
 
 ```yaml
 Type: System.String[]
@@ -96,6 +100,7 @@ Accept wildcard characters: False
 ```
 
 ### -Credential
+{{ Fill Credential Description }}
 
 ```yaml
 Type: System.Management.Automation.PSCredential
@@ -110,6 +115,7 @@ Accept wildcard characters: False
 ```
 
 ### -FromLine
+{{ Fill FromLine Description }}
 
 ```yaml
 Type: System.String
@@ -124,6 +130,7 @@ Accept wildcard characters: False
 ```
 
 ### -HeaderFields
+{{ Fill HeaderFields Description }}
 
 ```yaml
 Type: System.String[]
@@ -138,6 +145,7 @@ Accept wildcard characters: False
 ```
 
 ### -Message
+{{ Fill Message Description }}
 
 ```yaml
 Type: System.String
@@ -152,6 +160,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
+{{ Fill Name Description }}
 
 ```yaml
 Type: System.String
@@ -166,6 +175,7 @@ Accept wildcard characters: False
 ```
 
 ### -ReplyToLine
+{{ Fill ReplyToLine Description }}
 
 ```yaml
 Type: System.String
@@ -180,6 +190,7 @@ Accept wildcard characters: False
 ```
 
 ### -SMTPServer
+{{ Fill SMTPServer Description }}
 
 ```yaml
 Type: System.String
@@ -194,6 +205,7 @@ Accept wildcard characters: False
 ```
 
 ### -Subject
+{{ Fill Subject Description }}
 
 ```yaml
 Type: System.String
@@ -208,6 +220,7 @@ Accept wildcard characters: False
 ```
 
 ### -ThrottleLimit
+{{ Fill ThrottleLimit Description }}
 
 ```yaml
 Type: System.Int32
@@ -222,6 +235,7 @@ Accept wildcard characters: False
 ```
 
 ### -ToLine
+{{ Fill ToLine Description }}
 
 ```yaml
 Type: System.String

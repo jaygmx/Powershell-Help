@@ -33,6 +33,7 @@ Set-FFToolsVariables -Source "c:\media\"" -Target "c:\media\out\"
 ## PARAMETERS
 
 ### -FFToolsSource
+{{ Fill FFToolsSource Description }}
 
 ```yaml
 Type: System.String
@@ -47,6 +48,7 @@ Accept wildcard characters: False
 ```
 
 ### -FFToolsTarget
+{{ Fill FFToolsTarget Description }}
 
 ```yaml
 Type: System.String

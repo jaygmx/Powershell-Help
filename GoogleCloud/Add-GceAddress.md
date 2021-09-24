@@ -8,7 +8,7 @@ schema: 2.0.0
 # Add-GceAddress
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -34,20 +34,21 @@ Add-GceAddress [-Project <String>] [-Name] <String> [[-Description] <String>] [-
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Description
+{{ Fill Description Description }}
 
 ```yaml
 Type: System.String
@@ -62,6 +63,7 @@ Accept wildcard characters: False
 ```
 
 ### -Global
+{{ Fill Global Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -76,6 +78,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
+{{ Fill Name Description }}
 
 ```yaml
 Type: System.String
@@ -90,6 +93,7 @@ Accept wildcard characters: False
 ```
 
 ### -Object
+{{ Fill Object Description }}
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.Address
@@ -104,6 +108,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
+{{ Fill Project Description }}
 
 ```yaml
 Type: System.String
@@ -118,6 +123,7 @@ Accept wildcard characters: False
 ```
 
 ### -Region
+{{ Fill Region Description }}
 
 ```yaml
 Type: System.String

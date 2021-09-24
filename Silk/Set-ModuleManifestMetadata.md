@@ -8,7 +8,7 @@ schema: 2.0.0
 # Set-ModuleManifestMetadata
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -18,20 +18,21 @@ Set-ModuleManifestMetadata [-ManifestPath] <Object> [[-Tag] <String[]>] [[-Relea
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -ManifestPath
+{{ Fill ManifestPath Description }}
 
 ```yaml
 Type: System.Object
@@ -46,6 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -ReleaseNotesPath
+{{ Fill ReleaseNotesPath Description }}
 
 ```yaml
 Type: System.String
@@ -60,6 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -Tag
+{{ Fill Tag Description }}
 
 ```yaml
 Type: System.String[]

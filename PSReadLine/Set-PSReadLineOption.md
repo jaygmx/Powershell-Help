@@ -609,6 +609,7 @@ Accept wildcard characters: False
 ```
 
 ### -PredictionViewStyle
+{{ Fill PredictionViewStyle Description }}
 
 ```yaml
 Type: Microsoft.PowerShell.PredictionViewStyle

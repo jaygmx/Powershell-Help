@@ -237,6 +237,7 @@ Accept wildcard characters: False
 ```
 
 ### -CimSession
+{{ Fill CimSession Description }}
 
 ```yaml
 Type: Microsoft.Management.Infrastructure.CimSession[]
@@ -251,6 +252,7 @@ Accept wildcard characters: False
 ```
 
 ### -Credential
+{{ Fill Credential Description }}
 
 ```yaml
 Type: System.Management.Automation.PSCredential
@@ -265,6 +267,7 @@ Accept wildcard characters: False
 ```
 
 ### -ThrottleLimit
+{{ Fill ThrottleLimit Description }}
 
 ```yaml
 Type: System.Int32

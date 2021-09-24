@@ -8,7 +8,7 @@ schema: 2.0.0
 # Add-GcsObjectAcl
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -45,20 +45,21 @@ Add-GcsObjectAcl [-Bucket] <String> [-ObjectName] <String> -Role <String> [-AllA
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -AllAuthenticatedUsers
+{{ Fill AllAuthenticatedUsers Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -73,6 +74,7 @@ Accept wildcard characters: False
 ```
 
 ### -AllUsers
+{{ Fill AllUsers Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -87,6 +89,7 @@ Accept wildcard characters: False
 ```
 
 ### -Bucket
+{{ Fill Bucket Description }}
 
 ```yaml
 Type: System.String
@@ -101,6 +104,7 @@ Accept wildcard characters: False
 ```
 
 ### -Domain
+{{ Fill Domain Description }}
 
 ```yaml
 Type: System.String
@@ -115,6 +119,7 @@ Accept wildcard characters: False
 ```
 
 ### -Group
+{{ Fill Group Description }}
 
 ```yaml
 Type: System.String
@@ -129,6 +134,7 @@ Accept wildcard characters: False
 ```
 
 ### -ObjectName
+{{ Fill ObjectName Description }}
 
 ```yaml
 Type: System.String
@@ -143,6 +149,7 @@ Accept wildcard characters: False
 ```
 
 ### -ProjectNumber
+{{ Fill ProjectNumber Description }}
 
 ```yaml
 Type: System.String
@@ -157,6 +164,7 @@ Accept wildcard characters: False
 ```
 
 ### -ProjectRole
+{{ Fill ProjectRole Description }}
 
 ```yaml
 Type: System.String
@@ -172,6 +180,7 @@ Accept wildcard characters: False
 ```
 
 ### -Role
+{{ Fill Role Description }}
 
 ```yaml
 Type: System.String
@@ -187,6 +196,7 @@ Accept wildcard characters: False
 ```
 
 ### -User
+{{ Fill User Description }}
 
 ```yaml
 Type: System.String

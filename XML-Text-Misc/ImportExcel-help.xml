@@ -1081,6 +1081,7 @@
         <command:parameter required="false" variableLength="true" globbing="false" pipelineInput="False" position="named" aliases="none">
           <maml:name>ChartTrendLine</maml:name>
           <maml:Description>
+            <maml:para>{{ Fill ChartTrendLine Description }}</maml:para>
           </maml:Description>
           <command:parameterValueGroup>
             <command:parameterValue required="false" command:variableLength="false">Exponential</command:parameterValue>
@@ -1657,6 +1658,7 @@
         <command:parameter required="false" variableLength="true" globbing="false" pipelineInput="False" position="named" aliases="none">
           <maml:name>ChartTrendLine</maml:name>
           <maml:Description>
+            <maml:para>{{ Fill ChartTrendLine Description }}</maml:para>
           </maml:Description>
           <command:parameterValueGroup>
             <command:parameterValue required="false" command:variableLength="false">Exponential</command:parameterValue>
@@ -2170,6 +2172,7 @@
       <command:parameter required="false" variableLength="true" globbing="false" pipelineInput="False" position="named" aliases="none">
         <maml:name>ChartTrendLine</maml:name>
         <maml:Description>
+          <maml:para>{{ Fill ChartTrendLine Description }}</maml:para>
         </maml:Description>
         <command:parameterValue required="true" variableLength="false">eTrendLine[]</command:parameterValue>
         <dev:type>
@@ -7024,6 +7027,7 @@ Boston,2/18/2018,1000
         <command:parameter required="false" variableLength="true" globbing="false" pipelineInput="False" position="named" aliases="none">
           <maml:name>UseMSSQLSyntax</maml:name>
           <maml:Description>
+            <maml:para>{{ Fill UseMSSQLSyntax Description }}</maml:para>
           </maml:Description>
           <dev:type>
             <maml:name>SwitchParameter</maml:name>
@@ -7133,6 +7137,7 @@ Boston,2/18/2018,1000
       <command:parameter required="false" variableLength="true" globbing="false" pipelineInput="False" position="named" aliases="none">
         <maml:name>UseMSSQLSyntax</maml:name>
         <maml:Description>
+          <maml:para>{{ Fill UseMSSQLSyntax Description }}</maml:para>
         </maml:Description>
         <command:parameterValue required="false" variableLength="false">SwitchParameter</command:parameterValue>
         <dev:type>

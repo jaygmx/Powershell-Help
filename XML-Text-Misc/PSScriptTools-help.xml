@@ -7181,6 +7181,7 @@ up                                 Param(\[string\]$computername=$env:com...</de
         <command:parameter required="false" variableLength="true" globbing="false" pipelineInput="False" position="named" aliases="none">
           <maml:name>Parameter</maml:name>
           <maml:description>
+            <maml:para>{{Fill Parameter Description}}</maml:para>
           </maml:description>
           <command:parameterValue required="true" variableLength="false">String</command:parameterValue>
           <dev:type>
@@ -7207,6 +7208,7 @@ up                                 Param(\[string\]$computername=$env:com...</de
       <command:parameter required="false" variableLength="true" globbing="false" pipelineInput="False" position="named" aliases="none">
         <maml:name>Parameter</maml:name>
         <maml:description>
+          <maml:para>{{Fill Parameter Description}}</maml:para>
         </maml:description>
         <command:parameterValue required="true" variableLength="false">String</command:parameterValue>
         <dev:type>

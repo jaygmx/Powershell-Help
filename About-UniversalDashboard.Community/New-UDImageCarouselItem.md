@@ -39,7 +39,7 @@ PS C:\> $Slide3 = @{
         }
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 

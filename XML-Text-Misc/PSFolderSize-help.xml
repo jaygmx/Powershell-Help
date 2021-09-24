@@ -6,9 +6,11 @@
       <command:verb>Get</command:verb>
       <command:noun>FileReport</command:noun>
       <maml:description>
+        <maml:para>{{ Fill in the Synopsis }}</maml:para>
       </maml:description>
     </command:details>
     <maml:description>
+      <maml:para>{{ Fill in the Description }}</maml:para>
     </maml:description>
     <command:syntax>
       <command:syntaxItem>
@@ -16,6 +18,7 @@
         <command:parameter required="false" variableLength="true" globbing="false" pipelineInput="False" position="0" aliases="Path">
           <maml:name>BasePath</maml:name>
           <maml:Description>
+            <maml:para>{{ Fill BasePath Description }}</maml:para>
           </maml:Description>
           <command:parameterValue required="true" variableLength="false">String[]</command:parameterValue>
           <dev:type>
@@ -27,6 +30,7 @@
         <command:parameter required="false" variableLength="true" globbing="false" pipelineInput="False" position="named" aliases="none">
           <maml:name>AddTotal</maml:name>
           <maml:Description>
+            <maml:para>{{ Fill AddTotal Description }}</maml:para>
           </maml:Description>
           <dev:type>
             <maml:name>SwitchParameter</maml:name>
@@ -37,6 +41,7 @@
         <command:parameter required="false" variableLength="true" globbing="false" pipelineInput="False" position="named" aliases="none">
           <maml:name>FindExtension</maml:name>
           <maml:Description>
+            <maml:para>{{ Fill FindExtension Description }}</maml:para>
           </maml:Description>
           <command:parameterValue required="true" variableLength="false">String[]</command:parameterValue>
           <dev:type>
@@ -48,6 +53,7 @@
         <command:parameter required="false" variableLength="true" globbing="false" pipelineInput="False" position="named" aliases="none">
           <maml:name>FolderName</maml:name>
           <maml:Description>
+            <maml:para>{{ Fill FolderName Description }}</maml:para>
           </maml:Description>
           <command:parameterValue required="true" variableLength="false">String[]</command:parameterValue>
           <dev:type>
@@ -59,6 +65,7 @@
         <command:parameter required="false" variableLength="true" globbing="false" pipelineInput="False" position="named" aliases="none">
           <maml:name>OmitFolders</maml:name>
           <maml:Description>
+            <maml:para>{{ Fill OmitFolders Description }}</maml:para>
           </maml:Description>
           <command:parameterValue required="true" variableLength="false">String[]</command:parameterValue>
           <dev:type>
@@ -70,6 +77,7 @@
         <command:parameter required="false" variableLength="true" globbing="false" pipelineInput="False" position="named" aliases="none">
           <maml:name>Output</maml:name>
           <maml:Description>
+            <maml:para>{{ Fill Output Description }}</maml:para>
           </maml:Description>
           <command:parameterValueGroup>
             <command:parameterValue required="false" command:variableLength="false">csv</command:parameterValue>
@@ -86,6 +94,7 @@
         <command:parameter required="false" variableLength="true" globbing="false" pipelineInput="False" position="named" aliases="none">
           <maml:name>OutputFile</maml:name>
           <maml:Description>
+            <maml:para>{{ Fill OutputFile Description }}</maml:para>
           </maml:Description>
           <command:parameterValue required="true" variableLength="false">String</command:parameterValue>
           <dev:type>
@@ -97,6 +106,7 @@
         <command:parameter required="false" variableLength="true" globbing="false" pipelineInput="False" position="named" aliases="none">
           <maml:name>OutputPath</maml:name>
           <maml:Description>
+            <maml:para>{{ Fill OutputPath Description }}</maml:para>
           </maml:Description>
           <command:parameterValue required="true" variableLength="false">String</command:parameterValue>
           <dev:type>
@@ -111,6 +121,7 @@
       <command:parameter required="false" variableLength="true" globbing="false" pipelineInput="False" position="named" aliases="none">
         <maml:name>AddTotal</maml:name>
         <maml:Description>
+          <maml:para>{{ Fill AddTotal Description }}</maml:para>
         </maml:Description>
         <command:parameterValue required="false" variableLength="false">SwitchParameter</command:parameterValue>
         <dev:type>
@@ -122,6 +133,7 @@
       <command:parameter required="false" variableLength="true" globbing="false" pipelineInput="False" position="0" aliases="Path">
         <maml:name>BasePath</maml:name>
         <maml:Description>
+          <maml:para>{{ Fill BasePath Description }}</maml:para>
         </maml:Description>
         <command:parameterValue required="true" variableLength="false">String[]</command:parameterValue>
         <dev:type>
@@ -133,6 +145,7 @@
       <command:parameter required="false" variableLength="true" globbing="false" pipelineInput="False" position="named" aliases="none">
         <maml:name>FindExtension</maml:name>
         <maml:Description>
+          <maml:para>{{ Fill FindExtension Description }}</maml:para>
         </maml:Description>
         <command:parameterValue required="true" variableLength="false">String[]</command:parameterValue>
         <dev:type>
@@ -144,6 +157,7 @@
       <command:parameter required="false" variableLength="true" globbing="false" pipelineInput="False" position="named" aliases="none">
         <maml:name>FolderName</maml:name>
         <maml:Description>
+          <maml:para>{{ Fill FolderName Description }}</maml:para>
         </maml:Description>
         <command:parameterValue required="true" variableLength="false">String[]</command:parameterValue>
         <dev:type>
@@ -155,6 +169,7 @@
       <command:parameter required="false" variableLength="true" globbing="false" pipelineInput="False" position="named" aliases="none">
         <maml:name>OmitFolders</maml:name>
         <maml:Description>
+          <maml:para>{{ Fill OmitFolders Description }}</maml:para>
         </maml:Description>
         <command:parameterValue required="true" variableLength="false">String[]</command:parameterValue>
         <dev:type>
@@ -166,6 +181,7 @@
       <command:parameter required="false" variableLength="true" globbing="false" pipelineInput="False" position="named" aliases="none">
         <maml:name>Output</maml:name>
         <maml:Description>
+          <maml:para>{{ Fill Output Description }}</maml:para>
         </maml:Description>
         <command:parameterValue required="true" variableLength="false">String</command:parameterValue>
         <dev:type>
@@ -177,6 +193,7 @@
       <command:parameter required="false" variableLength="true" globbing="false" pipelineInput="False" position="named" aliases="none">
         <maml:name>OutputFile</maml:name>
         <maml:Description>
+          <maml:para>{{ Fill OutputFile Description }}</maml:para>
         </maml:Description>
         <command:parameterValue required="true" variableLength="false">String</command:parameterValue>
         <dev:type>
@@ -188,6 +205,7 @@
       <command:parameter required="false" variableLength="true" globbing="false" pipelineInput="False" position="named" aliases="none">
         <maml:name>OutputPath</maml:name>
         <maml:Description>
+          <maml:para>{{ Fill OutputPath Description }}</maml:para>
         </maml:Description>
         <command:parameterValue required="true" variableLength="false">String</command:parameterValue>
         <dev:type>
@@ -225,7 +243,9 @@
     <command:examples>
       <command:example>
         <maml:title>-------------------------- Example 1 --------------------------</maml:title>
+        <dev:code>PS C:\&gt; {{ Add example code here }}</dev:code>
         <dev:remarks>
+          <maml:para>{{ Add example description here }}</maml:para>
         </dev:remarks>
       </command:example>
     </command:examples>
@@ -307,6 +327,7 @@
         <command:parameter required="false" variableLength="true" globbing="false" pipelineInput="False" position="named" aliases="none">
           <maml:name>UseRobo</maml:name>
           <maml:Description>
+            <maml:para>{{ Fill UseRobo Description }}</maml:para>
           </maml:Description>
           <dev:type>
             <maml:name>SwitchParameter</maml:name>
@@ -433,6 +454,7 @@
       <command:parameter required="false" variableLength="true" globbing="false" pipelineInput="False" position="named" aliases="none">
         <maml:name>UseRobo</maml:name>
         <maml:Description>
+          <maml:para>{{ Fill UseRobo Description }}</maml:para>
         </maml:Description>
         <command:parameterValue required="false" variableLength="false">SwitchParameter</command:parameterValue>
         <dev:type>

@@ -8,7 +8,7 @@ schema: 2.0.0
 # Get-ModuleParamsInMarkdown
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -17,16 +17,16 @@ Get-ModuleParamsInMarkdown [-ModulePath] <FileInfo> [-WhatIf] [-Confirm] [<Commo
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
@@ -46,6 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -ModulePath
+{{ Fill ModulePath Description }}
 
 ```yaml
 Type: System.IO.FileInfo

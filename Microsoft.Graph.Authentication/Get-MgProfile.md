@@ -8,7 +8,7 @@ schema: 2.0.0
 # Get-MgProfile
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -17,20 +17,21 @@ Get-MgProfile [-ModuleName <String[]>] [-ListAvailable] [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -ListAvailable
+{{ Fill ListAvailable Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -45,6 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -ModuleName
+{{ Fill ModuleName Description }}
 
 ```yaml
 Type: System.String[]

@@ -8,7 +8,7 @@ schema: 2.0.0
 # Stop-GcSqlReplica
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -23,16 +23,16 @@ Stop-GcSqlReplica [-ReplicaObject] <DatabaseInstance> [-WhatIf] [-Confirm] [<Com
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
@@ -52,6 +52,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
+{{ Fill Project Description }}
 
 ```yaml
 Type: System.String
@@ -66,6 +67,7 @@ Accept wildcard characters: False
 ```
 
 ### -Replica
+{{ Fill Replica Description }}
 
 ```yaml
 Type: System.String
@@ -80,6 +82,7 @@ Accept wildcard characters: False
 ```
 
 ### -ReplicaObject
+{{ Fill ReplicaObject Description }}
 
 ```yaml
 Type: Google.Apis.SQLAdmin.v1beta4.Data.DatabaseInstance

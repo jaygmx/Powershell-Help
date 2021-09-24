@@ -22,10 +22,10 @@ Convert an Exchange Online Mailbox to a Shared Mailbox without the need of maint
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 

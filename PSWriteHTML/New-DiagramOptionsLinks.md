@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-DiagramOptionsLinks
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -25,20 +25,21 @@ New-DiagramOptionsLinks [[-ArrowsToEnabled] <Boolean>] [[-ArrowsToScaleFactor] <
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -ArrowStrikethrough
+{{ Fill ArrowStrikethrough Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Boolean]
@@ -53,6 +54,7 @@ Accept wildcard characters: False
 ```
 
 ### -ArrowsFromEnabled
+{{ Fill ArrowsFromEnabled Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Boolean]
@@ -67,6 +69,7 @@ Accept wildcard characters: False
 ```
 
 ### -ArrowsFromScaleFactor
+{{ Fill ArrowsFromScaleFactor Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -81,6 +84,7 @@ Accept wildcard characters: False
 ```
 
 ### -ArrowsFromType
+{{ Fill ArrowsFromType Description }}
 
 ```yaml
 Type: System.String
@@ -96,6 +100,7 @@ Accept wildcard characters: False
 ```
 
 ### -ArrowsMiddleEnabled
+{{ Fill ArrowsMiddleEnabled Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Boolean]
@@ -110,6 +115,7 @@ Accept wildcard characters: False
 ```
 
 ### -ArrowsMiddleScaleFactor
+{{ Fill ArrowsMiddleScaleFactor Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -124,6 +130,7 @@ Accept wildcard characters: False
 ```
 
 ### -ArrowsMiddleType
+{{ Fill ArrowsMiddleType Description }}
 
 ```yaml
 Type: System.String
@@ -139,6 +146,7 @@ Accept wildcard characters: False
 ```
 
 ### -ArrowsToEnabled
+{{ Fill ArrowsToEnabled Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Boolean]
@@ -153,6 +161,7 @@ Accept wildcard characters: False
 ```
 
 ### -ArrowsToScaleFactor
+{{ Fill ArrowsToScaleFactor Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -167,6 +176,7 @@ Accept wildcard characters: False
 ```
 
 ### -ArrowsToType
+{{ Fill ArrowsToType Description }}
 
 ```yaml
 Type: System.String
@@ -182,6 +192,7 @@ Accept wildcard characters: False
 ```
 
 ### -Chosen
+{{ Fill Chosen Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Boolean]
@@ -196,6 +207,7 @@ Accept wildcard characters: False
 ```
 
 ### -Color
+{{ Fill Color Description }}
 
 ```yaml
 Type: System.String
@@ -210,6 +222,7 @@ Accept wildcard characters: False
 ```
 
 ### -ColorHighlight
+{{ Fill ColorHighlight Description }}
 
 ```yaml
 Type: System.String
@@ -224,6 +237,7 @@ Accept wildcard characters: False
 ```
 
 ### -ColorHover
+{{ Fill ColorHover Description }}
 
 ```yaml
 Type: System.String
@@ -238,6 +252,7 @@ Accept wildcard characters: False
 ```
 
 ### -ColorInherit
+{{ Fill ColorInherit Description }}
 
 ```yaml
 Type: System.String
@@ -253,6 +268,7 @@ Accept wildcard characters: False
 ```
 
 ### -ColorOpacity
+{{ Fill ColorOpacity Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Double]
@@ -267,6 +283,7 @@ Accept wildcard characters: False
 ```
 
 ### -Dashes
+{{ Fill Dashes Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Boolean]
@@ -281,6 +298,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontAlign
+{{ Fill FontAlign Description }}
 
 ```yaml
 Type: System.String
@@ -296,6 +314,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontBackground
+{{ Fill FontBackground Description }}
 
 ```yaml
 Type: System.String
@@ -310,6 +329,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontColor
+{{ Fill FontColor Description }}
 
 ```yaml
 Type: System.String
@@ -324,6 +344,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontMulti
+{{ Fill FontMulti Description }}
 
 ```yaml
 Type: System.String
@@ -339,6 +360,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontName
+{{ Fill FontName Description }}
 
 ```yaml
 Type: System.String
@@ -353,6 +375,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontSize
+{{ Fill FontSize Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -367,6 +390,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontStrokeColor
+{{ Fill FontStrokeColor Description }}
 
 ```yaml
 Type: System.String
@@ -381,6 +405,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontStrokeWidth
+{{ Fill FontStrokeWidth Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -395,6 +420,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontVAdjust
+{{ Fill FontVAdjust Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -409,6 +435,7 @@ Accept wildcard characters: False
 ```
 
 ### -Length
+{{ Fill Length Description }}
 
 ```yaml
 Type: System.String
@@ -423,6 +450,7 @@ Accept wildcard characters: False
 ```
 
 ### -WidthConstraint
+{{ Fill WidthConstraint Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]

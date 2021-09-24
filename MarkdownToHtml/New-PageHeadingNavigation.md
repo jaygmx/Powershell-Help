@@ -59,6 +59,7 @@ Hello World</h2>' -NavTemplate $custom
 Create an HTML element for navigation to an heading using the custom template \`$custom\`.
 
 ~~~ PowerShell
+    $custom = @{ navheading = '\<span class="li-item{{level}}"\>{{navtext}}\</span\>'}
 ~~~
 
 Output:
@@ -96,6 +97,7 @@ link to the navigation bar.
 | Type       | Key          | HTML Template
 + ========== + ============ + ========================================
 | Heading    | "navheading" | ~~~ html
+| link       |              |\<span class='navitem{{level}}'\>{{navtext}}\</span\>"
 | template   |              | ~~~
 + ---------- + ------------ + ----------------------------------------
 
@@ -115,6 +117,8 @@ Following placeholders in the HTML template are recognized.
 
 | Placeholder   | Description
 | :-----------: | -----------
+| \`{{level}}\`   | heading level.
+| \`{{navtext}}\` | heading text
 
 During the build process the placeholders are replaced with content taken from
 the \`NavSpec\` parameter.
@@ -165,6 +169,7 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 ### `New-StaticHTMLSiteProject`.
 ## NOTES
 This function is typically used in the build script \`Build.ps1\` to define
+the contents of the navigation bar (placeholder \`{{nav}}\`).
 
 ## RELATED LINKS
 

@@ -83,6 +83,7 @@ Afterwards, all objects are exported to an Excel file and all column headers are
 ## PARAMETERS
 
 ### -InputObject
+{{ Fill InputObject Description }}
 
 ```yaml
 Type: System.Object

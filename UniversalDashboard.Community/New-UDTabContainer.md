@@ -163,6 +163,7 @@ Accept wildcard characters: False
 ```
 
 ### -RenderOnActive
+{{ Fill RenderOnActive Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter

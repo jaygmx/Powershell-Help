@@ -8,7 +8,7 @@ schema: 2.0.0
 # Email
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -21,20 +21,21 @@ Email [[-Email] <ScriptBlock>] [-To <String[]>] [-CC <String[]>] [-BCC <String[]
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -AttachSelf
+{{ Fill AttachSelf Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -49,6 +50,7 @@ Accept wildcard characters: False
 ```
 
 ### -AttachSelfName
+{{ Fill AttachSelfName Description }}
 
 ```yaml
 Type: System.String
@@ -63,6 +65,7 @@ Accept wildcard characters: False
 ```
 
 ### -BCC
+{{ Fill BCC Description }}
 
 ```yaml
 Type: System.String[]
@@ -77,6 +80,7 @@ Accept wildcard characters: False
 ```
 
 ### -CC
+{{ Fill CC Description }}
 
 ```yaml
 Type: System.String[]
@@ -91,6 +95,7 @@ Accept wildcard characters: False
 ```
 
 ### -DeliveryNotifications
+{{ Fill DeliveryNotifications Description }}
 
 ```yaml
 Type: System.Object
@@ -106,6 +111,7 @@ Accept wildcard characters: False
 ```
 
 ### -Email
+{{ Fill Email Description }}
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock
@@ -120,6 +126,7 @@ Accept wildcard characters: False
 ```
 
 ### -Encoding
+{{ Fill Encoding Description }}
 
 ```yaml
 Type: System.String
@@ -134,6 +141,7 @@ Accept wildcard characters: False
 ```
 
 ### -FilePath
+{{ Fill FilePath Description }}
 
 ```yaml
 Type: System.String
@@ -148,6 +156,7 @@ Accept wildcard characters: False
 ```
 
 ### -From
+{{ Fill From Description }}
 
 ```yaml
 Type: System.String
@@ -162,6 +171,7 @@ Accept wildcard characters: False
 ```
 
 ### -Online
+{{ Fill Online Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -176,6 +186,7 @@ Accept wildcard characters: False
 ```
 
 ### -OutputHTML
+{{ Fill OutputHTML Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -190,6 +201,7 @@ Accept wildcard characters: False
 ```
 
 ### -Password
+{{ Fill Password Description }}
 
 ```yaml
 Type: System.String
@@ -204,6 +216,7 @@ Accept wildcard characters: False
 ```
 
 ### -PasswordAsSecure
+{{ Fill PasswordAsSecure Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -218,6 +231,7 @@ Accept wildcard characters: False
 ```
 
 ### -PasswordFromFile
+{{ Fill PasswordFromFile Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -232,6 +246,7 @@ Accept wildcard characters: False
 ```
 
 ### -Port
+{{ Fill Port Description }}
 
 ```yaml
 Type: System.Int32
@@ -246,6 +261,7 @@ Accept wildcard characters: False
 ```
 
 ### -Priority
+{{ Fill Priority Description }}
 
 ```yaml
 Type: System.String
@@ -261,6 +277,7 @@ Accept wildcard characters: False
 ```
 
 ### -ReplyTo
+{{ Fill ReplyTo Description }}
 
 ```yaml
 Type: System.String
@@ -275,6 +292,7 @@ Accept wildcard characters: False
 ```
 
 ### -SSL
+{{ Fill SSL Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -289,6 +307,7 @@ Accept wildcard characters: False
 ```
 
 ### -Server
+{{ Fill Server Description }}
 
 ```yaml
 Type: System.String
@@ -303,6 +322,7 @@ Accept wildcard characters: False
 ```
 
 ### -Subject
+{{ Fill Subject Description }}
 
 ```yaml
 Type: System.String
@@ -317,6 +337,7 @@ Accept wildcard characters: False
 ```
 
 ### -Suppress
+{{ Fill Suppress Description }}
 
 ```yaml
 Type: System.Boolean
@@ -331,6 +352,7 @@ Accept wildcard characters: False
 ```
 
 ### -To
+{{ Fill To Description }}
 
 ```yaml
 Type: System.String[]
@@ -345,6 +367,7 @@ Accept wildcard characters: False
 ```
 
 ### -Username
+{{ Fill Username Description }}
 
 ```yaml
 Type: System.String

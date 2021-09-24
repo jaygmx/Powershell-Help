@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-UDTab
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -18,20 +18,21 @@ New-UDTab [-Text <String>] -Content <ScriptBlock> [-Id <String>] [-Dynamic] [-Ic
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Content
+{{ Fill Content Description }}
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock
@@ -46,6 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -Id
+{{ Fill Id Description }}
 
 ```yaml
 Type: System.String
@@ -60,6 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -Text
+{{ Fill Text Description }}
 
 ```yaml
 Type: System.String
@@ -74,6 +77,7 @@ Accept wildcard characters: False
 ```
 
 ### -Dynamic
+{{ Fill Dynamic Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -88,6 +92,7 @@ Accept wildcard characters: False
 ```
 
 ### -Icon
+{{ Fill Icon Description }}
 
 ```yaml
 Type: System.Object
@@ -102,6 +107,7 @@ Accept wildcard characters: False
 ```
 
 ### -RefreshWhenActive
+{{ Fill RefreshWhenActive Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -116,6 +122,7 @@ Accept wildcard characters: False
 ```
 
 ### -Stacked
+{{ Fill Stacked Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter

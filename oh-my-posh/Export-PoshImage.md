@@ -8,7 +8,7 @@ schema: 2.0.0
 # Export-PoshImage
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -18,20 +18,21 @@ Export-PoshImage [[-RPromptOffset] <Int32>] [[-CursorPadding] <Int32>] [[-Author
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Author
+{{ Fill Author Description }}
 
 ```yaml
 Type: System.String
@@ -46,6 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -CursorPadding
+{{ Fill CursorPadding Description }}
 
 ```yaml
 Type: System.Int32
@@ -60,6 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -RPromptOffset
+{{ Fill RPromptOffset Description }}
 
 ```yaml
 Type: System.Int32

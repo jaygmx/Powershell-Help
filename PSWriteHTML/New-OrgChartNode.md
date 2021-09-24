@@ -102,6 +102,7 @@ Accept wildcard characters: False
 ```
 
 ### -TitleBorderColor
+{{ Fill TitleBorderColor Description }}
 
 ```yaml
 Type: System.String
@@ -116,6 +117,7 @@ Accept wildcard characters: False
 ```
 
 ### -TitleColor
+{{ Fill TitleColor Description }}
 
 ```yaml
 Type: System.String
@@ -130,6 +132,7 @@ Accept wildcard characters: False
 ```
 
 ### -ContentBackgroundColor
+{{ Fill ContentBackgroundColor Description }}
 
 ```yaml
 Type: System.String
@@ -144,6 +147,7 @@ Accept wildcard characters: False
 ```
 
 ### -ContentBorderColor
+{{ Fill ContentBorderColor Description }}
 
 ```yaml
 Type: System.String
@@ -158,6 +162,7 @@ Accept wildcard characters: False
 ```
 
 ### -ContentColor
+{{ Fill ContentColor Description }}
 
 ```yaml
 Type: System.String

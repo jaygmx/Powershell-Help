@@ -8,7 +8,7 @@ schema: 2.0.0
 # Remove-GcpsTopic
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -17,16 +17,16 @@ Remove-GcpsTopic [-Project <String>] [-Topic] <String[]> [-WhatIf] [-Confirm] [<
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
@@ -46,6 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
+{{ Fill Project Description }}
 
 ```yaml
 Type: System.String
@@ -60,6 +61,7 @@ Accept wildcard characters: False
 ```
 
 ### -Topic
+{{ Fill Topic Description }}
 
 ```yaml
 Type: System.String[]

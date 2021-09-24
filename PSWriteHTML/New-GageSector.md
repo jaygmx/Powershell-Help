@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-GageSector
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -17,20 +17,21 @@ New-GageSector [[-Color] <String>] [[-Min] <Int32>] [[-Max] <Int32>] [<CommonPar
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Color
+{{ Fill Color Description }}
 
 ```yaml
 Type: System.String
@@ -45,6 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -Max
+{{ Fill Max Description }}
 
 ```yaml
 Type: System.Int32
@@ -59,6 +61,7 @@ Accept wildcard characters: False
 ```
 
 ### -Min
+{{ Fill Min Description }}
 
 ```yaml
 Type: System.Int32

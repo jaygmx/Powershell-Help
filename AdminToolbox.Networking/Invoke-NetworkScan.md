@@ -71,6 +71,7 @@ Accept wildcard characters: False
 ```
 
 ### -SkipMac
+{{ Fill SkipMac Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter

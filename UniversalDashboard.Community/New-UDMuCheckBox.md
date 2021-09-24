@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-UDMuCheckBox
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -19,20 +19,21 @@ New-UDMuCheckBox [[-Label] <String>] [[-Icon] <Object>] [[-CheckedIcon] <Object>
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Checked
+{{ Fill Checked Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -47,6 +48,7 @@ Accept wildcard characters: False
 ```
 
 ### -CheckedIcon
+{{ Fill CheckedIcon Description }}
 
 ```yaml
 Type: System.Object
@@ -61,6 +63,7 @@ Accept wildcard characters: False
 ```
 
 ### -ClassName
+{{ Fill ClassName Description }}
 
 ```yaml
 Type: System.String
@@ -75,6 +78,7 @@ Accept wildcard characters: False
 ```
 
 ### -Disabled
+{{ Fill Disabled Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -89,6 +93,7 @@ Accept wildcard characters: False
 ```
 
 ### -Icon
+{{ Fill Icon Description }}
 
 ```yaml
 Type: System.Object
@@ -103,6 +108,7 @@ Accept wildcard characters: False
 ```
 
 ### -Id
+{{ Fill Id Description }}
 
 ```yaml
 Type: System.String
@@ -117,6 +123,7 @@ Accept wildcard characters: False
 ```
 
 ### -Label
+{{ Fill Label Description }}
 
 ```yaml
 Type: System.String
@@ -131,6 +138,7 @@ Accept wildcard characters: False
 ```
 
 ### -LabelPlacement
+{{ Fill LabelPlacement Description }}
 
 ```yaml
 Type: System.String
@@ -146,6 +154,7 @@ Accept wildcard characters: False
 ```
 
 ### -OnChange
+{{ Fill OnChange Description }}
 
 ```yaml
 Type: System.Object
@@ -160,6 +169,7 @@ Accept wildcard characters: False
 ```
 
 ### -Style
+{{ Fill Style Description }}
 
 ```yaml
 Type: System.Collections.Hashtable

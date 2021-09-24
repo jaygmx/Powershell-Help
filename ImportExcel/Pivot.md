@@ -8,7 +8,7 @@ schema: 2.0.0
 # Pivot
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -18,20 +18,21 @@ Pivot [[-targetData] <Object>] [[-pivotRows] <Object>] [[-pivotData] <Object>] [
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -ChartType
+{{ Fill ChartType Description }}
 
 ```yaml
 Type: OfficeOpenXml.Drawing.Chart.eChartType
@@ -47,6 +48,7 @@ Accept wildcard characters: False
 ```
 
 ### -pivotData
+{{ Fill pivotData Description }}
 
 ```yaml
 Type: System.Object
@@ -61,6 +63,7 @@ Accept wildcard characters: False
 ```
 
 ### -pivotRows
+{{ Fill pivotRows Description }}
 
 ```yaml
 Type: System.Object
@@ -75,6 +78,7 @@ Accept wildcard characters: False
 ```
 
 ### -targetData
+{{ Fill targetData Description }}
 
 ```yaml
 Type: System.Object

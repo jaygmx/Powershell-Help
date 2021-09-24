@@ -25,10 +25,10 @@ If the related link is not a URL, the command name is converted to a link that p
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 

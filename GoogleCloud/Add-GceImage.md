@@ -8,7 +8,7 @@ schema: 2.0.0
 # Add-GceImage
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -18,20 +18,21 @@ Add-GceImage [-Project <String>] [-SourceDisk] <Disk> [-Name <String>] [-Family 
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Description
+{{ Fill Description Description }}
 
 ```yaml
 Type: System.String
@@ -46,6 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -Family
+{{ Fill Family Description }}
 
 ```yaml
 Type: System.String
@@ -60,6 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -Label
+{{ Fill Label Description }}
 
 ```yaml
 Type: System.Collections.Hashtable
@@ -74,6 +77,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
+{{ Fill Name Description }}
 
 ```yaml
 Type: System.String
@@ -88,6 +92,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
+{{ Fill Project Description }}
 
 ```yaml
 Type: System.String
@@ -102,6 +107,7 @@ Accept wildcard characters: False
 ```
 
 ### -SourceDisk
+{{ Fill SourceDisk Description }}
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.Disk

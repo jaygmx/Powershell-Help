@@ -8,7 +8,7 @@ schema: 2.0.0
 # Remove-GkeCluster
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -24,20 +24,21 @@ Remove-GkeCluster [-InputObject] <Cluster> [-WhatIf] [-Confirm] [<CommonParamete
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -ClusterName
+{{ Fill ClusterName Description }}
 
 ```yaml
 Type: System.String
@@ -67,6 +68,7 @@ Accept wildcard characters: False
 ```
 
 ### -InputObject
+{{ Fill InputObject Description }}
 
 ```yaml
 Type: Google.Apis.Container.v1.Data.Cluster
@@ -81,6 +83,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
+{{ Fill Project Description }}
 
 ```yaml
 Type: System.String
@@ -111,6 +114,7 @@ Accept wildcard characters: False
 ```
 
 ### -Zone
+{{ Fill Zone Description }}
 
 ```yaml
 Type: System.String

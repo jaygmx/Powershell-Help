@@ -8,7 +8,7 @@ schema: 2.0.0
 # Configuration
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -20,20 +20,21 @@ Configuration
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -ArgsToBody
+{{ Fill ArgsToBody Description }}
 
 ```yaml
 Type: System.Collections.Hashtable
@@ -48,6 +49,7 @@ Accept wildcard characters: False
 ```
 
 ### -Body
+{{ Fill Body Description }}
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock
@@ -62,6 +64,7 @@ Accept wildcard characters: False
 ```
 
 ### -ConfigurationData
+{{ Fill ConfigurationData Description }}
 
 ```yaml
 Type: System.Collections.Hashtable
@@ -76,6 +79,7 @@ Accept wildcard characters: False
 ```
 
 ### -InstanceName
+{{ Fill InstanceName Description }}
 
 ```yaml
 Type: System.String
@@ -90,6 +94,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
+{{ Fill Name Description }}
 
 ```yaml
 Type: System.Object
@@ -104,6 +109,7 @@ Accept wildcard characters: False
 ```
 
 ### -OutputPath
+{{ Fill OutputPath Description }}
 
 ```yaml
 Type: System.Object
@@ -118,6 +124,7 @@ Accept wildcard characters: False
 ```
 
 ### -ResourceModuleTuplesToImport
+{{ Fill ResourceModuleTuplesToImport Description }}
 
 ```yaml
 Type: System.Collections.Generic.List`1[System.Tuple`3[System.String[],Microsoft.PowerShell.Commands.ModuleSpecification[],System.Version]]

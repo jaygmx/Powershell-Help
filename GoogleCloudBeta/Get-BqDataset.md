@@ -8,7 +8,7 @@ schema: 2.0.0
 # Get-BqDataset
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -28,20 +28,21 @@ Get-BqDataset [-Project <String>] [-Dataset] <DatasetReference> [<CommonParamete
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Dataset
+{{ Fill Dataset Description }}
 
 ```yaml
 Type: Google.Apis.Bigquery.v2.Data.DatasetReference
@@ -56,6 +57,7 @@ Accept wildcard characters: False
 ```
 
 ### -DatasetId
+{{ Fill DatasetId Description }}
 
 ```yaml
 Type: System.String
@@ -70,6 +72,7 @@ Accept wildcard characters: False
 ```
 
 ### -Filter
+{{ Fill Filter Description }}
 
 ```yaml
 Type: System.String[]
@@ -84,6 +87,7 @@ Accept wildcard characters: False
 ```
 
 ### -IncludeHidden
+{{ Fill IncludeHidden Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -98,6 +102,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
+{{ Fill Project Description }}
 
 ```yaml
 Type: System.String

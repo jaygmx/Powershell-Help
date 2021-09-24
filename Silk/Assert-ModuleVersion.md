@@ -8,7 +8,7 @@ schema: 2.0.0
 # Assert-ModuleVersion
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -18,20 +18,21 @@ Assert-ModuleVersion [-ManifestPath] <String> [[-AssemblyPath] <String[]>] [[-Re
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -AssemblyPath
+{{ Fill AssemblyPath Description }}
 
 ```yaml
 Type: System.String[]
@@ -46,6 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -ExcludeAssembly
+{{ Fill ExcludeAssembly Description }}
 
 ```yaml
 Type: System.String[]
@@ -60,6 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -ManifestPath
+{{ Fill ManifestPath Description }}
 
 ```yaml
 Type: System.String
@@ -74,6 +77,7 @@ Accept wildcard characters: False
 ```
 
 ### -NuspecPath
+{{ Fill NuspecPath Description }}
 
 ```yaml
 Type: System.String
@@ -88,6 +92,7 @@ Accept wildcard characters: False
 ```
 
 ### -ReleaseNotesPath
+{{ Fill ReleaseNotesPath Description }}
 
 ```yaml
 Type: System.String

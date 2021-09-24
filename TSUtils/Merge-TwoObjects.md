@@ -8,7 +8,7 @@ schema: 2.0.0
 # Merge-TwoObjects
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -18,16 +18,16 @@ Merge-TwoObjects [-ObjectOne] <Object> [-ObjectTwo] <Object> [[-PrefixOne] <Stri
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
@@ -47,6 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -ObjectOne
+{{ Fill ObjectOne Description }}
 
 ```yaml
 Type: System.Object
@@ -61,6 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -ObjectTwo
+{{ Fill ObjectTwo Description }}
 
 ```yaml
 Type: System.Object
@@ -75,6 +77,7 @@ Accept wildcard characters: False
 ```
 
 ### -PrefixOne
+{{ Fill PrefixOne Description }}
 
 ```yaml
 Type: System.String
@@ -89,6 +92,7 @@ Accept wildcard characters: False
 ```
 
 ### -PrefixTwo
+{{ Fill PrefixTwo Description }}
 
 ```yaml
 Type: System.String

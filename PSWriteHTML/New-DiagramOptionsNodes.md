@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-DiagramOptionsNodes
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -25,20 +25,21 @@ New-DiagramOptionsNodes [-BorderWidth <Int32>] [-BorderWidthSelected <Int32>] [-
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -BorderWidth
+{{ Fill BorderWidth Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -53,6 +54,7 @@ Accept wildcard characters: False
 ```
 
 ### -BorderWidthSelected
+{{ Fill BorderWidthSelected Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -67,6 +69,7 @@ Accept wildcard characters: False
 ```
 
 ### -BrokenImage
+{{ Fill BrokenImage Description }}
 
 ```yaml
 Type: System.String
@@ -81,6 +84,7 @@ Accept wildcard characters: False
 ```
 
 ### -Chosen
+{{ Fill Chosen Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Boolean]
@@ -95,6 +99,7 @@ Accept wildcard characters: False
 ```
 
 ### -ColorBackground
+{{ Fill ColorBackground Description }}
 
 ```yaml
 Type: System.String
@@ -109,6 +114,7 @@ Accept wildcard characters: False
 ```
 
 ### -ColorBorder
+{{ Fill ColorBorder Description }}
 
 ```yaml
 Type: System.String
@@ -123,6 +129,7 @@ Accept wildcard characters: False
 ```
 
 ### -ColorHighlightBackground
+{{ Fill ColorHighlightBackground Description }}
 
 ```yaml
 Type: System.String
@@ -137,6 +144,7 @@ Accept wildcard characters: False
 ```
 
 ### -ColorHighlightBorder
+{{ Fill ColorHighlightBorder Description }}
 
 ```yaml
 Type: System.String
@@ -151,6 +159,7 @@ Accept wildcard characters: False
 ```
 
 ### -ColorHoverBackground
+{{ Fill ColorHoverBackground Description }}
 
 ```yaml
 Type: System.String
@@ -165,6 +174,7 @@ Accept wildcard characters: False
 ```
 
 ### -ColorHoverBorder
+{{ Fill ColorHoverBorder Description }}
 
 ```yaml
 Type: System.String
@@ -179,6 +189,7 @@ Accept wildcard characters: False
 ```
 
 ### -FixedX
+{{ Fill FixedX Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Boolean]
@@ -193,6 +204,7 @@ Accept wildcard characters: False
 ```
 
 ### -FixedY
+{{ Fill FixedY Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Boolean]
@@ -207,6 +219,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontAlign
+{{ Fill FontAlign Description }}
 
 ```yaml
 Type: System.String
@@ -222,6 +235,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontBackground
+{{ Fill FontBackground Description }}
 
 ```yaml
 Type: System.String
@@ -236,6 +250,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontColor
+{{ Fill FontColor Description }}
 
 ```yaml
 Type: System.String
@@ -250,6 +265,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontMulti
+{{ Fill FontMulti Description }}
 
 ```yaml
 Type: System.String
@@ -265,6 +281,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontName
+{{ Fill FontName Description }}
 
 ```yaml
 Type: System.String
@@ -279,6 +296,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontSize
+{{ Fill FontSize Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -293,6 +311,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontStrokeColor
+{{ Fill FontStrokeColor Description }}
 
 ```yaml
 Type: System.String
@@ -307,6 +326,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontStrokeWidth
+{{ Fill FontStrokeWidth Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -321,6 +341,7 @@ Accept wildcard characters: False
 ```
 
 ### -FontVAdjust
+{{ Fill FontVAdjust Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -335,6 +356,7 @@ Accept wildcard characters: False
 ```
 
 ### -HeightConstraintMinimum
+{{ Fill HeightConstraintMinimum Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -349,6 +371,7 @@ Accept wildcard characters: False
 ```
 
 ### -HeightConstraintVAlign
+{{ Fill HeightConstraintVAlign Description }}
 
 ```yaml
 Type: System.String
@@ -364,6 +387,7 @@ Accept wildcard characters: False
 ```
 
 ### -Margin
+{{ Fill Margin Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -378,6 +402,7 @@ Accept wildcard characters: False
 ```
 
 ### -MarginBottom
+{{ Fill MarginBottom Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -392,6 +417,7 @@ Accept wildcard characters: False
 ```
 
 ### -MarginLeft
+{{ Fill MarginLeft Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -406,6 +432,7 @@ Accept wildcard characters: False
 ```
 
 ### -MarginRight
+{{ Fill MarginRight Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -420,6 +447,7 @@ Accept wildcard characters: False
 ```
 
 ### -MarginTop
+{{ Fill MarginTop Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -434,6 +462,7 @@ Accept wildcard characters: False
 ```
 
 ### -Shape
+{{ Fill Shape Description }}
 
 ```yaml
 Type: System.String
@@ -449,6 +478,7 @@ Accept wildcard characters: False
 ```
 
 ### -Size
+{{ Fill Size Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -463,6 +493,7 @@ Accept wildcard characters: False
 ```
 
 ### -WidthConstraintMaximum
+{{ Fill WidthConstraintMaximum Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -477,6 +508,7 @@ Accept wildcard characters: False
 ```
 
 ### -WidthConstraintMinimum
+{{ Fill WidthConstraintMinimum Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]

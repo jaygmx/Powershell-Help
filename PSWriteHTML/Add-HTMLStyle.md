@@ -8,7 +8,7 @@ schema: 2.0.0
 # Add-HTMLStyle
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -19,20 +19,21 @@ Add-HTMLStyle [[-Placement] <String>] [[-Resource] <IDictionary>] [[-ResourceCom
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -AddComment
+{{ Fill AddComment Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -47,6 +48,7 @@ Accept wildcard characters: False
 ```
 
 ### -Content
+{{ Fill Content Description }}
 
 ```yaml
 Type: System.String[]
@@ -61,6 +63,7 @@ Accept wildcard characters: False
 ```
 
 ### -Css
+{{ Fill Css Description }}
 
 ```yaml
 Type: System.Collections.IDictionary
@@ -75,6 +78,7 @@ Accept wildcard characters: False
 ```
 
 ### -FilePath
+{{ Fill FilePath Description }}
 
 ```yaml
 Type: System.String[]
@@ -89,6 +93,7 @@ Accept wildcard characters: False
 ```
 
 ### -Link
+{{ Fill Link Description }}
 
 ```yaml
 Type: System.String[]
@@ -103,6 +108,7 @@ Accept wildcard characters: False
 ```
 
 ### -Placement
+{{ Fill Placement Description }}
 
 ```yaml
 Type: System.String
@@ -118,6 +124,7 @@ Accept wildcard characters: False
 ```
 
 ### -RelType
+{{ Fill RelType Description }}
 
 ```yaml
 Type: System.String
@@ -133,6 +140,7 @@ Accept wildcard characters: False
 ```
 
 ### -ReplaceData
+{{ Fill ReplaceData Description }}
 
 ```yaml
 Type: System.Collections.IDictionary
@@ -147,6 +155,7 @@ Accept wildcard characters: False
 ```
 
 ### -Resource
+{{ Fill Resource Description }}
 
 ```yaml
 Type: System.Collections.IDictionary
@@ -161,6 +170,7 @@ Accept wildcard characters: False
 ```
 
 ### -ResourceComment
+{{ Fill ResourceComment Description }}
 
 ```yaml
 Type: System.String
@@ -175,6 +185,7 @@ Accept wildcard characters: False
 ```
 
 ### -SkipTags
+{{ Fill SkipTags Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter

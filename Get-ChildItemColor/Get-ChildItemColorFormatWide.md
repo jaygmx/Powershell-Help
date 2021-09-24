@@ -8,7 +8,7 @@ schema: 2.0.0
 # Get-ChildItemColorFormatWide
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -17,20 +17,21 @@ Get-ChildItemColorFormatWide [[-Path] <String>] [-Force]
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Force
+{{ Fill Force Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -45,7 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -Path
-
+{{ Fill Path Description }}
 
 ```yaml
 Type: System.String

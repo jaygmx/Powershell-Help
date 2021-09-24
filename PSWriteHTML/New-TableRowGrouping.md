@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-TableRowGrouping
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -18,20 +18,21 @@ New-TableRowGrouping [[-Name] <String>] [[-ColumnID] <Int32>] [[-SortOrder] <Str
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -BackgroundColor
+{{ Fill BackgroundColor Description }}
 
 ```yaml
 Type: System.String
@@ -46,6 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -Color
+{{ Fill Color Description }}
 
 ```yaml
 Type: System.String
@@ -60,6 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -ColumnID
+{{ Fill ColumnID Description }}
 
 ```yaml
 Type: System.Int32
@@ -74,6 +77,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
+{{ Fill Name Description }}
 
 ```yaml
 Type: System.String
@@ -88,6 +92,7 @@ Accept wildcard characters: False
 ```
 
 ### -SortOrder
+{{ Fill SortOrder Description }}
 
 ```yaml
 Type: System.String

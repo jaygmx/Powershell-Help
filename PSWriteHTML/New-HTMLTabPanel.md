@@ -31,6 +31,7 @@ An example
 ## PARAMETERS
 
 ### -Tabs
+{{ Fill Tabs Description }}
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock

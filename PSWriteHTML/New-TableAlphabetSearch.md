@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-TableAlphabetSearch
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -23,20 +23,21 @@ New-TableAlphabetSearch -ColumnName <String> [-AddNumbers] [-CaseSensitive] [<Co
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -AddNumbers
+{{ Fill AddNumbers Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -51,6 +52,7 @@ Accept wildcard characters: False
 ```
 
 ### -CaseSensitive
+{{ Fill CaseSensitive Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -65,6 +67,7 @@ Accept wildcard characters: False
 ```
 
 ### -ColumnID
+{{ Fill ColumnID Description }}
 
 ```yaml
 Type: System.Int32
@@ -79,6 +82,7 @@ Accept wildcard characters: False
 ```
 
 ### -ColumnName
+{{ Fill ColumnName Description }}
 
 ```yaml
 Type: System.String

@@ -280,6 +280,7 @@ Accept wildcard characters: False
 ```
 
 ### -Theme
+{{ Fill Theme Description }}
 
 ```yaml
 Type: System.String

@@ -418,6 +418,7 @@ Accept wildcard characters: False
 ```
 
 ### -Arguments
+{{ Fill Arguments Description }}
 
 ```yaml
 Type: System.String[]

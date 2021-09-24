@@ -8,7 +8,7 @@ schema: 2.0.0
 # Get-GcpsMessage
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -18,20 +18,21 @@ Get-GcpsMessage [-Project <String>] [-Name] <String> [-MaxMessages <Int32>] [-Au
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -AutoAck
+{{ Fill AutoAck Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -46,6 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -MaxMessages
+{{ Fill MaxMessages Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -60,6 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
+{{ Fill Name Description }}
 
 ```yaml
 Type: System.String
@@ -74,6 +77,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
+{{ Fill Project Description }}
 
 ```yaml
 Type: System.String
@@ -88,6 +92,7 @@ Accept wildcard characters: False
 ```
 
 ### -ReturnImmediately
+{{ Fill ReturnImmediately Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter

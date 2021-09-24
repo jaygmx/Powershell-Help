@@ -34,7 +34,10 @@ Expand the HTML template \`$template\` mappings provided with \`$map\`.
 With:
 
 ~~~ PowerShell
+$template = '\<span class="navitem{{level}}"\>{{navtext}}\</span\>'
 $map = @{
+    '{{level}}'   = 1
+    '{{navtext}}' = 'foo'
 }
 ~~~
 

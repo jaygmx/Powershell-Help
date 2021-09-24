@@ -9,7 +9,7 @@ schema: 2.0.0
 # Group-ObjectFast
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -24,20 +24,21 @@ Group-ObjectFast -Property <String[]> [-AsHashtable] [-AsString] -InputObject <O
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -AsHashtable
+{{ Fill AsHashtable Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -52,6 +53,7 @@ Accept wildcard characters: False
 ```
 
 ### -AsString
+{{ Fill AsString Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -66,6 +68,7 @@ Accept wildcard characters: False
 ```
 
 ### -InputObject
+{{ Fill InputObject Description }}
 
 ```yaml
 Type: System.Object
@@ -80,6 +83,7 @@ Accept wildcard characters: False
 ```
 
 ### -NoElement
+{{ Fill NoElement Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -94,6 +98,7 @@ Accept wildcard characters: False
 ```
 
 ### -Property
+{{ Fill Property Description }}
 
 ```yaml
 Type: System.String[]

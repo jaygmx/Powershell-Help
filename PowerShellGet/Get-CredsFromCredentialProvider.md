@@ -8,7 +8,7 @@ schema: 2.0.0
 # Get-CredsFromCredentialProvider
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -17,20 +17,21 @@ Get-CredsFromCredentialProvider [[-SourceLocation] <Uri>] [[-isRetry] <Boolean>]
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -SourceLocation
+{{ Fill SourceLocation Description }}
 
 ```yaml
 Type: System.Uri
@@ -45,6 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -isRetry
+{{ Fill isRetry Description }}
 
 ```yaml
 Type: System.Boolean

@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-HTMLTab
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -34,20 +34,21 @@ New-HTMLTab [[-HtmlData] <ScriptBlock>] [[-Heading] <String>] [-Name <String>] [
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -AnchorName
+{{ Fill AnchorName Description }}
 
 ```yaml
 Type: System.String
@@ -62,6 +63,7 @@ Accept wildcard characters: False
 ```
 
 ### -Heading
+{{ Fill Heading Description }}
 
 ```yaml
 Type: System.String
@@ -76,6 +78,7 @@ Accept wildcard characters: False
 ```
 
 ### -HtmlData
+{{ Fill HtmlData Description }}
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock
@@ -90,6 +93,7 @@ Accept wildcard characters: False
 ```
 
 ### -IconBrands
+{{ Fill IconBrands Description }}
 
 ```yaml
 Type: System.String
@@ -104,6 +108,7 @@ Accept wildcard characters: False
 ```
 
 ### -IconColor
+{{ Fill IconColor Description }}
 
 ```yaml
 Type: System.String
@@ -118,6 +123,7 @@ Accept wildcard characters: False
 ```
 
 ### -IconRegular
+{{ Fill IconRegular Description }}
 
 ```yaml
 Type: System.String
@@ -132,6 +138,7 @@ Accept wildcard characters: False
 ```
 
 ### -IconSize
+{{ Fill IconSize Description }}
 
 ```yaml
 Type: System.Object
@@ -146,6 +153,7 @@ Accept wildcard characters: False
 ```
 
 ### -IconSolid
+{{ Fill IconSolid Description }}
 
 ```yaml
 Type: System.String
@@ -160,6 +168,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
+{{ Fill Name Description }}
 
 ```yaml
 Type: System.String
@@ -174,6 +183,7 @@ Accept wildcard characters: False
 ```
 
 ### -TextColor
+{{ Fill TextColor Description }}
 
 ```yaml
 Type: System.String
@@ -188,6 +198,7 @@ Accept wildcard characters: False
 ```
 
 ### -TextSize
+{{ Fill TextSize Description }}
 
 ```yaml
 Type: System.Object
@@ -202,6 +213,7 @@ Accept wildcard characters: False
 ```
 
 ### -TextTransform
+{{ Fill TextTransform Description }}
 
 ```yaml
 Type: System.String

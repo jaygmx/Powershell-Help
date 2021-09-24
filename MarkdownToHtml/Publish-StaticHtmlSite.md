@@ -121,8 +121,10 @@ Following substitution mappings are used by default unless explicitely defined.
 
 | Placeholder   | Description                  | Origin                      |
 |:------------- | :--------------------------- | :-------------------------- |
+| \`{{title}}\`   | Auto generated page title    | \`$inputObject.Title\`        |
 | \`\[title\]\`     | For backwards compatibility.
 | \`$inputObject.Title\`        |
+| \`{{content}}\` | HTML content                 | \`$inputObject.HtmlFragment\` |
 | \`\[content\]\`   | For backwards compatibility.
 | \`$inputObject.HtmlFragment\` |
 
@@ -130,6 +132,8 @@ For static HTML site projects additional mappings are defined:
 
 | Placeholder   | Description                  | Origin       |
 |:------------- | :--------------------------- | :----------- |
+| \`{{nav}}\`     | Navigation bar content       | \`Build.json\` |
+| \`{{footer}}\`  | Page footer content          | \`Build.json\` |
 
 For static HTML site projects additional placeholders can be added to the map.
 See

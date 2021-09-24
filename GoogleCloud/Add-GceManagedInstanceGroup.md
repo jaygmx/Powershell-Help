@@ -8,7 +8,7 @@ schema: 2.0.0
 # Add-GceManagedInstanceGroup
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -34,20 +34,21 @@ Add-GceManagedInstanceGroup [-Project <String>] [-Region <String>] [-Name] <Stri
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -BaseInstanceName
+{{ Fill BaseInstanceName Description }}
 
 ```yaml
 Type: System.String
@@ -62,6 +63,7 @@ Accept wildcard characters: False
 ```
 
 ### -Description
+{{ Fill Description Description }}
 
 ```yaml
 Type: System.String
@@ -76,6 +78,7 @@ Accept wildcard characters: False
 ```
 
 ### -InstanceTemplate
+{{ Fill InstanceTemplate Description }}
 
 ```yaml
 Type: System.String
@@ -90,6 +93,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
+{{ Fill Name Description }}
 
 ```yaml
 Type: System.String
@@ -104,6 +108,7 @@ Accept wildcard characters: False
 ```
 
 ### -NamedPort
+{{ Fill NamedPort Description }}
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.NamedPort[]
@@ -118,6 +123,7 @@ Accept wildcard characters: False
 ```
 
 ### -Object
+{{ Fill Object Description }}
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.InstanceGroupManager
@@ -132,6 +138,7 @@ Accept wildcard characters: False
 ```
 
 ### -PortName
+{{ Fill PortName Description }}
 
 ```yaml
 Type: System.String[]
@@ -146,6 +153,7 @@ Accept wildcard characters: False
 ```
 
 ### -PortNumber
+{{ Fill PortNumber Description }}
 
 ```yaml
 Type: System.Int32[]
@@ -160,6 +168,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
+{{ Fill Project Description }}
 
 ```yaml
 Type: System.String
@@ -174,6 +183,7 @@ Accept wildcard characters: False
 ```
 
 ### -Region
+{{ Fill Region Description }}
 
 ```yaml
 Type: System.String
@@ -188,6 +198,7 @@ Accept wildcard characters: False
 ```
 
 ### -TargetPool
+{{ Fill TargetPool Description }}
 
 ```yaml
 Type: System.String[]
@@ -202,6 +213,7 @@ Accept wildcard characters: False
 ```
 
 ### -TargetSize
+{{ Fill TargetSize Description }}
 
 ```yaml
 Type: System.Int32
@@ -216,6 +228,7 @@ Accept wildcard characters: False
 ```
 
 ### -Zone
+{{ Fill Zone Description }}
 
 ```yaml
 Type: System.String

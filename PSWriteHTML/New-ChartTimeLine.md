@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-ChartTimeLine
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -18,20 +18,21 @@ New-ChartTimeLine [-Name] <String> [[-DateFrom] <DateTime>] [[-DateTo] <DateTime
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Color
+{{ Fill Color Description }}
 
 ```yaml
 Type: System.String
@@ -46,6 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -DateFormatPattern
+{{ Fill DateFormatPattern Description }}
 
 ```yaml
 Type: System.String
@@ -60,6 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -DateFrom
+{{ Fill DateFrom Description }}
 
 ```yaml
 Type: System.DateTime
@@ -74,6 +77,7 @@ Accept wildcard characters: False
 ```
 
 ### -DateTo
+{{ Fill DateTo Description }}
 
 ```yaml
 Type: System.DateTime
@@ -88,6 +92,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
+{{ Fill Name Description }}
 
 ```yaml
 Type: System.String
@@ -102,6 +107,7 @@ Accept wildcard characters: False
 ```
 
 ### -TimeZoneOffset
+{{ Fill TimeZoneOffset Description }}
 
 ```yaml
 Type: System.String

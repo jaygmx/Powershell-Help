@@ -136,10 +136,12 @@ An optional dictionary of named HTML templates.
 + ========== + ============ + ========================================
 | clickable  | "navitem"    | ~~~ html
 | link       |              | \<button class='navitem'\>
+|            |              |     \<a href='{{navurl}}'\>{{navtext}}\</a\>
 |            |              | \</button\>
 |            |              | ~~~
 + ---------- + ------------ + ----------------------------------------
 | label (no  | "navlabel"   | ~~~ html
+| link)      |              | \<div class='navlabel'\>{{navtext}}\</div\>
 |            |              | ~~~
 + ---------- + ------------ + ----------------------------------------
 | separator  |"navseparator"| ~~~ html
@@ -163,6 +165,8 @@ are replaced with content extracted from the \`NavSpec\` parameter .
 
 | Placeholder   | Description
 | :-----------: | -----------
+| \`{{navurl}}\`  | hyperlink to web-page or local file.
+| \`{{navtext}}\` | link or label text
 
 ```yaml
 Type: System.Object

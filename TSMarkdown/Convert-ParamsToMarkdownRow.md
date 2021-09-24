@@ -8,7 +8,7 @@ schema: 2.0.0
 # Convert-ParamsToMarkdownRow
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -17,16 +17,16 @@ Convert-ParamsToMarkdownRow [-Params] <Array> [-WhatIf] [-Confirm] [<CommonParam
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
@@ -46,6 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -Params
+{{ Fill Params Description }}
 
 ```yaml
 Type: System.Array

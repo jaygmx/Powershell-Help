@@ -8,7 +8,7 @@ schema: 2.0.0
 # EmailHeader
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -17,20 +17,21 @@ EmailHeader [[-EmailHeader] <ScriptBlock>] [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -EmailHeader
+{{ Fill EmailHeader Description }}
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock

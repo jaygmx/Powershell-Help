@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-ChartEvent
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -17,20 +17,21 @@ New-ChartEvent [-DataTableID] <String> [-ColumnID] <Int32> [-EscapeRegex] [<Comm
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -ColumnID
+{{ Fill ColumnID Description }}
 
 ```yaml
 Type: System.Int32
@@ -45,6 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -DataTableID
+{{ Fill DataTableID Description }}
 
 ```yaml
 Type: System.String
@@ -59,6 +61,7 @@ Accept wildcard characters: False
 ```
 
 ### -EscapeRegex
+{{ Fill EscapeRegex Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter

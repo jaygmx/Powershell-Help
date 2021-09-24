@@ -8,7 +8,7 @@ schema: 2.0.0
 # Send-GcpsAck
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -23,20 +23,21 @@ Send-GcpsAck -InputObject <PubSubMessageWithAckIdAndSubscription[]> [<CommonPara
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -AckId
+{{ Fill AckId Description }}
 
 ```yaml
 Type: System.String[]
@@ -51,6 +52,7 @@ Accept wildcard characters: False
 ```
 
 ### -InputObject
+{{ Fill InputObject Description }}
 
 ```yaml
 Type: Google.PowerShell.PubSub.PubSubMessageWithAckIdAndSubscription[]
@@ -65,6 +67,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
+{{ Fill Project Description }}
 
 ```yaml
 Type: System.String
@@ -79,6 +82,7 @@ Accept wildcard characters: False
 ```
 
 ### -Subscription
+{{ Fill Subscription Description }}
 
 ```yaml
 Type: System.String

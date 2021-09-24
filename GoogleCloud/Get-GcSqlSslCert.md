@@ -8,7 +8,7 @@ schema: 2.0.0
 # Get-GcSqlSslCert
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -28,20 +28,21 @@ Get-GcSqlSslCert [-Project <String>] -InstanceObject <DatabaseInstance> [<Common
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Instance
+{{ Fill Instance Description }}
 
 ```yaml
 Type: System.String
@@ -56,6 +57,7 @@ Accept wildcard characters: False
 ```
 
 ### -InstanceObject
+{{ Fill InstanceObject Description }}
 
 ```yaml
 Type: Google.Apis.SQLAdmin.v1beta4.Data.DatabaseInstance
@@ -70,6 +72,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
+{{ Fill Project Description }}
 
 ```yaml
 Type: System.String
@@ -84,6 +87,7 @@ Accept wildcard characters: False
 ```
 
 ### -Sha1Fingerprint
+{{ Fill Sha1Fingerprint Description }}
 
 ```yaml
 Type: System.String

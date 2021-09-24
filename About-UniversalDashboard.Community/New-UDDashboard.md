@@ -275,6 +275,7 @@ Accept wildcard characters: False
 ```
 
 ### -Navigation
+{{Fill Navigation Description}}
 
 ```yaml
 Type: SideNav

@@ -8,7 +8,7 @@ schema: 2.0.0
 # Stop-BqJob
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -17,20 +17,21 @@ Stop-BqJob [[-InputObject] <JobReference>] [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -InputObject
+{{ Fill InputObject Description }}
 
 ```yaml
 Type: Google.Apis.Bigquery.v2.Data.JobReference

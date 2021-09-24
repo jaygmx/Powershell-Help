@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-HTMLChart
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -24,20 +24,21 @@ New-HTMLChart [[-ChartSettings] <ScriptBlock>] [[-Title] <String>] [[-TitleAlign
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -ChartSettings
+{{ Fill ChartSettings Description }}
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock
@@ -52,6 +53,7 @@ Accept wildcard characters: False
 ```
 
 ### -Gradient
+{{ Fill Gradient Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -66,6 +68,7 @@ Accept wildcard characters: False
 ```
 
 ### -Group
+{{ Fill Group Description }}
 
 ```yaml
 Type: System.String
@@ -80,6 +83,7 @@ Accept wildcard characters: False
 ```
 
 ### -Height
+{{ Fill Height Description }}
 
 ```yaml
 Type: System.Object
@@ -94,6 +98,7 @@ Accept wildcard characters: False
 ```
 
 ### -Id
+{{ Fill Id Description }}
 
 ```yaml
 Type: System.String
@@ -108,6 +113,7 @@ Accept wildcard characters: False
 ```
 
 ### -Patterned
+{{ Fill Patterned Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -122,6 +128,7 @@ Accept wildcard characters: False
 ```
 
 ### -SubTitle
+{{ Fill SubTitle Description }}
 
 ```yaml
 Type: System.String
@@ -136,6 +143,7 @@ Accept wildcard characters: False
 ```
 
 ### -SubTitleAlignment
+{{ Fill SubTitleAlignment Description }}
 
 ```yaml
 Type: System.String
@@ -151,6 +159,7 @@ Accept wildcard characters: False
 ```
 
 ### -SubTitleColor
+{{ Fill SubTitleColor Description }}
 
 ```yaml
 Type: System.String
@@ -165,6 +174,7 @@ Accept wildcard characters: False
 ```
 
 ### -SubTitleFloating
+{{ Fill SubTitleFloating Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -179,6 +189,7 @@ Accept wildcard characters: False
 ```
 
 ### -SubTitleFontFamily
+{{ Fill SubTitleFontFamily Description }}
 
 ```yaml
 Type: System.String
@@ -193,6 +204,7 @@ Accept wildcard characters: False
 ```
 
 ### -SubTitleFontSize
+{{ Fill SubTitleFontSize Description }}
 
 ```yaml
 Type: System.Object
@@ -207,6 +219,7 @@ Accept wildcard characters: False
 ```
 
 ### -SubTitleFontWeight
+{{ Fill SubTitleFontWeight Description }}
 
 ```yaml
 Type: System.String
@@ -222,6 +235,7 @@ Accept wildcard characters: False
 ```
 
 ### -SubTitleMargin
+{{ Fill SubTitleMargin Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -236,6 +250,7 @@ Accept wildcard characters: False
 ```
 
 ### -SubTitleOffsetX
+{{ Fill SubTitleOffsetX Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -250,6 +265,7 @@ Accept wildcard characters: False
 ```
 
 ### -SubTitleOffsetY
+{{ Fill SubTitleOffsetY Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -264,6 +280,7 @@ Accept wildcard characters: False
 ```
 
 ### -Title
+{{ Fill Title Description }}
 
 ```yaml
 Type: System.String
@@ -278,6 +295,7 @@ Accept wildcard characters: False
 ```
 
 ### -TitleAlignment
+{{ Fill TitleAlignment Description }}
 
 ```yaml
 Type: System.String
@@ -293,6 +311,7 @@ Accept wildcard characters: False
 ```
 
 ### -TitleColor
+{{ Fill TitleColor Description }}
 
 ```yaml
 Type: System.String
@@ -307,6 +326,7 @@ Accept wildcard characters: False
 ```
 
 ### -TitleFloating
+{{ Fill TitleFloating Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -321,6 +341,7 @@ Accept wildcard characters: False
 ```
 
 ### -TitleFontFamily
+{{ Fill TitleFontFamily Description }}
 
 ```yaml
 Type: System.String
@@ -335,6 +356,7 @@ Accept wildcard characters: False
 ```
 
 ### -TitleFontSize
+{{ Fill TitleFontSize Description }}
 
 ```yaml
 Type: System.Object
@@ -349,6 +371,7 @@ Accept wildcard characters: False
 ```
 
 ### -TitleFontWeight
+{{ Fill TitleFontWeight Description }}
 
 ```yaml
 Type: System.String
@@ -364,6 +387,7 @@ Accept wildcard characters: False
 ```
 
 ### -TitleMargin
+{{ Fill TitleMargin Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -378,6 +402,7 @@ Accept wildcard characters: False
 ```
 
 ### -TitleOffsetX
+{{ Fill TitleOffsetX Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -392,6 +417,7 @@ Accept wildcard characters: False
 ```
 
 ### -TitleOffsetY
+{{ Fill TitleOffsetY Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -406,6 +432,7 @@ Accept wildcard characters: False
 ```
 
 ### -Width
+{{ Fill Width Description }}
 
 ```yaml
 Type: System.Object

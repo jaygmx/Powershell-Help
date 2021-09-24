@@ -8,7 +8,7 @@ schema: 2.0.0
 # Register-PermanentWmiEvent
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -141,20 +141,21 @@ Register-PermanentWmiEvent -Name <String> -EventNamespace <String> -Query <Strin
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -BccLine
+{{ Fill BccLine Description }}
 
 ```yaml
 Type: System.String
@@ -169,6 +170,7 @@ Accept wildcard characters: False
 ```
 
 ### -Category
+{{ Fill Category Description }}
 
 ```yaml
 Type: System.UInt16
@@ -183,6 +185,7 @@ Accept wildcard characters: False
 ```
 
 ### -CcLine
+{{ Fill CcLine Description }}
 
 ```yaml
 Type: System.String
@@ -197,6 +200,7 @@ Accept wildcard characters: False
 ```
 
 ### -CimSession
+{{ Fill CimSession Description }}
 
 ```yaml
 Type: Microsoft.Management.Infrastructure.CimSession[]
@@ -211,6 +215,7 @@ Accept wildcard characters: False
 ```
 
 ### -CommandLineTemplate
+{{ Fill CommandLineTemplate Description }}
 
 ```yaml
 Type: System.String
@@ -225,6 +230,7 @@ Accept wildcard characters: False
 ```
 
 ### -ComputerName
+{{ Fill ComputerName Description }}
 
 ```yaml
 Type: System.String[]
@@ -239,6 +245,7 @@ Accept wildcard characters: False
 ```
 
 ### -CreateNewProcessGroup
+{{ Fill CreateNewProcessGroup Description }}
 
 ```yaml
 Type: System.Boolean
@@ -253,6 +260,7 @@ Accept wildcard characters: False
 ```
 
 ### -CreateSeparateWowVdm
+{{ Fill CreateSeparateWowVdm Description }}
 
 ```yaml
 Type: System.Boolean
@@ -267,6 +275,7 @@ Accept wildcard characters: False
 ```
 
 ### -CreateSharedWowVdm
+{{ Fill CreateSharedWowVdm Description }}
 
 ```yaml
 Type: System.Boolean
@@ -281,6 +290,7 @@ Accept wildcard characters: False
 ```
 
 ### -Credential
+{{ Fill Credential Description }}
 
 ```yaml
 Type: System.Management.Automation.PSCredential
@@ -295,6 +305,7 @@ Accept wildcard characters: False
 ```
 
 ### -EventID
+{{ Fill EventID Description }}
 
 ```yaml
 Type: System.UInt32
@@ -309,6 +320,7 @@ Accept wildcard characters: False
 ```
 
 ### -EventNamespace
+{{ Fill EventNamespace Description }}
 
 ```yaml
 Type: System.String
@@ -323,6 +335,7 @@ Accept wildcard characters: False
 ```
 
 ### -EventType
+{{ Fill EventType Description }}
 
 ```yaml
 Type: System.UInt32
@@ -338,6 +351,7 @@ Accept wildcard characters: False
 ```
 
 ### -ExecutablePath
+{{ Fill ExecutablePath Description }}
 
 ```yaml
 Type: System.String
@@ -352,6 +366,7 @@ Accept wildcard characters: False
 ```
 
 ### -Filename
+{{ Fill Filename Description }}
 
 ```yaml
 Type: System.String
@@ -366,6 +381,7 @@ Accept wildcard characters: False
 ```
 
 ### -ForceOffFeedback
+{{ Fill ForceOffFeedback Description }}
 
 ```yaml
 Type: System.Boolean
@@ -380,6 +396,7 @@ Accept wildcard characters: False
 ```
 
 ### -ForceOnFeedback
+{{ Fill ForceOnFeedback Description }}
 
 ```yaml
 Type: System.Boolean
@@ -394,6 +411,7 @@ Accept wildcard characters: False
 ```
 
 ### -FromLine
+{{ Fill FromLine Description }}
 
 ```yaml
 Type: System.String
@@ -408,6 +426,7 @@ Accept wildcard characters: False
 ```
 
 ### -HeaderFields
+{{ Fill HeaderFields Description }}
 
 ```yaml
 Type: System.String[]
@@ -422,6 +441,7 @@ Accept wildcard characters: False
 ```
 
 ### -InsertionStringTemplates
+{{ Fill InsertionStringTemplates Description }}
 
 ```yaml
 Type: System.String[]
@@ -436,6 +456,7 @@ Accept wildcard characters: False
 ```
 
 ### -IsUnicode
+{{ Fill IsUnicode Description }}
 
 ```yaml
 Type: System.Boolean
@@ -450,6 +471,7 @@ Accept wildcard characters: False
 ```
 
 ### -KillTimeout
+{{ Fill KillTimeout Description }}
 
 ```yaml
 Type: System.UInt32
@@ -464,6 +486,7 @@ Accept wildcard characters: False
 ```
 
 ### -MaximumFileSize
+{{ Fill MaximumFileSize Description }}
 
 ```yaml
 Type: System.UInt64
@@ -478,6 +501,7 @@ Accept wildcard characters: False
 ```
 
 ### -Message
+{{ Fill Message Description }}
 
 ```yaml
 Type: System.String
@@ -492,6 +516,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
+{{ Fill Name Description }}
 
 ```yaml
 Type: System.String
@@ -506,6 +531,7 @@ Accept wildcard characters: False
 ```
 
 ### -NameOfRawDataProperty
+{{ Fill NameOfRawDataProperty Description }}
 
 ```yaml
 Type: System.String
@@ -520,6 +546,7 @@ Accept wildcard characters: False
 ```
 
 ### -NameOfUserSidProperty
+{{ Fill NameOfUserSidProperty Description }}
 
 ```yaml
 Type: System.String
@@ -534,6 +561,7 @@ Accept wildcard characters: False
 ```
 
 ### -Priority
+{{ Fill Priority Description }}
 
 ```yaml
 Type: System.Int32
@@ -549,6 +577,7 @@ Accept wildcard characters: False
 ```
 
 ### -Query
+{{ Fill Query Description }}
 
 ```yaml
 Type: System.String
@@ -563,6 +592,7 @@ Accept wildcard characters: False
 ```
 
 ### -QueryLanguage
+{{ Fill QueryLanguage Description }}
 
 ```yaml
 Type: System.String
@@ -578,6 +608,7 @@ Accept wildcard characters: False
 ```
 
 ### -ReplyToLine
+{{ Fill ReplyToLine Description }}
 
 ```yaml
 Type: System.String
@@ -592,6 +623,7 @@ Accept wildcard characters: False
 ```
 
 ### -RunInteractively
+{{ Fill RunInteractively Description }}
 
 ```yaml
 Type: System.Boolean
@@ -606,6 +638,7 @@ Accept wildcard characters: False
 ```
 
 ### -SMTPServer
+{{ Fill SMTPServer Description }}
 
 ```yaml
 Type: System.String
@@ -620,6 +653,7 @@ Accept wildcard characters: False
 ```
 
 ### -ScriptFileName
+{{ Fill ScriptFileName Description }}
 
 ```yaml
 Type: System.String
@@ -634,6 +668,7 @@ Accept wildcard characters: False
 ```
 
 ### -ScriptText
+{{ Fill ScriptText Description }}
 
 ```yaml
 Type: System.String
@@ -648,6 +683,7 @@ Accept wildcard characters: False
 ```
 
 ### -ScriptingEngine
+{{ Fill ScriptingEngine Description }}
 
 ```yaml
 Type: System.String
@@ -663,6 +699,7 @@ Accept wildcard characters: False
 ```
 
 ### -ShowWindowCommand
+{{ Fill ShowWindowCommand Description }}
 
 ```yaml
 Type: System.UInt32
@@ -677,6 +714,7 @@ Accept wildcard characters: False
 ```
 
 ### -SourceName
+{{ Fill SourceName Description }}
 
 ```yaml
 Type: System.String
@@ -691,6 +729,7 @@ Accept wildcard characters: False
 ```
 
 ### -Subject
+{{ Fill Subject Description }}
 
 ```yaml
 Type: System.String
@@ -705,6 +744,7 @@ Accept wildcard characters: False
 ```
 
 ### -Text
+{{ Fill Text Description }}
 
 ```yaml
 Type: System.String
@@ -719,6 +759,7 @@ Accept wildcard characters: False
 ```
 
 ### -ToLine
+{{ Fill ToLine Description }}
 
 ```yaml
 Type: System.String
@@ -733,6 +774,7 @@ Accept wildcard characters: False
 ```
 
 ### -UNCServerName
+{{ Fill UNCServerName Description }}
 
 ```yaml
 Type: System.String
@@ -747,6 +789,7 @@ Accept wildcard characters: False
 ```
 
 ### -UseDefaultErrorMode
+{{ Fill UseDefaultErrorMode Description }}
 
 ```yaml
 Type: System.Boolean
@@ -761,6 +804,7 @@ Accept wildcard characters: False
 ```
 
 ### -WindowTitle
+{{ Fill WindowTitle Description }}
 
 ```yaml
 Type: System.String
@@ -775,6 +819,7 @@ Accept wildcard characters: False
 ```
 
 ### -WorkingDirectory
+{{ Fill WorkingDirectory Description }}
 
 ```yaml
 Type: System.String
@@ -789,6 +834,7 @@ Accept wildcard characters: False
 ```
 
 ### -XCoordinate
+{{ Fill XCoordinate Description }}
 
 ```yaml
 Type: System.UInt32
@@ -803,7 +849,7 @@ Accept wildcard characters: False
 ```
 
 ### -XNumCharacters
-
+{{ Fill XNumCharacters Description }}
 
 ```yaml
 Type: System.UInt32
@@ -818,6 +864,7 @@ Accept wildcard characters: False
 ```
 
 ### -XSize
+{{ Fill XSize Description }}
 
 ```yaml
 Type: System.UInt32
@@ -832,6 +879,7 @@ Accept wildcard characters: False
 ```
 
 ### -YCoordinate
+{{ Fill YCoordinate Description }}
 
 ```yaml
 Type: System.UInt32
@@ -846,6 +894,7 @@ Accept wildcard characters: False
 ```
 
 ### -YNumCharacters
+{{ Fill YNumCharacters Description }}
 
 ```yaml
 Type: System.UInt32
@@ -860,6 +909,7 @@ Accept wildcard characters: False
 ```
 
 ### -YSize
+{{ Fill YSize Description }}
 
 ```yaml
 Type: System.UInt32

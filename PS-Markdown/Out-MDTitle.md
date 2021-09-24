@@ -8,7 +8,7 @@ schema: 2.0.0
 # Out-MDTitle
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -17,20 +17,21 @@ Out-MDTitle [[-Title] <String>] [-Header <Object>] [-AsString] [-File <String>] 
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -AsString
+{{ Fill AsString Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -45,6 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -File
+{{ Fill File Description }}
 
 ```yaml
 Type: System.String
@@ -59,6 +61,7 @@ Accept wildcard characters: False
 ```
 
 ### -Header
+{{ Fill Header Description }}
 
 ```yaml
 Type: System.Object
@@ -74,6 +77,7 @@ Accept wildcard characters: False
 ```
 
 ### -Title
+{{ Fill Title Description }}
 
 ```yaml
 Type: System.String

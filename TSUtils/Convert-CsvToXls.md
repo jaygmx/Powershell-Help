@@ -8,7 +8,7 @@ schema: 2.0.0
 # Convert-CsvToXls
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -17,20 +17,21 @@ Convert-CsvToXls [-Csv] <FileInfo[]> [-Xlsx] <FileInfo> [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Csv
+{{ Fill Csv Description }}
 
 ```yaml
 Type: System.IO.FileInfo[]
@@ -45,6 +46,7 @@ Accept wildcard characters: False
 ```
 
 ### -Xlsx
+{{ Fill Xlsx Description }}
 
 ```yaml
 Type: System.IO.FileInfo

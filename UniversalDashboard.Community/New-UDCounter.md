@@ -212,6 +212,7 @@ Accept wildcard characters: False
 ```
 
 ### -Id
+{{ Fill Id Description }}
 
 ```yaml
 Type: System.String
@@ -226,6 +227,7 @@ Accept wildcard characters: False
 ```
 
 ### -Links
+{{ Fill Links Description }}
 
 ```yaml
 Type: System.Collections.Hashtable[]
@@ -240,6 +242,7 @@ Accept wildcard characters: False
 ```
 
 ### -OnClick
+{{ Fill OnClick Description }}
 
 ```yaml
 Type: System.Management.Automation.ScriptBlock
@@ -254,6 +257,7 @@ Accept wildcard characters: False
 ```
 
 ### -RefreshInterval
+{{ Fill RefreshInterval Description }}
 
 ```yaml
 Type: System.Int32
@@ -268,6 +272,7 @@ Accept wildcard characters: False
 ```
 
 ### -TextAlignment
+{{ Fill TextAlignment Description }}
 
 ```yaml
 Type: UniversalDashboard.Models.Enums.TextAlignment
@@ -282,6 +287,7 @@ Accept wildcard characters: False
 ```
 
 ### -TextSize
+{{ Fill TextSize Description }}
 
 ```yaml
 Type: UniversalDashboard.Models.Enums.TextSize
@@ -296,6 +302,7 @@ Accept wildcard characters: False
 ```
 
 ### -Title
+{{ Fill Title Description }}
 
 ```yaml
 Type: System.String

@@ -8,7 +8,7 @@ schema: 2.0.0
 # Register-PSRepository
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -27,20 +27,21 @@ Register-PSRepository [-Default] [-InstallationPolicy <String>] [-Proxy <Uri>]
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Credential
+{{ Fill Credential Description }}
 
 ```yaml
 Type: System.Management.Automation.PSCredential
@@ -55,6 +56,7 @@ Accept wildcard characters: False
 ```
 
 ### -Default
+{{ Fill Default Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -69,6 +71,7 @@ Accept wildcard characters: False
 ```
 
 ### -InstallationPolicy
+{{ Fill InstallationPolicy Description }}
 
 ```yaml
 Type: System.String
@@ -84,6 +87,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
+{{ Fill Name Description }}
 
 ```yaml
 Type: System.String
@@ -98,6 +102,7 @@ Accept wildcard characters: False
 ```
 
 ### -PackageManagementProvider
+{{ Fill PackageManagementProvider Description }}
 
 ```yaml
 Type: System.String
@@ -112,6 +117,7 @@ Accept wildcard characters: False
 ```
 
 ### -Proxy
+{{ Fill Proxy Description }}
 
 ```yaml
 Type: System.Uri
@@ -126,6 +132,7 @@ Accept wildcard characters: False
 ```
 
 ### -ProxyCredential
+{{ Fill ProxyCredential Description }}
 
 ```yaml
 Type: System.Management.Automation.PSCredential
@@ -140,6 +147,7 @@ Accept wildcard characters: False
 ```
 
 ### -PublishLocation
+{{ Fill PublishLocation Description }}
 
 ```yaml
 Type: System.Uri
@@ -154,6 +162,7 @@ Accept wildcard characters: False
 ```
 
 ### -ScriptPublishLocation
+{{ Fill ScriptPublishLocation Description }}
 
 ```yaml
 Type: System.Uri
@@ -168,6 +177,7 @@ Accept wildcard characters: False
 ```
 
 ### -ScriptSourceLocation
+{{ Fill ScriptSourceLocation Description }}
 
 ```yaml
 Type: System.Uri
@@ -182,6 +192,7 @@ Accept wildcard characters: False
 ```
 
 ### -SourceLocation
+{{ Fill SourceLocation Description }}
 
 ```yaml
 Type: System.Uri

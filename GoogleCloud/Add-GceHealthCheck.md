@@ -8,7 +8,7 @@ schema: 2.0.0
 # Add-GceHealthCheck
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -30,20 +30,21 @@ Add-GceHealthCheck [-Project <String>] [-HttpObject] <HttpHealthCheck> [<CommonP
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -CheckInterval
+{{ Fill CheckInterval Description }}
 
 ```yaml
 Type: System.Nullable`1[System.TimeSpan]
@@ -58,6 +59,7 @@ Accept wildcard characters: False
 ```
 
 ### -Description
+{{ Fill Description Description }}
 
 ```yaml
 Type: System.String
@@ -72,6 +74,7 @@ Accept wildcard characters: False
 ```
 
 ### -HealthyThreshold
+{{ Fill HealthyThreshold Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -86,6 +89,7 @@ Accept wildcard characters: False
 ```
 
 ### -HostHeader
+{{ Fill HostHeader Description }}
 
 ```yaml
 Type: System.String
@@ -100,6 +104,7 @@ Accept wildcard characters: False
 ```
 
 ### -HttpObject
+{{ Fill HttpObject Description }}
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.HttpHealthCheck
@@ -114,6 +119,7 @@ Accept wildcard characters: False
 ```
 
 ### -Https
+{{ Fill Https Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -128,6 +134,7 @@ Accept wildcard characters: False
 ```
 
 ### -HttpsObject
+{{ Fill HttpsObject Description }}
 
 ```yaml
 Type: Google.Apis.Compute.v1.Data.HttpsHealthCheck
@@ -142,6 +149,7 @@ Accept wildcard characters: False
 ```
 
 ### -Name
+{{ Fill Name Description }}
 
 ```yaml
 Type: System.String
@@ -156,6 +164,7 @@ Accept wildcard characters: False
 ```
 
 ### -Port
+{{ Fill Port Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]
@@ -170,6 +179,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
+{{ Fill Project Description }}
 
 ```yaml
 Type: System.String
@@ -184,6 +194,7 @@ Accept wildcard characters: False
 ```
 
 ### -RequestPath
+{{ Fill RequestPath Description }}
 
 ```yaml
 Type: System.String
@@ -198,6 +209,7 @@ Accept wildcard characters: False
 ```
 
 ### -Timeout
+{{ Fill Timeout Description }}
 
 ```yaml
 Type: System.Nullable`1[System.TimeSpan]
@@ -212,6 +224,7 @@ Accept wildcard characters: False
 ```
 
 ### -UnhealthyThreshold
+{{ Fill UnhealthyThreshold Description }}
 
 ```yaml
 Type: System.Nullable`1[System.Int32]

@@ -8,7 +8,7 @@ schema: 2.0.0
 # Remove-GcSqlSslCert
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -24,20 +24,21 @@ Remove-GcSqlSslCert [-Cert] <SslCert> [-WhatIf] [-Confirm] [<CommonParameters>]
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -Cert
+{{ Fill Cert Description }}
 
 ```yaml
 Type: Google.Apis.SQLAdmin.v1beta4.Data.SslCert
@@ -67,6 +68,7 @@ Accept wildcard characters: False
 ```
 
 ### -Instance
+{{ Fill Instance Description }}
 
 ```yaml
 Type: System.String
@@ -81,6 +83,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
+{{ Fill Project Description }}
 
 ```yaml
 Type: System.String
@@ -95,6 +98,7 @@ Accept wildcard characters: False
 ```
 
 ### -Sha1Fingerprint
+{{ Fill Sha1Fingerprint Description }}
 
 ```yaml
 Type: System.String

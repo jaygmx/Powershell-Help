@@ -8,7 +8,7 @@ schema: 2.0.0
 # Get-BqJob
 
 ## SYNOPSIS
-
+{{ Fill in the Synopsis }}
 
 ## SYNTAX
 
@@ -28,20 +28,21 @@ Get-BqJob [-Project <String>] [[-InputObject] <JobReference>] [<CommonParameters
 ```
 
 ## DESCRIPTION
-
+{{ Fill in the Description }}
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -AllUsers
+{{ Fill AllUsers Description }}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -56,6 +57,7 @@ Accept wildcard characters: False
 ```
 
 ### -InputObject
+{{ Fill InputObject Description }}
 
 ```yaml
 Type: Google.Apis.Bigquery.v2.Data.JobReference
@@ -70,6 +72,7 @@ Accept wildcard characters: False
 ```
 
 ### -JobId
+{{ Fill JobId Description }}
 
 ```yaml
 Type: System.String
@@ -84,6 +87,7 @@ Accept wildcard characters: False
 ```
 
 ### -Project
+{{ Fill Project Description }}
 
 ```yaml
 Type: System.String
@@ -98,6 +102,7 @@ Accept wildcard characters: False
 ```
 
 ### -State
+{{ Fill State Description }}
 
 ```yaml
 Type: Google.Apis.Bigquery.v2.JobsResource+ListRequest+StateFilterEnum

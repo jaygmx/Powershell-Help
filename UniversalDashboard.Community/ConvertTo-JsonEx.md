@@ -8,6 +8,7 @@ schema: 2.0.0
 # ConvertTo-JsonEx
 
 ## SYNOPSIS
+{{Fill in the Synopsis}}
 
 ## SYNTAX
 
@@ -17,19 +18,21 @@ ConvertTo-JsonEx [-InputObject] <Object> [-Depth <Int32>] [-Compress] [-EnumsAsS
 ```
 
 ## DESCRIPTION
+{{Fill in the Description}}
 
 ## EXAMPLES
 
 ### Example 1
 ```
-PS C:\> 
+PS C:\> {{ Add example code here }}
 ```
 
-
+{{ Add example description here }}
 
 ## PARAMETERS
 
 ### -AsArray
+{{Fill AsArray Description}}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -44,6 +47,7 @@ Accept wildcard characters: False
 ```
 
 ### -Compress
+{{Fill Compress Description}}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -58,6 +62,7 @@ Accept wildcard characters: False
 ```
 
 ### -Depth
+{{Fill Depth Description}}
 
 ```yaml
 Type: System.Int32
@@ -72,6 +77,7 @@ Accept wildcard characters: False
 ```
 
 ### -EnumsAsStrings
+{{Fill EnumsAsStrings Description}}
 
 ```yaml
 Type: System.Management.Automation.SwitchParameter
@@ -86,6 +92,7 @@ Accept wildcard characters: False
 ```
 
 ### -InputObject
+{{Fill InputObject Description}}
 
 ```yaml
 Type: System.Object
