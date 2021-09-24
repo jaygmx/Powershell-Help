@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-UDMuLink
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -34,7 +34,7 @@ New-UDMuLink [-ClassName <String>] [-Id <String>] [-openInNewWindow] [-style <Ha
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

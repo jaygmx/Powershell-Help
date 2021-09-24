@@ -36,7 +36,7 @@ Invoke function getEmailAppUsageAppsUserCounts
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

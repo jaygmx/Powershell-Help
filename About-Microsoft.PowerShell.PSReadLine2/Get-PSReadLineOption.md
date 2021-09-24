@@ -30,7 +30,7 @@ This provides a slightly simpler way of setting syntax coloring options for mult
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

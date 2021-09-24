@@ -25,7 +25,7 @@ Create a csv list for mailboxes associated with disabled AD Accounts
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

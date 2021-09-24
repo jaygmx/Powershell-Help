@@ -8,7 +8,7 @@ schema: 2.0.0
 # Add-MgEnvironment
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -27,7 +27,7 @@ Add-MgEnvironment [-Name] <String> [-AzureADEndpoint] <String> [-GraphEndpoint] 
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

@@ -25,7 +25,7 @@ Install Powershell 7
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

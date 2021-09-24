@@ -42,7 +42,7 @@ If '-Chord' is specified, returns the specific bound keys.
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

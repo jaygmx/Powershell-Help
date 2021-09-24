@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-HTMLHorizontalLine
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -26,7 +26,7 @@ New-HTMLHorizontalLine [<CommonParameters>]
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

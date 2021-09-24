@@ -28,7 +28,7 @@ Options for a line chart.
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

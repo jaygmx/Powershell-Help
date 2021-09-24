@@ -25,7 +25,7 @@ Gets the size of connected monitors
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

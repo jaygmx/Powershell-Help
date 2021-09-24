@@ -36,7 +36,7 @@ Invoke function getOneDriveActivityUserDetail
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

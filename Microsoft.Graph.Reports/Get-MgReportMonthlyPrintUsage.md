@@ -71,7 +71,7 @@ Get monthlyPrintUsageByPrinter from reports
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

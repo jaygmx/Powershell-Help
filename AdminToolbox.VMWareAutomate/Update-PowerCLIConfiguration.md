@@ -25,7 +25,7 @@ Updates the PowerCLI Configuration to ignore certificate warnings and to not par
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

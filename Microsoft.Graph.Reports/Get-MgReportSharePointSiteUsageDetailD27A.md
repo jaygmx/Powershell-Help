@@ -36,7 +36,7 @@ Invoke function getSharePointSiteUsageDetail
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

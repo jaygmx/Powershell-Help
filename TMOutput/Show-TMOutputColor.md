@@ -27,7 +27,7 @@ Colors can be used for either the ForegroundColor or BackgroundColor parameter o
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

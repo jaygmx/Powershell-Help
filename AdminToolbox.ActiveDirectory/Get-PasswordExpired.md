@@ -25,7 +25,7 @@ Returns a list of Active Directory Accounts with expired passwords
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

@@ -28,7 +28,7 @@ Author information is: velecky@velecky.onmicrosoft.com
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

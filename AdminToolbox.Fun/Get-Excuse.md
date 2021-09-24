@@ -26,7 +26,7 @@ Let powershell help you
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

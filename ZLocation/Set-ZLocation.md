@@ -8,7 +8,7 @@ schema: 2.0.0
 # Set-ZLocation
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -26,12 +26,12 @@ Set-ZLocation [[-match] <String[]>] [<CommonParameters>]
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -match
-{{ Fill match Description }}
+
 
 ```yaml
 Type: System.String[]

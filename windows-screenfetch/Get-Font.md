@@ -8,7 +8,7 @@ schema: 2.0.0
 # Get-Font
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -26,7 +26,7 @@ Get-Font
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

@@ -26,7 +26,7 @@ Requires the Active Directory Module.
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

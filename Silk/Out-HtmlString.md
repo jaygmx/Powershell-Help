@@ -26,7 +26,7 @@ Out-HtmlString
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

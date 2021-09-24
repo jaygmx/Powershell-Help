@@ -32,7 +32,7 @@ Get-BrainyQuote [[-Author] <String>] [<CommonParameters>]
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

@@ -8,7 +8,7 @@ schema: 2.0.0
 # Get-Displays
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -26,7 +26,7 @@ Get-Displays
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

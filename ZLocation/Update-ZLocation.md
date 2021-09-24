@@ -8,7 +8,7 @@ schema: 2.0.0
 # Update-ZLocation
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -26,12 +26,12 @@ Update-ZLocation [-Path] <String> [<CommonParameters>]
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Path
-{{ Fill Path Description }}
+
 
 ```yaml
 Type: System.String

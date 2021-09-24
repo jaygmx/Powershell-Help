@@ -36,7 +36,7 @@ Invoke function getUserArchivedPrintJobs
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

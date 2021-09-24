@@ -27,7 +27,7 @@ Write-Banner [-InputObject] <PSObject> [-FontName <String>] [-FontSize <Int32>] 
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

@@ -25,7 +25,7 @@ Get Multifactor Authentication Status for Microsoft Online users
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

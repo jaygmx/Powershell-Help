@@ -26,7 +26,7 @@ Publish-ChocolateyPackage [-NupkgPath] <String> [[-ApiKey] <String>] [-WhatIf] [
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

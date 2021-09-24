@@ -8,7 +8,7 @@ schema: 2.0.0
 # New-GistOAuthToken
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -27,7 +27,7 @@ New-GistOAuthToken [-Credential] <PSCredential> [[-TokenDescription] <String>] [
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

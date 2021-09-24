@@ -28,7 +28,7 @@ Chart options for a polar area chart.
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

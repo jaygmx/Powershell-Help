@@ -31,7 +31,7 @@ As the name suggests, logarithmic interpolation is used to determine where a val
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

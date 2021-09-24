@@ -8,7 +8,7 @@ schema: 2.0.0
 # Remove-GistFile
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -26,7 +26,7 @@ Remove-GistFile [-Id] <String[]> [-FileName] <String[]> [-WhatIf] [-Confirm] [<C
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

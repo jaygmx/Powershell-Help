@@ -27,7 +27,7 @@ New-ModuleHelpIndex [-ModuleName] <String> [[-Script] <String[]>] [[-TagsJsonPat
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

@@ -26,7 +26,7 @@ Especially useful if providing remote support and needing to type in admin crede
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

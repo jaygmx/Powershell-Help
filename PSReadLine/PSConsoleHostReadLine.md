@@ -8,7 +8,7 @@ schema: 2.0.0
 # PSConsoleHostReadLine
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -26,7 +26,7 @@ PSConsoleHostReadLine
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

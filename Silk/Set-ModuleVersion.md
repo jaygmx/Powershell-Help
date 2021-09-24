@@ -28,7 +28,7 @@ Set-ModuleVersion [-ManifestPath] <String> [[-SolutionPath] <String>] [[-Assembl
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

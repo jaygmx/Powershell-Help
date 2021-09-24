@@ -36,7 +36,7 @@ Invoke function getSharePointActivityPages
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

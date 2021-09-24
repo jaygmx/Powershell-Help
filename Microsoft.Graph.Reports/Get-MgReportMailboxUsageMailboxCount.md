@@ -36,7 +36,7 @@ Invoke function getMailboxUsageMailboxCounts
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

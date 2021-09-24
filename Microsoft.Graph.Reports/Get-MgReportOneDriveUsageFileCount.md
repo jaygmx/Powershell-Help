@@ -36,7 +36,7 @@ Invoke function getOneDriveUsageFileCounts
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

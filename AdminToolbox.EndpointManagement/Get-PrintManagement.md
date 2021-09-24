@@ -25,7 +25,7 @@ Opens Print Management
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

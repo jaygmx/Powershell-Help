@@ -27,7 +27,7 @@ New-NuGetPackage [-ManifestPath] <String> [-NuspecPath] <String> [-NuspecBasePat
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

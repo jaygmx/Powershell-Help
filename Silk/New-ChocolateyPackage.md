@@ -27,7 +27,7 @@ New-ChocolateyPackage [-ManifestPath] <String> [-NuspecPath] <String> [-OutputDi
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

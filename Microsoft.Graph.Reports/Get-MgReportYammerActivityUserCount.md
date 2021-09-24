@@ -36,7 +36,7 @@ Invoke function getYammerActivityUserCounts
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

@@ -28,7 +28,7 @@ Metadata for the device configuration device activity report
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

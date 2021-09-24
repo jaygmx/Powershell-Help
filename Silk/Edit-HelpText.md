@@ -28,7 +28,7 @@ The command names or help topic names should be surrounded by backticks, e.g.
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

@@ -8,7 +8,7 @@ schema: 2.0.0
 # Save-Gist
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -26,7 +26,7 @@ Save-Gist [[-Path] <String>] [-Id] <String[]> [<CommonParameters>]
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

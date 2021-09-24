@@ -28,7 +28,7 @@ Invoke function getOffice365ActivationsUserCounts
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

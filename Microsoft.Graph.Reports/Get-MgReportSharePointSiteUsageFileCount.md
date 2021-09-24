@@ -36,7 +36,7 @@ Invoke function getSharePointSiteUsageFileCounts
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

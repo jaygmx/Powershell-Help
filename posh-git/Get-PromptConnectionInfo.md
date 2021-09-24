@@ -26,7 +26,7 @@ Get-PromptConnectionInfo [[-Format] <Object>]
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

@@ -26,7 +26,7 @@ Function is good for providing a clean printer enviroment when starting over or 
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

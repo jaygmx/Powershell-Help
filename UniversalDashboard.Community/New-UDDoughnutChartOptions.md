@@ -29,7 +29,7 @@ Additional option for doughnut and pie charts.
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

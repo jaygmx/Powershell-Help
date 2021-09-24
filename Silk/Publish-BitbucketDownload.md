@@ -28,7 +28,7 @@ If the file already exists on Bitbucket, nothing is uploaded.
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

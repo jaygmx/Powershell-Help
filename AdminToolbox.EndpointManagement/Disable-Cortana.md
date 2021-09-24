@@ -25,7 +25,7 @@ Simply disables Cortana Functionality
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

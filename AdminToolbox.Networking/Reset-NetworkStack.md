@@ -25,7 +25,7 @@ Resets the TCP/IP and Winsock Stacks
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

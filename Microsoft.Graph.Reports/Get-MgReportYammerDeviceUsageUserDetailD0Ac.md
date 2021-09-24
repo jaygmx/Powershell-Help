@@ -36,7 +36,7 @@ Invoke function getYammerDeviceUsageUserDetail
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

@@ -36,7 +36,7 @@ Invoke function getOffice365GroupsActivityStorage
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

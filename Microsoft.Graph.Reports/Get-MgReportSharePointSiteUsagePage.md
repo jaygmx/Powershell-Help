@@ -36,7 +36,7 @@ Invoke function getSharePointSiteUsagePages
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

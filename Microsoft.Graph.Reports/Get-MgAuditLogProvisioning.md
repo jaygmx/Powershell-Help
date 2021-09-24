@@ -46,7 +46,7 @@ Get provisioning from auditLogs
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

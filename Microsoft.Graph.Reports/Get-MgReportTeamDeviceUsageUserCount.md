@@ -36,7 +36,7 @@ Invoke function getTeamsDeviceUsageUserCounts
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

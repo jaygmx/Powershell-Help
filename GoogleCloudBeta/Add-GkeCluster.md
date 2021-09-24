@@ -8,7 +8,7 @@ schema: 2.0.0
 # Add-GkeCluster
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -22,7 +22,7 @@ schema: 2.0.0
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

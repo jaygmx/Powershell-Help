@@ -25,7 +25,7 @@ Return a list of Locked Active Directory Accounts
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

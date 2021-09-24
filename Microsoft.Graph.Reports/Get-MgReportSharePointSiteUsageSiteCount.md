@@ -36,7 +36,7 @@ Invoke function getSharePointSiteUsageSiteCounts
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

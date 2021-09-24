@@ -36,7 +36,7 @@ Invoke function getOffice365GroupsActivityCounts
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

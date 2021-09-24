@@ -25,7 +25,7 @@ Gets function for all AdminToolbox Modules
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

@@ -26,7 +26,7 @@ Get-Function [-Path] <Object> [<CommonParameters>]
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

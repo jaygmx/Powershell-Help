@@ -26,7 +26,7 @@ Import-WTTheme will import a valid scheme in JSON format from your clipboard
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

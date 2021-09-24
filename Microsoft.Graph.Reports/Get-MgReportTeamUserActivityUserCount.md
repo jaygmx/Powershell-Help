@@ -36,7 +36,7 @@ Invoke function getTeamsUserActivityUserCounts
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

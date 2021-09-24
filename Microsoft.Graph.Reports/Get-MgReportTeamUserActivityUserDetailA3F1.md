@@ -36,7 +36,7 @@ Invoke function getTeamsUserActivityUserDetail
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

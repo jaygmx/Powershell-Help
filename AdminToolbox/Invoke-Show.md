@@ -25,7 +25,7 @@ Gets functions for all AdminToolbox Modules and then allows selecting one for sh
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

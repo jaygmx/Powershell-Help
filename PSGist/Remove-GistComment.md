@@ -8,7 +8,7 @@ schema: 2.0.0
 # Remove-GistComment
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -26,7 +26,7 @@ Remove-GistComment [-Id] <String> [-CommentId] <String> [-WhatIf] [-Confirm] [<C
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

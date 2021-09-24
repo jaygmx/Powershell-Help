@@ -46,7 +46,7 @@ Yadda, yadda, yadda.
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

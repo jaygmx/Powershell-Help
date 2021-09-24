@@ -25,7 +25,7 @@ This command clears print queues for all printers
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

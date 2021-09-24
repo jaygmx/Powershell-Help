@@ -8,7 +8,7 @@ schema: 2.0.0
 # Get-ZLocation
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -26,12 +26,12 @@ Get-ZLocation [[-Match] <Object>]
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
 ### -Match
-{{ Fill Match Description }}
+
 
 ```yaml
 Type: System.Object

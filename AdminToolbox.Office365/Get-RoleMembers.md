@@ -26,7 +26,7 @@ It outputs the content to Excel tables.
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

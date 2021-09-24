@@ -37,7 +37,7 @@ Invoke function managedDeviceEnrollmentFailureDetails
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

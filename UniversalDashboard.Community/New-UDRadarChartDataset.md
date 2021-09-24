@@ -33,7 +33,7 @@ Creates a dataset for a radar chart.
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

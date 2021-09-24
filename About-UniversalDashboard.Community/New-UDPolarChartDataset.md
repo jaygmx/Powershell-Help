@@ -28,7 +28,7 @@ Polar area charts are similar to pie charts, but each segment has the same angle
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

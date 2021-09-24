@@ -37,7 +37,7 @@ Unlike most functions in the module it needs a local copy of Excel to be install
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

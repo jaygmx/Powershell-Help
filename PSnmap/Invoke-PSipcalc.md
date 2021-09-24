@@ -35,7 +35,7 @@ Invoke-PSipcalc [-NetworkAddress] <String[]> [[-Contains] <String>] [-Enumerate]
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

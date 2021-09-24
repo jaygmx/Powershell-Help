@@ -36,7 +36,7 @@ Invoke function getSharePointActivityFileCounts
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

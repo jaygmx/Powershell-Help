@@ -26,7 +26,7 @@ Publish-NuGetPackage [-NupkgPath] <String> [[-ApiKey] <Object>] [-WhatIf] [-Conf
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

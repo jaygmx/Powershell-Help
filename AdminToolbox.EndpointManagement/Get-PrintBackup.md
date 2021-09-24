@@ -26,7 +26,7 @@ The excel spreadsheet is saved to the local desktop.
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

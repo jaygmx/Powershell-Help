@@ -36,7 +36,7 @@ Invoke function getYammerGroupsActivityDetail
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

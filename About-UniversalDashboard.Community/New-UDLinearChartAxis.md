@@ -34,7 +34,7 @@ As the name suggests, linear interpolation is used to determine where a value li
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

@@ -25,7 +25,7 @@ Returns a list of Virtual Directories
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

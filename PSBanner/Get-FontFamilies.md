@@ -26,7 +26,7 @@ Get-FontFamilies
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

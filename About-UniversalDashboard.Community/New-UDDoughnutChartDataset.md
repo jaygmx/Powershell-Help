@@ -30,7 +30,7 @@ Use instead of New-UDChartDataset for doughnut charts with additional options.
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

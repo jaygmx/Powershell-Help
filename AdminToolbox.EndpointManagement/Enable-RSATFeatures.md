@@ -25,7 +25,7 @@ Enables Remote Server Administration Tools On Windows 10 PC's.
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

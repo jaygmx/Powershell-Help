@@ -8,7 +8,7 @@ schema: 2.0.0
 # Connect-MgGraph
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -41,7 +41,7 @@ Connect-MgGraph [[-AccessToken] <String>] [-Environment <String>] [-Break] [<Com
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

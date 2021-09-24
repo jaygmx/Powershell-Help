@@ -8,7 +8,7 @@ schema: 2.0.0
 # Remove-Gist
 
 ## SYNOPSIS
-{{ Fill in the Synopsis }}
+
 
 ## SYNTAX
 
@@ -26,7 +26,7 @@ Remove-Gist [-Id] <String[]> [-WhatIf] [-Confirm] [<CommonParameters>]
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

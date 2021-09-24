@@ -25,7 +25,7 @@ Run this command to rebuild an endpoints domain trust
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

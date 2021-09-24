@@ -36,7 +36,7 @@ Invoke function getSharePointActivityUserCounts
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

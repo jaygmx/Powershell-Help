@@ -28,7 +28,7 @@ If the related link is not a URL, the command name is converted to a link that p
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

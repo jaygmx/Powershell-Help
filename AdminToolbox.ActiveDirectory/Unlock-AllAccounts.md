@@ -25,7 +25,7 @@ Unlocks all Active Directory Accounts
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

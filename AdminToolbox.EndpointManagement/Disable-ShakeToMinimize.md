@@ -25,7 +25,7 @@ This function disables the annoying shake to minimize Windows feature
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

@@ -69,7 +69,7 @@ Would convert into a three item list, the first a link to the web, the second a 
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

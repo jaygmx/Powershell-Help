@@ -36,7 +36,7 @@ Invoke function getEmailActivityCounts
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

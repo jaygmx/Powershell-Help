@@ -25,7 +25,7 @@ Convert an Exchange Online Mailbox to a Shared Mailbox without the need of maint
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

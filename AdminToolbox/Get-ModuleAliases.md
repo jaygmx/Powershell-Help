@@ -25,7 +25,7 @@ Gets aliases for AdminToolbox Modules
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

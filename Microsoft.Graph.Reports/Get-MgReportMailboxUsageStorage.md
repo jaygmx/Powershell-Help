@@ -36,7 +36,7 @@ Invoke function getMailboxUsageStorage
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 

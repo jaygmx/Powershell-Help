@@ -25,7 +25,7 @@ Clears the local arp table
 PS C:\> 
 ```
 
-{{ Add example description here }}
+
 
 ## PARAMETERS
 
