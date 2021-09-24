@@ -8,12 +8,12 @@ Locale: en-US
 
 # PSFolderSize Module
 ## Description
-{{ Fill in the Description }}
+
 
 ## PSFolderSize Cmdlets
 ### [Get-FileReport](Get-FileReport.md)
-{{ Fill in the Description }}
+
 
 ### [Get-FolderSize](Get-FolderSize.md)
-{{ Fill in the Description }}
+
 

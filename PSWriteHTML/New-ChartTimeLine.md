@@ -18,13 +18,13 @@ New-ChartTimeLine [-Name] <String> [[-DateFrom] <DateTime>] [[-DateTo] <DateTime
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

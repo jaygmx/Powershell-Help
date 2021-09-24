@@ -22,7 +22,7 @@ This function disables the annoying shake to minimize Windows feature
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

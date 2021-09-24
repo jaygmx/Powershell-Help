@@ -25,13 +25,13 @@ Add-GceRoute [-Project <String>] [-Name] <String> [-DestinationIpRange] <String>
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

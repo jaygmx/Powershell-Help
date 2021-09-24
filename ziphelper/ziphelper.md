@@ -8,18 +8,18 @@ Locale: en-US
 
 # ziphelper Module
 ## Description
-{{ Fill in the Description }}
+
 
 ## ziphelper Cmdlets
 ### [Add-ArchiveItem](Add-ArchiveItem.md)
-{{ Fill in the Description }}
+
 
 ### [Expand-ArchiveItem](Expand-ArchiveItem.md)
-{{ Fill in the Description }}
+
 
 ### [Get-ArchiveItem](Get-ArchiveItem.md)
-{{ Fill in the Description }}
+
 
 ### [Remove-ArchiveItem](Remove-ArchiveItem.md)
-{{ Fill in the Description }}
+
 

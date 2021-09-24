@@ -33,7 +33,7 @@ For example, the colour of a line is generally set this way.
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

@@ -8,18 +8,18 @@ Locale: en-US
 
 # wd Module
 ## Description
-{{ Fill in the Description }}
+
 
 ## wd Cmdlets
 ### [Get-LocationBookmark](Get-LocationBookmark.md)
-{{ Fill in the Description }}
+
 
 ### [Remove-LocationBookmark](Remove-LocationBookmark.md)
-{{ Fill in the Description }}
+
 
 ### [Save-LocationBookmark](Save-LocationBookmark.md)
-{{ Fill in the Description }}
+
 
 ### [Set-LocationBookmarkAsPWD](Set-LocationBookmarkAsPWD.md)
-{{ Fill in the Description }}
+
 

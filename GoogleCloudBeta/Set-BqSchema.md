@@ -17,13 +17,13 @@ Set-BqSchema -InputObject <TableFieldSchema> [[-Table] <Table>] [<CommonParamete
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

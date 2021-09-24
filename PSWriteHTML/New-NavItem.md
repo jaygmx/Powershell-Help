@@ -38,13 +38,13 @@ New-NavItem [-Name <String>] [-Href <String>] [-InternalPageID <String>] -Type <
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

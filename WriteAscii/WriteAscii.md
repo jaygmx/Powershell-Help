@@ -8,9 +8,9 @@ Locale: en-US
 
 # WriteAscii Module
 ## Description
-{{ Fill in the Description }}
+
 
 ## WriteAscii Cmdlets
 ### [Write-Ascii](Write-Ascii.md)
-{{ Fill in the Description }}
+
 

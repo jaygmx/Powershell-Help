@@ -8,12 +8,12 @@ Locale: en-US
 
 # PSQuotes Module
 ## Description
-{{ Fill in the Description }}
+
 
 ## PSQuotes Cmdlets
 ### [Get-BrainyQuote](Get-BrainyQuote.md)
-{{ Fill in the Description }}
+
 
 ### [Get-DadJoke](Get-DadJoke.md)
-{{ Fill in the Description }}
+
 

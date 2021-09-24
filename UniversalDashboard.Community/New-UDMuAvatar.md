@@ -24,7 +24,7 @@ Creates a Material UI avatar.
 
 ### Example 1
 ```
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

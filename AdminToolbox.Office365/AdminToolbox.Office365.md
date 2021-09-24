@@ -8,36 +8,36 @@ Locale: en-US
 
 # AdminToolbox.Office365 Module
 ## Description
-{{ Fill in the Description }}
+
 
 ## AdminToolbox.Office365 Cmdlets
 ### [Connect-Office365](Connect-Office365.md)
-{{ Fill in the Description }}
+
 
 ### [Convert-MailboxToShared](Convert-MailboxToShared.md)
-{{ Fill in the Description }}
+
 
 ### [Get-AuthPolicy](Get-AuthPolicy.md)
-{{ Fill in the Description }}
+
 
 ### [Get-MFAStatus](Get-MFAStatus.md)
-{{ Fill in the Description }}
+
 
 ### [Get-Office365](Get-Office365.md)
-{{ Fill in the Description }}
+
 
 ### [Get-RoleMembers](Get-RoleMembers.md)
-{{ Fill in the Description }}
+
 
 ### [Invoke-Sync365](Invoke-Sync365.md)
-{{ Fill in the Description }}
+
 
 ### [New-AuthPolicy](New-AuthPolicy.md)
-{{ Fill in the Description }}
+
 
 ### [Set-AuthPolicy](Set-AuthPolicy.md)
-{{ Fill in the Description }}
+
 
 ### [Start-AzureSync](Start-AzureSync.md)
-{{ Fill in the Description }}
+
 

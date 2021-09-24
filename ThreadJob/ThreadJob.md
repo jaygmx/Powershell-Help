@@ -8,9 +8,9 @@ Locale: en-US
 
 # ThreadJob Module
 ## Description
-{{ Fill in the Description }}
+
 
 ## ThreadJob Cmdlets
 ### [Start-ThreadJob](Start-ThreadJob.md)
-{{ Fill in the Description }}
+
 

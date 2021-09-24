@@ -8,9 +8,9 @@ Locale: en-US
 
 # PSWindowsTerminal Module
 ## Description
-{{ Fill in the Description }}
+
 
 ## PSWindowsTerminal Cmdlets
 ### [Set-WTBackgroundImage](Set-WTBackgroundImage.md)
-{{ Fill in the Description }}
+
 

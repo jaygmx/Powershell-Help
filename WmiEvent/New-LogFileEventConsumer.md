@@ -30,7 +30,7 @@ New-LogFileEventConsumer -CimSession <CimSession[]> -Name <String> [-ThrottleLim
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

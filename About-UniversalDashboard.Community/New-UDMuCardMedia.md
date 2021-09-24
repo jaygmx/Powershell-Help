@@ -25,13 +25,13 @@ New-UDMuCardMedia [-Alt <String>] [-Component <String>] [-Height <String>] [-Id 
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

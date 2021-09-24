@@ -20,13 +20,13 @@ New-HTMLList [[-ListItems] <ScriptBlock>] [-Type <String>] [-Color <String>] [-B
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

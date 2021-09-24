@@ -19,13 +19,13 @@ New-UDMuCheckBox [[-Label] <String>] [[-Icon] <Object>] [[-CheckedIcon] <Object>
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

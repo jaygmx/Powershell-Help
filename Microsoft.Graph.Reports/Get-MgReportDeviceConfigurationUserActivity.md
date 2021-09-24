@@ -25,7 +25,7 @@ Metadata for the device configuration user activity report
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

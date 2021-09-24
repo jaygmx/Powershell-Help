@@ -22,7 +22,7 @@ Returns a list of Active Directory Accounts with expired passwords
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

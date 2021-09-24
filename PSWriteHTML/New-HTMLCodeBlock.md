@@ -19,13 +19,13 @@ New-HTMLCodeBlock [-Code] <String> [[-Style] <String>] [[-Theme] <String>] [[-Gr
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

@@ -27,7 +27,7 @@ This provides a slightly simpler way of setting syntax coloring options for mult
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

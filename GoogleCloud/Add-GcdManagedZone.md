@@ -18,13 +18,13 @@ Add-GcdManagedZone [-Project <String>] [-Name] <String> [-DnsName] <String> [[-D
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

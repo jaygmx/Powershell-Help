@@ -8,12 +8,12 @@ Locale: en-US
 
 # Microsoft.PowerShell.Host Module
 ## Description
-{{ Fill in the Description }}
+
 
 ## Microsoft.PowerShell.Host Cmdlets
 ### [Start-Transcript](Start-Transcript.md)
-{{ Fill in the Description }}
+
 
 ### [Stop-Transcript](Stop-Transcript.md)
-{{ Fill in the Description }}
+
 

@@ -23,7 +23,7 @@ The excel spreadsheet is saved to the local desktop.
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

@@ -8,9 +8,9 @@ Locale: en-US
 
 # PSModule Module
 ## Description
-{{ Fill in the Description }}
+
 
 ## PSModule Cmdlets
 ### [New-PSModule](New-PSModule.md)
-{{ Fill in the Description }}
+
 

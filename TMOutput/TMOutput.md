@@ -8,12 +8,12 @@ Locale: en-US
 
 # TMOutput Module
 ## Description
-{{ Fill in the Description }}
+
 
 ## TMOutput Cmdlets
 ### [Show-TMOutputColor](Show-TMOutputColor.md)
-{{ Fill in the Description }}
+
 
 ### [Write-TMOutput](Write-TMOutput.md)
-{{ Fill in the Description }}
+
 

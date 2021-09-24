@@ -27,7 +27,7 @@ Use instead of New-UDChartDataset for doughnut charts with additional options.
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

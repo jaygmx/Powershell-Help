@@ -8,12 +8,12 @@ Locale: en-US
 
 # Microsoft.PowerShell.Archive Module
 ## Description
-{{ Fill in the Description }}
+
 
 ## Microsoft.PowerShell.Archive Cmdlets
 ### [Compress-Archive](Compress-Archive.md)
-{{ Fill in the Description }}
+
 
 ### [Expand-Archive](Expand-Archive.md)
-{{ Fill in the Description }}
+
 

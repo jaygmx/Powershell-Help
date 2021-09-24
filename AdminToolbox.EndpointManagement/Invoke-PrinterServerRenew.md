@@ -23,7 +23,7 @@ Function is good for providing a clean printer enviroment when starting over or 
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

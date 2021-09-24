@@ -17,13 +17,13 @@ Get-GcpsSubscription [-Project <String>] [[-Subscription] <String[]>] [-Topic <S
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

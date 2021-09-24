@@ -8,33 +8,33 @@ Locale: en-US
 
 # oh-my-posh Module
 ## Description
-{{ Fill in the Description }}
+
 
 ## oh-my-posh Cmdlets
 ### [Export-PoshImage](Export-PoshImage.md)
-{{ Fill in the Description }}
+
 
 ### [Export-PoshTheme](Export-PoshTheme.md)
-{{ Fill in the Description }}
+
 
 ### [Get-PoshInfoForV2Users](Get-PoshInfoForV2Users.md)
-{{ Fill in the Description }}
+
 
 ### [Get-PoshThemes](Get-PoshThemes.md)
-{{ Fill in the Description }}
+
 
 ### [Initialize-ModuleSupport](Initialize-ModuleSupport.md)
-{{ Fill in the Description }}
+
 
 ### [prompt](prompt.md)
-{{ Fill in the Description }}
+
 
 ### [Set-PoshContext](Set-PoshContext.md)
-{{ Fill in the Description }}
+
 
 ### [Set-PoshPrompt](Set-PoshPrompt.md)
-{{ Fill in the Description }}
+
 
 ### [Write-PoshDebug](Write-PoshDebug.md)
-{{ Fill in the Description }}
+
 

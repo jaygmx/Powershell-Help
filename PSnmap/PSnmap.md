@@ -8,12 +8,12 @@ Locale: en-US
 
 # PSnmap Module
 ## Description
-{{ Fill in the Description }}
+
 
 ## PSnmap Cmdlets
 ### [Invoke-PSipcalc](Invoke-PSipcalc.md)
-{{ Fill in the Description }}
+
 
 ### [Invoke-PSnmap](Invoke-PSnmap.md)
-{{ Fill in the Description }}
+
 

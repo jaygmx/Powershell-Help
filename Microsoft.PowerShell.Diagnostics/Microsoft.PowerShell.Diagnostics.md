@@ -8,15 +8,15 @@ Locale: en-US
 
 # Microsoft.PowerShell.Diagnostics Module
 ## Description
-{{ Fill in the Description }}
+
 
 ## Microsoft.PowerShell.Diagnostics Cmdlets
 ### [Get-Counter](Get-Counter.md)
-{{ Fill in the Description }}
+
 
 ### [Get-WinEvent](Get-WinEvent.md)
-{{ Fill in the Description }}
+
 
 ### [New-WinEvent](New-WinEvent.md)
-{{ Fill in the Description }}
+
 

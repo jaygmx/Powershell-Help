@@ -45,13 +45,13 @@ Add-GcsObjectAcl [-Bucket] <String> [-ObjectName] <String> -Role <String> [-AllA
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

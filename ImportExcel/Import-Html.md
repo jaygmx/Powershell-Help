@@ -18,13 +18,13 @@ Import-Html [[-Url] <Object>] [[-Index] <Object>] [[-Header] <Object>] [[-FirstD
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

@@ -24,7 +24,7 @@ Colors can be used for either the ForegroundColor or BackgroundColor parameter o
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

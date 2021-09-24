@@ -8,33 +8,33 @@ Locale: en-US
 
 # AdminToolbox.FFTools Module
 ## Description
-{{ Fill in the Description }}
+
 
 ## AdminToolbox.FFTools Cmdlets
 ### [Get-FFTools](Get-FFTools.md)
-{{ Fill in the Description }}
+
 
 ### [Get-Streams](Get-Streams.md)
-{{ Fill in the Description }}
+
 
 ### [Get-Tips](Get-Tips.md)
-{{ Fill in the Description }}
+
 
 ### [Install-FFTools](Install-FFTools.md)
-{{ Fill in the Description }}
+
 
 ### [Set-FFToolsVariables](Set-FFToolsVariables.md)
-{{ Fill in the Description }}
+
 
 ### [Start-BurnSubtitles](Start-BurnSubtitles.md)
-{{ Fill in the Description }}
+
 
 ### [Start-Remux](Start-Remux.md)
-{{ Fill in the Description }}
+
 
 ### [Start-Transcode](Start-Transcode.md)
-{{ Fill in the Description }}
+
 
 ### [Start-TranscodeMap](Start-TranscodeMap.md)
-{{ Fill in the Description }}
+
 

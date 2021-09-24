@@ -18,13 +18,13 @@ New-UDMuCardToolbar [[-Id] <String>] [[-ClassName] <String>] [[-Content] <Script
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

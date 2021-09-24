@@ -18,13 +18,13 @@ Write-Banner [-InputObject] <PSObject> [-FontName <String>] [-FontSize <Int32>] 
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

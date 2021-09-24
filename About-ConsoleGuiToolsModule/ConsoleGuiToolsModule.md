@@ -8,9 +8,9 @@ Locale: en-US
 
 # ConsoleGuiToolsModule Module
 ## Description
-{{ Fill in the Description }}
+
 
 ## ConsoleGuiToolsModule Cmdlets
 ### [Out-ConsoleGridView](Out-ConsoleGridView.md)
-{{ Fill in the Description }}
+
 

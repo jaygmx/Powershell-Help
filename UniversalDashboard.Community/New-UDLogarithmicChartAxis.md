@@ -28,7 +28,7 @@ As the name suggests, logarithmic interpolation is used to determine where a val
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

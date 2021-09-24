@@ -8,9 +8,9 @@ Locale: en-US
 
 # Microsoft.PowerShell.ConsoleGuiTools Module
 ## Description
-{{ Fill in the Description }}
+
 
 ## Microsoft.PowerShell.ConsoleGuiTools Cmdlets
 ### [Out-ConsoleGridView](Out-ConsoleGridView.md)
-{{ Fill in the Description }}
+
 

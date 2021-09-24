@@ -22,7 +22,7 @@ Unlocks all Active Directory Accounts
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

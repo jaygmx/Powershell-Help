@@ -8,18 +8,18 @@ Locale: en-US
 
 # 7Zip4Powershell Module
 ## Description
-{{ Fill in the Description }}
+
 
 ## 7Zip4Powershell Cmdlets
 ### [Compress-7Zip](Compress-7Zip.md)
-{{ Fill in the Description }}
+
 
 ### [Expand-7Zip](Expand-7Zip.md)
-{{ Fill in the Description }}
+
 
 ### [Get-7Zip](Get-7Zip.md)
-{{ Fill in the Description }}
+
 
 ### [Get-7ZipInformation](Get-7ZipInformation.md)
-{{ Fill in the Description }}
+
 

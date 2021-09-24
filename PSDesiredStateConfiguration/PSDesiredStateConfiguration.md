@@ -8,18 +8,18 @@ Locale: en-US
 
 # PSDesiredStateConfiguration Module
 ## Description
-{{ Fill in the Description }}
+
 
 ## PSDesiredStateConfiguration Cmdlets
 ### [Configuration](Configuration.md)
-{{ Fill in the Description }}
+
 
 ### [Get-DscResource](Get-DscResource.md)
-{{ Fill in the Description }}
+
 
 ### [Invoke-DscResource](Invoke-DscResource.md)
-{{ Fill in the Description }}
+
 
 ### [New-DscChecksum](New-DscChecksum.md)
-{{ Fill in the Description }}
+
 

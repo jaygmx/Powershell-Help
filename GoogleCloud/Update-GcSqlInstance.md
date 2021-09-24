@@ -35,13 +35,13 @@ Update-GcSqlInstance [-SettingsVersion] <Int64> -InstanceObject <DatabaseInstanc
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

@@ -8,21 +8,21 @@ Locale: en-US
 
 # PSDocs Module
 ## Description
-{{ Fill in the Description }}
+
 
 ## PSDocs Cmdlets
 ### [Document](Document.md)
-{{ Fill in the Description }}
+
 
 ### [Get-PSDocument](Get-PSDocument.md)
-{{ Fill in the Description }}
+
 
 ### [Get-PSDocumentHeader](Get-PSDocumentHeader.md)
-{{ Fill in the Description }}
+
 
 ### [Invoke-PSDocument](Invoke-PSDocument.md)
-{{ Fill in the Description }}
+
 
 ### [New-PSDocumentOption](New-PSDocumentOption.md)
-{{ Fill in the Description }}
+
 

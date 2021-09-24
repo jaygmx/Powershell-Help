@@ -26,13 +26,13 @@ New-UDMuTypography [-Align <String>] [-ClassName <String>] [-GutterBottom] [-Id 
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

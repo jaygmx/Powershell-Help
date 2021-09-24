@@ -31,13 +31,13 @@ New-GceDisk [-Project <String>] [-Zone <String>] [-DiskName] <String> [-Descript
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

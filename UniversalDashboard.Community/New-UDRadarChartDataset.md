@@ -30,7 +30,7 @@ Creates a dataset for a radar chart.
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

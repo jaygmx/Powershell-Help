@@ -44,13 +44,13 @@ Add-GcsBucketAcl [-Name] <String> -Role <String> [-AllAuthenticatedUsers] [<Comm
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

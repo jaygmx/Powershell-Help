@@ -24,7 +24,7 @@ ConvertTo-JsonEx [-InputObject] <Object> [-Depth <Int32>] [-Compress] [-EnumsAsS
 
 ### Example 1
 ```
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

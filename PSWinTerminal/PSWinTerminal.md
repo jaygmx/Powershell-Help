@@ -8,21 +8,21 @@ Locale: en-US
 
 # PSWinTerminal Module
 ## Description
-{{ Fill in the Description }}
+
 
 ## PSWinTerminal Cmdlets
 ### [Get-WTTheme](Get-WTTheme.md)
-{{ Fill in the Description }}
+
 
 ### [Import-WTTheme](Import-WTTheme.md)
-{{ Fill in the Description }}
+
 
 ### [Restore-WTConfig](Restore-WTConfig.md)
-{{ Fill in the Description }}
+
 
 ### [Set-WTTheme](Set-WTTheme.md)
-{{ Fill in the Description }}
+
 
 ### [Show-WTTheme](Show-WTTheme.md)
-{{ Fill in the Description }}
+
 

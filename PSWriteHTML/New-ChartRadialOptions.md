@@ -35,13 +35,13 @@ New-ChartRadialOptions [-StartAngle <Int32>] [-EndAngle <Int32>] [-HollowBackGro
 ```
 
 ## DESCRIPTION
-{{ Fill in the Description }}
+
 
 ## EXAMPLES
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}

@@ -8,12 +8,12 @@ Locale: en-US
 
 # PSBanner Module
 ## Description
-{{ Fill in the Description }}
+
 
 ## PSBanner Cmdlets
 ### [Get-FontFamilies](Get-FontFamilies.md)
-{{ Fill in the Description }}
+
 
 ### [Write-Banner](Write-Banner.md)
-{{ Fill in the Description }}
+
 

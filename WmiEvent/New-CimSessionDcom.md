@@ -21,7 +21,7 @@ New-CimSessionDcom [-ComputerName <String[]>] [-Credential <PSCredential>] [<Com
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+PS C:\> 
 ```
 
 {{ Add example description here }}
