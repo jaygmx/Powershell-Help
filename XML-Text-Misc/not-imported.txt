@@ -1,0 +1,3 @@
+AppxGet
+ComputerManagementDsc
+NetworkingDsc
